@@ -1,0 +1,9 @@
+Procedure for Scraping CIA PDF data
+
+1. Download PDF from source
+2. Convert PDF to txt using online tool
+3. Run txtClean.py on txt file
+4. Scan through PDF and txt file to fix any weird issues
+5. Run pdfScrape.py on txt file (don't forget to change necessary fields in .py)
+6. Skim through csv file to fix any weird issues
+7. Convert to xlsx using online tool
