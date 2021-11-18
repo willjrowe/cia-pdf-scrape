@@ -1,0 +1,5825 @@
+﻿First Name,ga_first_name,ga_gender,ga_accuracy,ga_samples
+Ashraf,Ashraf,male,100,16
+Abdullah,Abdullah,male,99,154
+Abdul Rashid,Abdul Rashid,male,100,2
+Sarwar,Sarwar,male,100,10
+Khyal Mohammad,Mohammad,male,98,365
+Nasir Ahmad,Nasir Ahmad,male,100,14
+Gul Agha,Gul Agha,male,92,24
+Ajmal,Ajmal,male,98,119
+Salamat,Salamat,male,75,4
+Asadullah,Asadullah,male,98,56
+Mohammad Mustafa,Mohammad Mustafa,male,100,10
+Mohammad Mirwais,Mohammad Mirwais,male,99,457
+Tahir,Tahir,male,100,16
+Mohammad Humayun,Mohammad Humayun,male,98,373
+Salahuddin,Salahuddin,male,100,9
+Faiz Mohammad,Faiz Mohammad,male,98,377
+Abdul Tawab,Abdul Tawab,male,98,213
+Hasina,Hasina,female,100,6
+Mohammad Masood,Mohammad Masood,male,99,413
+Abdul Basir,Abdul Basir,male,100,8
+Sayed Anwar,Sayed Anwar,male,99,164
+Nargis,Nargis,female,100,11
+Faruq,Faruq,male,75,4
+Ferozuddin,Ferozuddin,male,100,3
+Sayed Hussain Alemi,Sayed Hussain,male,99,190
+Mujib Rahman,Mujib Rahman,male,95,20
+Fahim,Fahim,male,97,92
+Ghulam Nabi,Ghulam Nabi,male,100,2
+Yama,Yama,male,100,56
+Jawad,Jawad,male,100,76
+Dilbar,Dilbar,male,56,86
+Mohammad Farid,Mohammad Farid,male,99,470
+Hamdullah,Hamdullah,male,100,3
+Mohammad Masoom,Mohammad,male,98,365
+Abdul Matin,Abdul Matin,male,100,5
+NA,Na,unknown,50,2
+Roya,Roya,female,86,7
+Adela,Adela,female,100,6
+Ilir,Ilir,male,97,727
+Edi,Edi,male,97,385
+Senida,Senida,female,98,42
+Niko,Niko,male,97,105
+Mirela,Mirela,female,97,78
+Olta,Olta,female,96,57
+Pandeli,Pandeli,male,100,5
+Milva,Milva,female,98,179
+Lindita,Lindita,female,96,56
+Lefter,Lefter,male,100,15
+Ditmir,Ditmir,male,100,12
+Arben,Arben,male,95,586
+Orgerta,Orgerta,female,75,4
+Damian,Damian,male,100,5
+Milena,Milena,female,100,8
+Klajda,Klajda,female,75,4
+Fatmir,Fatmir,male,96,299
+Etilda,,,,
+Bled,Bled,male,100,25
+Sonila,Sonila,female,100,86
+Ermonela,Ermonela,female,100,2
+Blendi,Blendi,male,97,91
+Edmond,Edmond,male,100,200
+Eglantina,Eglantina,female,89,19
+Gent,Gent,male,98,88
+Floreta,Floreta,female,100,2
+Besiana,Besiana,female,100,25
+Abdelaziz,Abdelaziz,male,99,335
+Ahmed,Ahmed,male,98,7102
+Abdelkader,Abdelkader,male,98,1593
+Said,Said,male,98,3699
+Djamel,Djamel,male,98,5273
+Azzedine,Azzedine,male,98,625
+Mustapha,Mustapha,male,98,2682
+Fatma Zohra,Fatma Zohra,female,96,27
+Abderrahmane,Abderrahmane,male,99,646
+Mokhtar,Mokhtar,male,98,893
+Tahar,Tahar,male,97,1170
+Abdelwahid,Abdelwahid,male,100,10
+Youcef,Youcef,male,98,5049
+Nouredine,Nouredine,male,99,244
+Tayeb,Tayeb,male,98,723
+Mourad,Mourad,male,98,5302
+Ahmad,Ahmad,male,94,194
+Nouria,Nouria,female,100,46
+Ghania,Ghania,female,98,152
+Iman Houda,Iman Houda,female,96,1081
+Abdelghani,Abdelghani,male,98,468
+Mahdjoub,Mahdjoub,male,93,15
+Mohamed,Mohamed,male,98,16231
+Hocine,Hocine,male,98,2412
+Madjid,Madjid,male,98,1236
+Sabri,Sabri,male,94,411
+Emmanuel,Emmanuel,male,100,2
+Joan-Enric  i,Joan-Enric,male,98,99
+Antoni  Petit,Antoni Petit,male,100,9
+Eva  Garcia,Eva,female,100,39
+Olga,Olga,female,92,12
+Eric,Eric,male,100,27
+Silvia,Silvia,female,100,38
+Jordi  Mateos,Jordi,male,99,114
+Gilbert  Sunye,Gilbert  Sunye,male,98,10405
+Carles,Carles,male,96,23
+Xavier  Zamora,Xavier,male,100,22
+Jordi,Jordi,male,99,114
+Francesc  Torres,Francesc,male,100,16
+Elisenda,Elisenda,female,100,3
+Joao Manuel Goncalves,Joao Manuel Goncalves,male,99,3114
+Bornito De Sousa Baltazar,de Sousa Baltazar,male,89,124
+Antonio Francisco de,Antonio Francisco De,male,98,2671
+Joffre Van-Dunem,Joffre Van-Dunem,male,100,8
+Carolina,Carolina,female,96,84
+Manuel Neto da,Manuel Neto Da,male,99,1870
+Ana Paula,Ana Paula,female,98,88
+Joao Baptista,Joao Baptista,male,100,22
+Paula Cristina Francisco,Paula Cristina Francisco,male,65,1789
+Manuel Domingos,Manuel Domingos,male,100,20
+Victoria Francisco Correia,Victoria Francisco Correia,male,93,1269
+Vera,Vera,female,96,70
+Victoria Christopher Francisco Lopes de Barros,Victoria Christopher Francisco Lopes de Barros,male,93,1374
+Joao Ernesto,Joao Ernesto,male,98,1528
+Silvia Paula Valentim,Silvia Paula Valentim,female,93,646
+Maria Do Rosario Braganca,Maria Do Rosario,female,88,916
+Maria Angela Teixeira De Alva Sequeira,Maria Angela Teixeira de Sequeira,female,95,990
+Bernarda Goncalves Martins Henriques,Bernarda Goncalves Martins Henriques,male,89,203
+Eugenio Cesar,Eugenio Cesar,male,100,257
+Francisco Manuel Monteiro,Francisco Manuel Monteiro,male,99,2970
+Diamantino Pedro,Diamantino Pedro,male,99,1879
+Salviano de Jesus,de Jesus,male,95,141
+Rosa Luis de Sousa,Rosa Luis de Sousa,male,78,1469
+Antonio Rodrigues Afonso,Antonio Rodrigues Afonso,male,98,1932
+Maria Candida,Maria Candida,female,98,841
+Nuno dos Anjos Caldas,Nuno Dos,male,98,422
+Pedro,Pedro,male,99,1846
+Jose Carvalho,Jose Carvalho,male,100,2
+Ana Paula Chantre Luna,Ana Paula Luna,female,98,1215
+Ricardo Daniel Sandao Viegas de,Ricardo Daniel Viegas De,male,98,1246
+Branca Manuel da Costa Neto do,Branca Manuel Da Costa Neto Do,male,97,1992
+Ana Paula Sacramento,Ana Paula Sacramento,female,98,1206
+Frederico Manuel Dos Santos e Silva,Frederico Manuel Dos Santos Silva,male,98,2169
+Manuel Jose Nunes,Manuel Jose Nunes,male,99,3445
+Jose de Lima,Jose de Lima,male,98,1644
+Helder Fernando Pitta,Helder Fernando,male,99,1755
+Joaquim do,Joaquim Do,male,99,689
+Maria de Jesus dos Reis,Maria de Jesus Dos Reis,female,81,992
+Rodney,Rodney,male,99,5408
+Gaston,Gaston,male,98,4028
+Lester,Lester,male,99,4951
+Dean,Dean,male,75,4
+Michael,Michael,male,100,13
+Paul,Paul,male,75,4
+Molwyn,,,,
+Maria,Maria,female,83,6
+Melford,Melford,male,100,32
+Steadroy,Steadroy,male,100,2
+Robin,Robin,male,75,32295
+Samantha Nicole,Samantha Nicole,female,75,4
+Daryll,Daryll,male,75,4
+Charles,Charles,male,100,2
+Lennox,Lennox,male,75,4
+Ronald,Ronald,male,100,2
+Walton Alfonso,Walton Alfonso,male,99,24808
+Alberto,Alberto,male,100,914
+Cristina,Cristina,female,99,776
+Santiago,Santiago,male,100,1694
+Luis,Luis,male,100,2064
+Tristan,Tristan,male,86,7
+Agustin,Agustin,male,100,1415
+Martin,Martin,male,99,2957
+Nicolas,Nicolas,male,99,2470
+Juan,Juan,male,99,3049
+Felipe,Felipe,male,99,271
+Gines,Gines,male,100,6
+Eduardo,Eduardo,male,99,1517
+Marcela,Marcela,female,98,1148
+Claudio,Claudio,male,100,1320
+Matias,Matias,male,100,3217
+Gabriel,Gabriel,male,100,2341
+Roberto,Roberto,male,99,1290
+Sabina,Sabina,female,100,35
+Daniel,Daniel,male,100,3399
+Maria Eugenia,Maria Eugenia,female,98,304
+Mario,Mario,male,99,1127
+Elizabeth,Elizabeth,female,99,459
+Miguel Angel,Miguel Angel,male,100,556
+Fernando,Fernando,male,100,2848
+Armen,Armen,male,99,718
+Nikol,Nikol,male,75,4
+Tigran,Tigran,male,100,376
+Mher,Mher,male,99,95
+Eduard,Eduard,male,100,76
+Davit,Davit,male,100,156
+Arayik,Arayik,male,100,21
+Feliks,Feliks,male,100,3
+Erik,Erik,male,99,85
+Atom,Atom,male,100,3
+Zohrab,Zohrab,male,100,9
+Arsen,Arsen,male,100,239
+Hakob,Hakob,male,100,103
+Rustam,Rustam,male,100,2
+Zaruhi,Zaruhi,female,100,11
+Suren,Suren,male,99,108
+Artur,Artur,male,99,528
+Varuzhan,Varuzhan,male,100,7
+Fredis,Fredis,male,90,39
+Michiel Godfried,Michiel Godfried,male,99,1877
+Michelle,Michelle,female,100,6
+Mike,Mike,male,100,2
+Benny,Benny,male,94,11422
+Arthur,Arthur,male,100,2
+Richard,Richard,male,100,7
+Otmar,Otmar,male,99,244
+Taco,Taco,male,88,303
+J.,J.,male,82,2236
+David John,David John,male,100,7567
+Scott,Scott,male,100,1287
+Bridget,Bridget,female,98,91
+Linda,Linda,female,98,523
+Melissa,Melissa,female,99,722
+Dan,Dan,male,98,595
+Michaelia,Michaelia,female,94,16
+Angus,Angus,male,100,207
+Sussan,Sussan,female,100,4
+Anne,Anne,female,98,364
+Mathias Hubert Paul,Mathias Hubert Paul,male,100,2723
+Marise,Marise,female,100,2
+Stuart,Stuart,male,100,489
+Gregory Andrew,Gregory Andrew,male,100,3318
+Peter Craig,Peter Craig,male,100,4066
+David,David,male,100,4352
+Ken,Ken,male,100,405
+Christian,Christian,male,100,48300
+Karen,Karen,female,99,886
+Alex,Alex,male,89,1549
+Alan,Alan,male,100,609
+Mark,Mark,male,100,48064
+Matt,Matt,male,100,1608
+Simon,Simon,male,100,1366
+Darren,Darren,male,100,659
+Greg,Greg,male,100,924
+Josh,Josh,male,100,819
+Philip,Philip,male,100,390
+Joseph  Joe  Benedict,Joseph Joe Benedict,male,100,984
+Mitchell Peter,Mitchell Peter,male,100,3391
+Alexander,Alexander,male,99,1698
+Brigitte,Brigitte,female,98,603
+Clemens,Clemens,male,100,232
+Thomas,Thomas,male,100,4185
+Elisabeth,Elisabeth,female,99,781
+Iris Eliisa,Iris Eliisa,female,96,266
+Wolfgang,Wolfgang,male,99,1765
+Andreas,Andreas,male,98,3012
+Ines,Ines,female,99,198
+Ewald,Ewald,male,99,160
+Jan,Jan,male,98,390
+Ilham,Ilham,male,98,271
+Mehriban,Mehriban,female,94,87
+Ali,Ali,male,99,921
+Yaqub,Yaqub,male,100,20
+Shahin,Shahin,male,98,244
+Inam,Inam,male,100,3
+Abulfaz,Abulfaz,male,100,21
+Zakir,Zakir,male,98,61
+Madat,Madat,male,100,5
+Mukhtar,Mukhtar,male,75,4
+Mikayil,Mikayil,male,100,41
+Jeyhun,Jeyhun,male,100,82
+Kamaladdin,Kamaladdin,male,100,4
+Parviz,Parviz,male,99,144
+Samir,Samir,male,99,1126
+Elmar,Elmar,male,100,257
+Oqtay,Oqtay,male,100,16
+Vilayat,Vilayat,male,100,4
+Fikret,Fikret,male,97,59
+Sahil,Sahil,male,94,53
+Azad,Azad,male,98,228
+Ramin,Ramin,male,99,555
+Elman,Elman,male,100,154
+Elin,Elin,male,100,5
+Yashar,Yashar,male,100,89
+Hubert,Hubert,male,98,8761
+Peter,Peter,male,99,146529
+Renward,Renward,male,100,2
+Jeffrey,Jeffrey,male,100,19324
+Romauld,Romauld,male,83,6
+Brent,Brent,male,100,7215
+Duane,Duane,male,98,2439
+Dion,Dion,male,97,6266
+Marvin,Marvin,male,99,11426
+Brensil,,,,
+Lanisha,Lanisha,female,100,41
+Dionisio,Dionisio,male,98,1006
+Frankie,Frankie,male,80,4367
+Desmond,Desmond,male,100,14594
+James Kwasi,James Kwasi,male,99,132480
+Elsworth,Elsworth,male,100,5
+Wendy,Wendy,female,96,26404
+Sidney Stanley,Sidney Stanley,male,96,17594
+Sheila,Sheila,female,98,15031
+bin Isa Al Khalifa,Bin Isa Al Khalifa,male,94,456
+bin Salman Al Khalifa,Bin Salman Al Khalifa,male,95,561
+bin Hamad Al Khalifa,Bin Hamad Al Khalifa,male,95,622
+bin Khalifa bin Salman Al Khalifa,Bin Khalifa Bin Salman Al Khalifa,male,96,683
+Jawad bin Salim al,Jawad Bin Salim Al,male,88,222
+bin Abdallah Al Khalifa,Bin Abdallah Al Khalifa,male,90,259
+bin Mubarak Al Khalifa,Bin Mubarak Al Khalifa,male,91,286
+Yusuf bin Ahmad bin Husayn al,Yusuf Bin Ahmad Bin Al,male,92,433
+Majid bin Ali Hasan al,Majid Bin Ali Hasan Al,male,98,2543
+Abd al-Husayn,Abd,male,100,13
+bin Muhammad bin Hamad bin Abdallah Al Khalifa,Bin Muhammad Bin Hamad Bin Abdallah Al Khalifa,male,96,789
+bin Ahmad bin Muhammad Al Khalifa,Bin Ahmad Bin Muhammad Al Khalifa,male,95,623
+bint Said al-Salih,Bint Said,male,64,22
+Basim bin Yacub al,Basim Bin Al,male,84,152
+Zayid bin Rashid al,Bin Rashid Al,male,90,274
+Ali bin Muhammad al,Ali Bin Muhammad Al,male,98,2460
+bin Abdallah bin Ahmad Al Khalifa,Bin Abdallah Bin Ahmad Al Khalifa,male,93,490
+bin Ali Al Khalifa,Bin Ali Al Khalifa,male,97,2432
+Jamil Muhammad Ali,Jamil Muhammad Ali,male,98,2324
+bin Ahmad bin Salman Al Khalifa,Bin Ahmad Bin Salman Al Khalifa,male,96,792
+Al Khalifa,Al Khalifa,male,89,242
+bin Isa bin Salman Al Khalifa,Bin Isa Bin Salman Al Khalifa,male,96,775
+Ghanim bin Fadhil al,Ghanim Bin Fadhil Al,male,83,147
+bin Ahmad Muhammad,Bin Ahmad Muhammad,male,98,370
+bin Abdallah Khalaf,Bin Abdallah,male,100,17
+bin Fadhil al-Buaynayn,Bin Fadhil,male,100,13
+Rashid bin Muhammad al,Rashid Bin Muhammad Al,male,93,413
+Abdulla bin Rashid,Abdulla Bin Rashid,male,98,776
+Jamal Faris al,Jamal Faris Al,male,90,253
+Abdul,Abdul,male,99,909
+Sheikh,Sheikh,male,98,286
+Matia,Matia,male,77,197
+Rashed Khan,Rashed Khan,male,100,4
+Tofail,Tofail,male,100,10
+Asaduzzaman,Asaduzzaman,male,100,141
+Mofazzal Hossain Chowdhury,Mofazzal Hossain Chowdhury,male,99,332
+Nurul Islam,Nurul Islam,male,100,11
+Anwar Hossain,Anwar Hossain,male,100,14
+Nurul,Nurul,male,99,279
+Abu Maal Abdul,Abu Abdul,male,99,1652
+Sayedul,Sayedul,male,100,11
+Qamrul,Qamrul,male,100,7
+Mahmood,Mahmood,male,100,43
+Mohammad,Mohammad,male,99,1632
+Asaduzzaman Khan,Asaduzzaman Khan,male,97,349
+Mosharraf,Mosharraf,male,97,31
+Amir Hossain,Amir Hossain,male,100,11
+Hasanul Haq,Hasanul Haq,male,100,42
+Mujibul Haque,Mujibul Haque,male,92,26
+Shamsur Rahman,Shamsur Rahman,male,95,153
+Anisul,Anisul,male,100,36
+Mojammel,Mojammel,male,100,17
+Khandker Mosharraf,Khandker Mosharraf,male,98,44
+Mostafa,Mostafa,male,99,136
+Mustafizur Rahman,Mustafizur Rahman,male,100,10
+Syed Ashraful,Syed Ashraful,male,100,2
+Mujibul,Mujibul,male,100,5
+Motiur,Motiur,male,98,56
+Obaidul,Obaidul,male,100,32
+Moshiur Rahman,Moshiur Rahman,male,100,20
+Yeafesh,,,,
+Shahjahan,Shahjahan,male,100,71
+Syed Mohsin,Syed Mohsin,male,100,638
+Emajuddin,,,,
+Anisul Islam,Anisul Islam,male,100,4
+Atiur,Atiur,male,100,4
+Masud Bin,Masud Bin,male,100,804
+Sandra,Sandra,female,100,6
+Mia,Mia,female,100,3
+Indar,Indar,male,71,133
+John,John,male,96,25
+Santia,Santia,female,84,51
+Wilfred,Wilfred,male,99,1812
+Trevor,Trevor,male,100,5
+Jerome,Jerome,male,100,5
+Edmund,Edmund,male,75,4
+George,George,male,100,8
+Lucille,Lucille,female,75,4
+Kay,Kay,female,75,4
+Colin,Colin,male,100,4
+Dale,Dale,male,90,10
+Kirk,Kirk,male,100,5
+Cynthia,Cynthia,female,100,2
+Dwight,Dwight,male,100,4
+Kerrie,Kerrie,female,100,2
+William,William,male,100,14
+Adrian,Adrian,male,100,25
+DeLisle,Delisle,male,60,10
+Selwin Charles,Charles,male,100,12
+Keith Hamilton Llewellyn,Keith,male,100,7
+Aleksandr,Aleksandr,male,100,236
+Sergey,Sergey,male,100,774
+Vladimir,Vladimir,male,99,384
+Igor,Igor,male,100,441
+Anatoliy,Anatoliy,male,100,20
+Dmitry,Dmitry,male,100,577
+Konstantin,Konstantin,male,100,95
+Yuriy,Yuriy,male,97,32
+Andrey,Andrey,male,100,529
+Viktor,Viktor,male,99,196
+Maksim,Maksim,male,99,172
+Vitaliy,Vitaliy,male,100,60
+Pavel,Pavel,male,100,609
+Oleg,Oleg,male,100,520
+Irina,Irina,female,98,629
+Aleksey,Aleksey,male,100,105
+Natalya,Natalya,female,100,62
+Valeriy,Valeriy,male,100,11
+Valentin,Valentin,male,98,49
+Philippe,Philippe,male,99,5802
+Charles Yvon,Charles Yvon,male,98,1035
+Kris,Kris,male,90,1683
+Didier,Didier,male,99,3072
+Sophie,Sophie,female,98,3201
+Philippe,Philippe,male,99,5802
+Marie-Christine,Marie-Christine,female,98,272
+Koen,Koen,male,100,2016
+Pieter,Pieter,male,99,1473
+Denis,Denis,male,97,1132
+Maggie,Maggie,female,98,40
+Francois,Francois,male,98,1126
+Dirk,Dirk,male,99,3034
+Marc Pecsteen,Marc,male,98,7446
+Colville Nobert,Colville Nobert,male,100,144
+Dean Oliver,Dean,female,75,4
+Patrick,Patrick,male,100,4
+Godwin,Godwin,male,75,4
+Erwin,Erwin,male,75,4
+Wilfred Peter,Peter,male,100,3
+Pablo,Pablo,male,100,4
+Anthony,Anthony,male,100,5
+Hugo,Hugo,male,75,4
+John Birchman,John,male,100,10
+Frank,Frank,male,75,4
+Jose Manuel,Jose Manuel,male,100,40
+Rene,Rene,male,75,4
+Joy,Joy,female,100,6
+Lois,Lois,female,80,2842
+Patrice,Patrice,male,100,128
+Delphin,Delphin,male,98,42
+Barnabe,Barnabe,male,75,12
+Jose Didier,Jose Didier,male,96,261
+Aurelien,Aurelien,male,93,14
+Alassane,Alassane,male,97,38
+Marie-Odile,Marie-Odile,female,90,153
+Serges,Serges,male,100,16
+Cyr,Cyr,male,97,31
+Sacca,Sacca,male,100,2
+Joseph,Joseph,male,98,193
+Adidjatou,Adidjatou,female,75,4
+Mahougnon,Mahougnon,male,71,7
+Karimou,Karimou,male,100,6
+Modeste,Modeste,male,98,153
+Oswald,Oswald,male,94,49
+Pascal Irenee,Pascal Irenee,male,98,186
+Abdoulaye Bio,Abdoulaye Bio,male,99,74
+Rafiatou,Rafiatou,female,100,5
+Ange,Ange,male,82,118
+Samou Seidou,Seidou,male,93,15
+Fortunet Alain,Alain,male,98,214
+Hector,Hector,male,100,48
+Jean-Claude Felix do,Jean-Claude Felix,male,95,111
+Craig,Craig,male,100,3
+Wayne,Wayne,male,100,3
+Grant,Grant,male,100,19022
+Nalton,Nalton,male,100,3
+Sylvan,Sylvan,male,92,128
+Everard Trenton,Everard Trenton,male,100,11952
+Patricia,Patricia,female,100,5
+Shawn,Shawn,male,100,6
+Leah,Leah,female,75,4
+Jigme Khesar Namgyel,Jigme Namgyel,male,88,155
+Lotay,Lotay,male,75,4
+Yeshey,Yeshey,male,64,74
+Loknath,Loknath,male,100,128
+Jai Bir,Jai Bir,male,89,5278
+Namgay,Namgay,male,71,94
+Tandi,Tandi,female,83,156
+Dechen,Dechen,female,83,139
+Dasho Sherub,Dasho Sherub,male,88,32
+Karma Donnen,Karma,female,86,5144
+Ugyen,Ugyen,male,81,242
+Dorji,Dorji,male,78,187
+Dasho,Dasho,male,67,6
+Doma,Doma,male,61,151
+Jeanine  Chavez,Jeanine,female,75,4
+Roxana  Vega,Roxana,female,98,57
+Martha  Apaza,Martha,female,97,34
+Fernando  Julio,Fernando Julio,male,100,372
+Jose Luis,Jose Luis,male,100,162
+Virginia  Torres,Virginia,female,93,15
+Alvaro Rodrigo,Alvaro Rodrigo,male,100,3
+Maria Elva,Maria Elva,female,97,102
+Karen  Rodriguez,Karen,female,98,80
+Arturo Carlos  Prijic,Arturo Carlos,male,99,425
+Anibal  Senzano,Anibal,male,100,16
+Victor Hugo,Victor Hugo,male,100,59
+Alvaro  Cornejo,Alvaro,male,100,154
+Oscar,Oscar,male,100,162
+Carlos Fernando  Aunagua,Carlos Fernando,male,99,652
+Carlos  Diaz,Carlos,male,99,374
+Yerko,Yerko,male,100,7
+Wilfredo  Parada,Wilfredo,male,98,44
+Ivan,Ivan,male,100,98
+Mario Samuel,Mario Samuel,male,99,153
+Milton  Mamani,Milton,male,100,35
+Pablo  Diederich,Pablo,male,100,170
+Pablo  Sanchez,Pablo,male,100,170
+Walter Oscar  Cuellar,Walter Oscar,male,100,230
+Sacha  Soliz,Sacha,female,75,4
+Mladen,Mladen,male,99,293
+Bakir,Bakir,male,100,27
+Dragan,Dragan,male,99,707
+Vjekoslav,Vjekoslav,male,100,18
+Mirko,Mirko,male,99,137
+Adil,Adil,male,97,36
+Marina,Marina,female,99,134
+Semiha,Semiha,female,87,986
+Josip,Josip,male,99,173
+Ismir,Ismir,male,100,52
+Kemal,Kemal,male,98,122
+Haris,Haris,male,98,665
+Ivica,Ivica,male,99,90
+Marinko,Marinko,male,100,59
+Milan,Milan,male,98,386
+Melika,Melika,female,100,12
+Fadil,Fadil,male,98,53
+Jelka,Jelka,female,100,3
+Aleksandar,Aleksandar,male,100,388
+Semsudin,Semsudin,male,93,14
+Zora,Zora,female,100,12
+Amir,Amir,male,97,514
+Elvira,Elvira,female,97,74
+Reuf,Reuf,male,94,17
+Snjezana,Snjezana,female,98,60
+Aljosa,Aljosa,male,100,6
+Mato,Mato,male,100,19
+Salko,Salko,male,100,36
+Edin,Edin,male,98,764
+Milorad,Milorad,male,98,52
+Ramiz,Ramiz,male,100,75
+Zeljka,Zeljka,female,98,51
+Stevo,Stevo,male,100,16
+Zlatan,Zlatan,male,98,117
+Dane,Dane,male,100,14
+Zoran,Zoran,male,99,452
+Petar,Petar,male,99,160
+Anton,Anton,male,93,14
+Milenko,Milenko,male,98,88
+Lejla,Lejla,female,99,409
+Davor,Davor,male,100,184
+Jasmin,Jasmin,male,98,678
+Predrag,Predrag,male,99,129
+Nedjo,Nedjo,male,100,8
+Srebrenka,Srebrenka,female,100,6
+Jasmina,Jasmina,female,98,292
+Mokgweetsi Eric,Eric,male,100,51
+Slumber,Slumber,male,75,4
+Edwin,Edwin,male,100,33
+Fedelis,Fedelis,male,75,20
+Kagiso,Kagiso,male,84,169
+Mpho,Mpho,male,52,190
+Phildah,Phildah,female,75,4
+Thapelo,Thapelo,male,88,89
+Lemogang,Lemogang,male,75,16
+Mmusi,Mmusi,male,100,5
+Unity,Unity,female,100,3296
+Peggy,Peggy,female,100,11
+Kefentse,Kefentse,male,67,6
+Lefoko,Lefoko,male,67,6
+Anna,Anna,female,100,12
+Kabo,Kabo,male,85,136
+Douglas,Douglas,male,100,18
+Thulaganyo,Thulaganyo,female,60,5
+Tumiso,Tumiso,male,75,4
+Abraham,Abraham,male,100,7
+Linah,Linah,female,100,2
+Collen Vixen,Collen,male,95,21
+Jair Messias,Jair Messias,male,99,1529
+Hamilton,Hamilton,male,100,490
+Onyx,Onyx,female,75,4
+Tereza,Tereza,female,98,600
+Osmar,Osmar,male,100,699
+Paulo,Paulo,male,99,16339
+Ricardo  Rodriguez,Ricardo Rodriguez,male,100,12253
+Ricardo de Aquino,Ricardo de Aquino,male,99,12357
+Ernesto,Ernesto,male,99,231
+Luiz Henrique,Luiz Henrique,male,100,677
+Tarcisio,Tarcisio,male,100,493
+Augusto  Ribeiro Pereira,Augusto Ribeiro Pereira,male,99,2141
+Sergio,Sergio,male,100,5109
+Bento Costa   de Alburquerque,Bento Costa De,male,80,231
+Gustavo Henrique,Gustavo Henrique,male,100,107
+Marcos,Marcos,male,100,16079
+Vinicius,Vinicius,male,100,6958
+Wagner de Campos,Wagner de Campos,male,98,4229
+Damares,Damares,female,97,116
+Carlos Alberto,Carlos Alberto,male,99,1024
+Andre Luiz,Andre Luiz,male,100,351
+Mauro Luiz Iecker,Mauro Luiz,male,100,11067
+Bolkiah,Bolkiah,male,100,2
+Al-Muhtadee,Al,male,100,2
+Laila Utama  bin Ibrahim,Laila Ibrahim,male,60,5
+Abdul  bin Yusof,Abdul Yusof,male,94,16
+Ihsan Abidin,Ihsan,male,80,5
+Mohammad Yussof,Mohammad,male,100,15
+bin Gafar,Bin Gafar,male,90,2397
+bin Sulaiman,Sulaiman,male,100,2
+bin Hussein,Bin Hussein,male,97,10893
+Liew bin Abdullah,Liew Abdullah,male,91,11
+Yusof,Yusof,unknown,50,2
+bin Jaafar,Bin Jaafar,male,100,3
+Awang   bin Apong,Awang,male,100,7
+bin Haji Apong,Bin Haji Apong,male,90,3224
+bin Othman,Othman,male,100,3
+Abdul Ghafar,Abdul,male,100,14
+Rumen,Rumen,male,100,260
+Iliana,Iliana,female,96,107
+Boyko,Boyko,male,100,35
+Tomislav,Tomislav,male,100,7
+Mariana,Mariana,female,95,345
+Ekaterina,Ekaterina,female,98,113
+Krasimir,Krasimir,male,98,364
+Desislava,Desislava,female,99,348
+Boil,,,,
+Emil,Emil,male,98,431
+Temenuzhka,Temenuzhka,female,100,5
+Neno,Neno,male,100,10
+Vladislav,Vladislav,male,100,122
+Kiril,Kiril,male,99,302
+Danail,Danail,male,100,90
+Biser,Biser,male,100,64
+Petya,Petya,female,96,271
+Krasen,Krasen,male,100,26
+Nikolina,Nikolina,female,95,39
+Rossen,Rossen,male,100,41
+Dimitar,Dimitar,male,100,904
+Tihomir,Tihomir,male,100,128
+Georgi,Georgi,male,99,1351
+Roch Marc Christian,Roch Marc,male,99,85
+Paul Kaba,Paul Kaba,male,97,239
+Paul Robert,Paul Robert,male,98,312
+Jacob,Jacob,male,98,50
+Sommanogo,,,,
+Harouna,Harouna,male,99,198
+Remy Fulgence,Remy Fulgence,male,100,32
+Abdoul Karim,Abdoul Karim,male,100,55
+Hadja Fatimata Ouattara,Hadja Fatimata Ouattara,female,66,190
+Hadizatou Rosine,Rosine,female,97,70
+Bechir Ismael,Bechir Ismael,male,97,262
+Batio,Batio,male,100,3
+Alpha,Alpha,male,91,23
+Maurice Dieudonne,Maurice Dieudonne,male,98,144
+Oumarou,Oumarou,male,98,132
+Jean-Claude,Jean-Claude,male,100,13
+Stanislas,Stanislas,male,97,33
+Seyni,Seyni,male,100,3
+Alkassoun,,,,
+Clement,Clement,male,98,64
+Daouda,Daouda,male,100,248
+Simeon,Simeon,male,100,10
+Vincent,Vincent,male,99,97
+Niougou Ambroise,Ambroise,male,97,35
+Helene Marie Laurence,Helene Marie Laurence,female,98,185
+Smaila,Smaila,female,58,19
+Edith Clemence,Edith Clemence,female,100,87
+Seydou,Seydou,male,100,268
+Yemdaogo Eric,Eric,male,99,252
+Win,Win,male,82,2318
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Henry,Henry,male,99,32139
+Han,Han,male,72,4580
+Myo,Myo,male,87,1074
+Win,Win,male,82,2318
+Naing,Naing,male,90,440
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Ohn,Ohn,male,60,62
+Khin,Khin,female,72,713
+Pe,Pe,male,60,895
+Kyaw,Kyaw,male,96,2103
+Thaung,Thaung,male,96,46
+Thein,Thein,male,92,294
+Ohn,Ohn,male,60,62
+Kyaw,Kyaw,male,96,2103
+Min,Min,male,65,4933
+Soe,Soe,male,82,968
+Aung,Aung,male,93,2546
+Win,Win,male,82,2318
+Thant,Thant,male,87,199
+Aung,Aung,male,93,2546
+Kyaw,Kyaw,male,96,2103
+Aung,Aung,male,93,2546
+Hau,Hau,male,72,720
+Pierre,Pierre,male,100,28
+Deo Guide,Deo,male,100,19
+Felix,Felix,male,100,11
+Pelate,Pelate,male,75,4
+Jeanne d'Arc,Jeanne D'arc,female,100,3
+Come,,,,
+Ezechiel,Ezechiel,male,100,5
+Domitien,Domitien,male,100,13
+Janviere,Janviere,female,100,2
+Pascal,Pascal,male,100,36
+Aimee Laurentine,Aimee,female,75,4
+Emannuel,Emannuel,male,100,53
+Nestor,Nestor,male,100,28
+Josiane,Josiane,female,100,8
+Alain Guilaume,Alain,male,100,52
+Virginie,Virginie,female,100,6
+Jean Bosco,Jean Bosco,male,100,21
+Leontine,Leontine,female,98,328
+Jean,Jean,male,96,133
+Ernest,Ernest,male,94,18
+Albert,Albert,male,100,17
+Jorge Carlos de Almeida,Jorge Carlos de Almeida,male,98,269331
+Ulisses,Ulisses,male,100,812
+Gilberto,Gilberto,male,100,12805
+Abraao,Abraao,male,100,222
+Jose,Jose,male,97,148383
+Maritza,Maritza,female,99,9585
+Olavo,Olavo,male,99,323
+Luis Filipe,Luis Filipe,male,99,536
+Arlindo,Arlindo,male,99,1241
+Eunice,Eunice,female,99,8117
+Janine,Janine,female,98,9033
+Fernando Elisio,Fernando Elisio,male,99,77922
+Carlos,Carlos,male,99,174998
+Fernando Jorge,Fernando Jorge,male,99,95
+Norodom,Norodom,male,100,3
+Hun,Hun,male,85,40
+BIN CHHIN,Bin Chhin,male,70,20
+Aung,Aung,male,100,2
+Chea,Chea,male,79,160
+Hor,Hor,male,87,15
+Ke,Ke,male,83,12
+Kong,Kong,male,74,105
+Men,Men,male,87,23
+Nhek,Nhek,male,75,4
+Sar,Sar,male,63,8
+Prak,Prak,male,89,28
+Yim,Yim,male,92,26
+BIN CHHIN,Bin Chhin,male,70,20
+Veng,Veng,male,85,13
+Pan,Pan,male,86,7
+Him,Him,male,77,22
+Phoeung,Phoeung,male,75,4
+Aun,Aun,unknown,50,6
+Hang,,,,
+Say,Say,male,91,23
+Prak,Prak,male,89,28
+Mam,Mam,male,75,8
+Cham,Cham,male,100,3
+Khieu,Khieu,male,100,3
+Sar,Sar,male,63,8
+Ang,Ang,male,73,15
+Ith,Ith,male,75,8
+Chea,Chea,male,79,160
+Suy,Suy,male,83,18
+Chhay,Chhay,male,80,44
+Tram,Tram,male,100,2
+Sun,Sun,male,75,61
+Men,Men,male,87,23
+Ouk,Ouk,male,66,35
+Vorng,Vorng,male,67,3
+Thong,Thong,male,92,12
+Lim,Lim,male,80,105
+Ing Kantha,Ing,male,90,10
+Chea,Chea,male,79,160
+Chum,Chum,male,79,19
+Sovann,Sovann,male,88,56
+Joseph Dion,Joseph,male,99,1106
+Amadou,Amadou,male,98,123
+Ferdinand,Ferdinand,male,99,179
+Paul Che,Paul Che,male,96,938
+Moustapha,Moustapha,male,98,91
+Joseph Beti,Joseph Beti,male,98,1108
+Ibrahim,Ibrahim,male,96,292
+Bolvine,,,,
+Mba Acha,Mba Acha,male,69,35
+Paul Mingo,Paul Mingo,male,98,866
+Hamadou,Hamadou,male,92,87
+Benoit,Benoit,male,99,134
+Rene Emmanuel,Rene Emmanuel,male,98,1397
+Pierre Ismael,Pierre Ismael,male,99,980
+Laurent Serge,Laurent Serge,male,98,1417
+Michel Ange,Michel Ange,male,100,7
+Luc Magloire,Luc Magloire,male,95,328
+George Obam,George Obam,male,94,121
+Alamine Ousmane,Alamine Ousmane,male,100,46
+Bakary,Bakary,male,94,18
+Lejeune,Lejeune,male,100,6
+Louis-Paul,Louis-Paul,male,100,6
+Jules Doret,Jules,male,99,523
+Jacques Fame,Jacques,male,99,552
+Jean de Dieu,Jean de Dieu,male,100,26
+Gregroire,Gregroire,male,75,4
+Henri,Henri,male,98,365
+Aboubakary,Aboubakary,male,100,9
+Alim,Alim,male,88,32
+Minette Libom Li,Minette Li,female,96,53
+Malachie,Malachie,male,100,3
+Madeleine,Madeleine,female,99,289
+Pauline Lyonga,Pauline Lyonga,female,96,308
+Achille,Achille,male,98,440
+Pauline Irene,Pauline Irene,female,98,582
+Narcisse,Narcisse,male,97,270
+Paul Atanga,Paul Atanga,male,98,879
+Baba,Baba,male,98,55
+Zakariaou,Zakariaou,male,75,4
+Celestine Keutcha,Celestine,female,86,69
+George Essomba,George Essomba,male,91,138
+Marie Theresa Abena,Marie Theresa Abena,female,98,1615
+Mounouna,,,,
+Landry,Landry,male,95,442
+Armand,Armand,male,99,540
+Philibert,Philibert,male,100,9
+Henri  Essomba,Henri Essomba,male,96,388
+Michel Tommo,Michel,male,96,806
+Julie,Julie,female,99,1472
+Justin Pierre James,Justin Pierre James,male,99,6104
+Chrystia,Chrystia,female,100,2
+Marie-Claude,Marie-Claude,female,98,195
+Steven,Steven,male,99,1236
+Carolyn,Carolyn,female,99,366
+Joyce,Joyce,female,98,250
+Bardish,,,,
+Melanie,Melanie,female,99,822
+Carla,Carla,female,100,275
+Jonathan,Jonathan,male,100,1923
+William Francis,William Francis,male,100,1893
+Bernadette,Bernadette,female,98,88
+Francois-Philippe,Francois-Philippe,male,100,1284
+Patty,Patty,female,95,87
+Marco,Marco,male,100,414
+Marc,Marc,male,100,1432
+Catherine,Catherine,female,99,1010
+Navdeep Singh,Navdeep Singh,male,86,36
+Karina,Karina,female,97,111
+Filomena,Filomena,female,100,6
+Mona,Mona,female,98,129
+Harjit Singh,Harjit Singh,male,75,24
+Diane,Diane,female,99,918
+Seamus,Seamus,male,100,18
+Anita,Anita,female,98,305
+Deb,Deb,female,100,202
+Mary,Mary,female,99,875
+Lawrence,Lawrence,male,99,263
+Maryam,Maryam,female,98,110
+Jean-Yves,Jean-Yves,male,98,64
+Dominic,Dominic,male,99,374
+Stephen,Stephen,male,100,1468
+Marc-Andre,Marc-Andre,male,100,67
+Faustin-Archange,Faustin,male,100,2
+Simplice,Simplice,male,98,697
+Honore,Honore,male,75,4
+Gisele,Gisele,female,100,5
+Abdoulaye,Abdoulaye,male,75,4
+Charles Paul Lemasset,Paul,male,100,7
+Arlette,Arlette,female,75,4
+Theodore,Theodore,male,100,15900
+Henri Marie,Marie,female,100,6
+Charles-Armel,Armel,male,100,2
+Fernande,Fernande,female,100,2
+Gaby Francky,Gaby,male,75,4
+Jean Serge,Jean Serge,male,100,16
+Flavien,Flavien,male,97,1897
+Yerima Youssoufa,Yerima Youssoufa,male,94,154
+Leopold,Leopold,male,97,1226
+Moukadas,Moukadas,male,100,2
+Bertrand,Bertrand,male,100,8
+Justin,Justin,male,100,5
+Silvere,Silvere,male,97,178
+Jean-Christophe,Jean,male,100,11
+Abbas Mahamat,Mahamat,male,100,5
+Ambroisine,Ambroisine,female,100,20
+Idriss  Itno,Idriss,male,96,23
+Mahamat,Mahamat,male,98,185
+Oumar Yaya,Oumar Yaya,male,98,46
+Issa,Issa,male,100,30
+Sidick Abdelkerim,Abdelkerim,male,100,15
+Allali Mahamat,Mahamat,male,98,185
+Mahamat  Cherif,Mahamat Cherif,male,98,189
+Abdramane Mouctar,Abdramane,male,100,4
+Djimet,Djimet,male,100,7
+Gayang,,,,
+Ahmat Mahamat,Ahmat Mahamat,male,100,7
+Aboubakar Assidick,Aboubakar,male,100,9
+Boukar,Boukar,male,100,6
+Ndolenodji Alixe,Alixe,female,69,83
+Lydie,Lydie,female,75,4
+Mahamat Abdoulaye,Mahamat Abdoulaye,male,98,228
+Aziz Mahamat,Mahamat,male,98,185
+Ali Mbodou,Ali,male,97,65
+Mahamat Abali,Mahamat,male,98,185
+Achta Ahmat,Achta Ahmat,male,90,58
+Ruth,Ruth,female,75,4
+Djalal Ardjoun,Djalal,male,75,4
+Mariam Mahamat,Mariam Mahamat,male,93,195
+Nouradine Delwa Kassire,Nouradine,male,100,3
+Daoud Yaya,Daoud Yaya,male,100,12
+Hisseine Tahir,Hisseine Tahir,male,100,16
+Ahmed Alkhoudar Ali,Ahmed Ali,male,95,77
+Ndordji,,,,
+Achta Saleh,Achta Saleh,male,78,27
+Ngote Gali,Gali,female,50,438
+Moustapha Ali,Moustapha Ali,male,97,78
+Sebastian  Echenique,Sebastian,male,99,1533
+Gonzalo  Mac-Iver,Gonzalo,male,99,1005
+Cecilia,Cecilia,female,98,680
+Antonio,Antonio,male,99,448
+Jose Ramon  Vias,Jose Ramon,male,99,1563
+Susana,Susana,female,99,326
+Roberto  Espinoza,Roberto,male,100,986
+Emilio,Emilio,male,100,207
+Cristian,Cristian,male,100,2566
+Andres  Pinera,Andres,male,100,976
+Hernan,Hernan,male,99,286
+Baldo,Baldo,male,75,4
+Consuelo,Consuelo,female,97,178
+Alberto  Otero,Alberto,male,100,309
+Juan Andres,Juan Andres,male,100,39
+Alfredo,Alfredo,male,100,279
+Pauline,Pauline,female,86,7
+Gloria,Gloria,female,98,330
+Isabel,Isabel,female,99,432
+Mario  Cullell,Mario,male,100,871
+Juan Gabriel  Soublette,Juan Gabriel,male,100,2485
+Milenko  Tapia,Milenko Tapia,male,100,20
+Jinping,Jinping,male,62,13
+Qishan,Qishan,male,100,3
+Keqiang,Keqiang,male,100,2
+Zheng,Zheng,male,75,502
+Chunlan,Chunlan,female,100,14
+Chunhua,Chunhua,female,88,57
+He,He,male,74,204
+Fenghe,Fenghe,male,75,4
+Jie,Jie,male,63,867
+Yi,Yi,male,73,459
+Kezhi,Kezhi,male,75,4
+Yong,Yong,male,95,502
+Lifeng,Lifeng,male,85,39
+Xiaowei,Xiaowei,male,64,101
+Bater,Bater,male,100,3
+Changfu,Changfu,male,100,7
+Shuxian,Shuxian,female,67,3
+Shan,Shan,female,65,271
+Shugang,Shugang,male,100,2
+Baosheng,Baosheng,male,100,5
+Ganjie,,,,
+Kun,Kun,male,85,289
+Menghui,Menghui,male,75,4
+Jinan,Jinan,male,85,13
+Wei,Wei,male,76,1859
+Zhenghua,Zhenghua,male,83,18
+Hao,Hao,male,89,723
+Zhigang,Zhigang,male,100,44
+Wenqing,Wenqing,unknown,50,16
+Xiaodu,,,,
+Xiaopeng,Xiaopeng,male,94,34
+Jingping,Jingping,female,60,10
+Zejun,Zejun,male,67,6
+Gang,,,,
+Tiankai,,,,
+Zhaoxu,Zhaoxu,male,100,8
+Carrie,Carrie,female,99,229
+Matthew  Kin-chung,Matthew,male,100,209
+Joshua  Chi-kong,Joshua,male,99,172
+Edward  Tang-wah,Edward,male,98,444
+Patrick  Tak-kuen,Patrick,male,98,422
+Michael  Wai-lun,Michael,male,99,1989
+Kevin  Yun-hung,Kevin,male,99,2342
+Kam-sing,Kam,male,87,31
+Paul  Mo-po,Paul,male,99,805
+James,James,male,98,1570
+Sophia  Siu-chee,Sophia,female,98,709
+Kong-wah,Kong-Wah,male,75,130
+Nicholas  Wei-hsiung,Nicholas,male,98,161
+Rimsky  Kwok-keung,Rimsky  Kwok-Keung,male,81,251
+Chi-kwong,Chi-Kwong,male,72,160
+John  Ka-chiu,John,male,98,1880
+Frank  Fan,Frank Fan,male,89,1769
+Norman  Tak-lam,Norman,male,100,64
+Geoffrey  Tao-li,Geoffrey,male,100,31
+Andrew  Kwan-yuen,Andrew,male,99,519
+Stephen  Wai-chung,Stephen,male,98,406
+Simon  Yun-lu,Simon,male,98,915
+David  Tak-kei,David,male,99,2917
+Fernando  Sai-on,Fernando,male,97,79
+Florinda Da Rosa Silva,Florinda Da Rosa Silva,female,53,157
+Francis  Pak-yuen,Francis,male,93,146
+Kuoc Va,Va,unknown,50,2
+Cheong,Cheong,male,65,17
+Si Io,Si Io,male,53,53
+Chio Meng,Chio Meng,male,53,427
+Hou Fai,Hou Fai,male,65,116
+Iat Seng,Seng,male,68,22
+Veng On,On,male,86,7
+Man Chong,Man Chong,male,73,295
+Ivan  Marquez,Ivan,male,99,880
+Marta Lucia,Marta Lucia,female,100,13
+Andres  Pinzon,Andres,male,99,5757
+Jose Manuel  Abondano,Jose Manuel,male,99,3597
+Carmen Ines  Camacho,Carmen Ines,female,97,410
+Carlos Holmes  Garcia,Carlos Holmes Garcia,male,99,4782
+Maria Victoria,Maria Victoria,female,97,102
+Maria Fernanda  Londono,Maria Fernanda,female,98,1944
+Ricardo,Ricardo,male,100,1641
+Alberto  Barrera,Alberto,male,99,727
+Claudia  de Barberi,Claudia De,female,98,1651
+Juan Pablo,Juan Pablo,male,100,1380
+Jonathan  Gonzalez,Jonathan Gonzalez,male,99,1065
+Silvia  Rengifo,Silvia,female,98,283
+Nancy Patricia,Nancy Patricia,female,100,9
+Margarita Leonor  Blanco,Margarita Leonor,female,99,505
+Alicia  Olmos,Alicia,female,100,126
+Angela Maria,Angela Maria,female,99,274
+Gloria Amparo  Masmela,Gloria Amparo,female,98,958
+Fabio  Garzon,Fabio Garzon,male,99,543
+Juan Jose,Juan Jose,male,99,330
+Francisco  Calderon,Francisco,male,99,822
+Guillermo    Valderrama,Guillermo,male,100,751
+Assoumani,Assoumani,male,58,12
+Nourdine Ben,Nourdine Ben,male,97,36
+Bianrifi,,,,
+Moustadroine,,,,
+Said Ali Said,Said Ali Said,male,100,4
+Mohamed El-Amine,Mohamed El-Amine,male,100,2
+Rashid Mohamed  Fatfma,Mohamed,male,84,213
+Mohamed  Kiki,Mohamed,male,84,213
+Mohamed Housseini,Mohamed,male,84,213
+Salim,Salim,male,90,31
+Abdallah Said,Abdallah Said,male,100,3
+Mohamed Chatur,Mohamed,male,84,213
+Ladaenti,,,,
+Abdou Mohamed,Abdou Mohamed,male,83,281
+Soilihi Mohamed,Soilihi Mohamed,male,84,230
+Sylvestre  Ilunkamba,Sylvestre ,male,97,1010
+Gilbert  Malamba,Gilbert  Malamba,male,98,10415
+Celestin  Ya Kasende,Celestin  Ya Kasende,male,75,2333
+Jean Baudouin  Manbeke,Jean Baudouin ,male,89,84522
+Elysee  Tamukumwe,Elysee ,male,65,195
+Willy  Sunzhel,Willy ,male,95,13691
+David Jolino  Makelele ma-Muzingi,David Jolino  Makelele,male,99,381820
+Azarias  Manywa,Azarias  Manywa,male,97,77
+Nene  Ilunga,Nene  Ilunga,male,63,2822
+Marie  Nzeza,Marie  Nzeza,female,97,110438
+Beatrice  Atilite,Beatrice ,female,98,19499
+Eteni,,,,
+Rubens  Muhima,Rubens  Muhima,male,99,2267
+Eustache  Mubembe,Eustache ,male,95,212
+Pepin Guillaume  Buakila,Pepin Guillaume ,male,99,37412
+Willy  Wilima,Willy ,male,95,13691
+Pius  Mbayu Mukala,Pius  Mukala,male,98,1388
+Jean Joseph  Mukuta,Jean Joseph  Mukuta,male,94,147255
+Jean-Marie  Kikuni,Jean-Marie  Kikuni,male,98,4719
+Aime  Mukena,Aime  Mukena,male,77,1449
+Claude  Bazibuhe,Claude ,male,89,25624
+Jean Lucien  Tongba,Jean Lucien ,male,90,89288
+Jose  Yalaghuli,Jose ,male,97,148386
+Jonathan  Wata,Jonathan  Wata,male,99,84451
+Thomas  Losendjola,Thomas ,male,99,129180
+Andre  Asebea,Andre ,male,97,49460
+Steve  Mabuluki,Steve ,male,99,80012
+Julien  Kahongya,Julien ,male,98,72533
+Aime  Molendo,Aime ,male,77,1425
+Aggee   Toto,Aggee   Toto,male,83,11006
+Justin  Mwana Ngongo,Justin  Mwana Ngongo,male,98,43902
+Willy  Samsoni,Willy  Samsoni,male,95,13697
+Acacia  Mbongo,Acacia  Mbongo,female,89,279
+Clement  Nymi Bemuna,Clement ,male,97,10166
+Augustin  Maliba,Augustin  Maliba,male,98,2814
+Andre  Kana,Andre  Kana,male,96,50205
+Jacqueline  Sanganyoi,Jacqueline ,female,98,23330
+John  Panumankole,John ,male,99,219088
+Yollande  Bosongo,Yollande ,female,96,168
+Deogratias  Kunzi Bikawa,Deogratias  Kunzi,male,97,186
+Guy  Pombo,Guy  Pombo,male,98,20881
+Jose  Kabangu,Jose  Kabangu,male,97,148395
+Rose  Monkaju,Rose ,female,100,10610
+Marcel Amos  Kitenge,Marcel Amos  Kitenge,male,99,47830
+Yves  Zola,Yves  Zola,male,96,20169
+Didier  Mukanzu,Didier ,male,98,29194
+Eraston  Tsongo,Eraston  Tsongo,male,89,18
+Sylvain  Kabinga,Sylvain  Kabinga,male,98,23762
+Eyrolles Michel  Meya,Michel  Meya,male,97,68254
+Irene  Diata,Irene  Diata,female,98,30228
+Deogratias  Mwana Nyembo,Deogratias  Mwana Nyembo,male,89,246
+Francois Nkuna,Francois Nkuna,male,98,17877
+Ignace   wa Lufuta,Ignace   Wa Lufuta,male,83,1406
+Denis  Nguesso,Denis  Nguesso,male,97,42508
+Firmin,Firmin,male,98,739
+Claude Alphonse,Claude Alphonse,male,90,27819
+Gilbert,Gilbert,male,98,10398
+Landry Euloge,Landry Euloge,male,95,3017
+Thierry,Thierry,male,98,41754
+Leonidas Carel Mottom,Leonidas Carel Mottom,male,98,4655
+Charles Richard,Charles Richard,male,100,9
+Serge Blaise,Serge Blaise,male,98,27419
+Calixte,Calixte,male,80,230
+Rosalie,Rosalie,female,98,2440
+Jacqueline Lydia,Jacqueline Lydia,female,98,38532
+Jean-Marc,Jean-Marc,male,99,6278
+Josue-Rodrigue,Josue-Rodrigue,male,99,20528
+Raymond Zephirin,Raymond Zephirin,male,99,20202
+Emile,Emile,male,94,3881
+Parfait Aime Coussoud,Parfait Aime,male,87,2739
+Ingrid Olga Ebouka,Ingrid Olga,female,98,63270
+Leon Juste,Leon Juste,male,96,18329
+Anatole Collinet,Anatole Collinet,male,94,475
+Ange Aime,Ange Aime,male,67,3
+Hellot Matson,Matson,male,95,22
+Yvonne Adelaide,Yvonne Adelaide,female,99,26927
+Antoinette Dinga,Antoinette Dinga,female,99,11954
+Alain Akouala,Alain,male,98,53597
+Alfred Leon,Alfred Leon,male,98,29516
+Nicephore Antoine Thomas  Saint Eudes,Nicephore Antoine Thomas  Saint Eudes,male,99,164712
+Jean Jacques,Jean Jacques,male,98,2167
+Bruno Jean Richard,Bruno Jean Richard,male,96,268810
+Arlette Soudan,Arlette Soudan,female,98,3021
+Ines Bertille Nefer,Ines Bertille Nefer,female,97,17727
+Destinee Ermela,Destinee Ermela,female,100,3023
+Digne Elvis Tsalissan,Digne Elvis,male,98,12884
+Serge,Serge,male,98,24551
+Raymond Serge,Raymond Serge,male,99,44669
+Henry,Henry,male,75,4
+Rose,Rose,female,100,10607
+Robert,Robert,male,100,2
+Carlos  Quesada,Carlos,male,100,807
+Epsy  Barr,Epsy  Barr,male,80,80
+Marvin  Cordero,Marvin,male,99,129
+Renato  Rivera,Renato,male,100,6
+Mauricio  Ulloa,Mauricio,male,100,346
+Sylvie  Salvatierra,Sylvie,female,100,3
+Victoria  Mora,Victoria,female,100,29
+Giselle  Maduro,Giselle,female,95,21
+Carlos Manuel  Echandi,Carlos Manuel,male,100,1041
+Rodrigo,Rodrigo,male,100,121
+Manuel Enrique  Robles,Manuel Enrique,male,100,312
+Dyala  Figueres,Dyala,female,75,4
+Giselle  Munoz,Giselle,female,95,21
+Emilio Arias,Emilio,male,100,38
+Marcia  Aguiluz,Marcia,female,100,19
+Geannina  Romeros,Geannina,female,100,5
+Pilar  Gonzalo,Pilar Gonzalo,male,67,51
+Victor  Mora,Victor,male,100,174
+Michael  Rojas,Michael,male,100,182
+Rodolfo  Mata,Rodolfo,male,99,110
+Luis Adrian  Solis,Luis Adrian,male,100,742
+Maria  Salazar Elizondo,Maria,female,99,238
+Maria Amalia  Raventos,Maria Amalia,female,98,246
+Emilia,Emilia,female,100,16
+Roman  Hayes,Roman  Hayes,male,100,7247
+Rodrigo  Zeledon,Rodrigo,male,100,121
+Alassane Dramane,Alassane Dramane,male,98,527
+Daniel Kablan,Daniel Kablan,male,94,994
+Fidele,Fidele,male,76,192
+Hamed,Hamed,male,97,849
+Jeannot,Jeannot,male,98,56
+Tene Birahima,Tene,female,91,11
+Amadou Gon,Amadou Gon,male,98,428
+Mamadou Sangafoa,Mamadou,male,99,1562
+Kobena Kouassi,Kobena Kouassi,male,79,1063
+Bruno Nabagne,Bruno,male,97,238
+Claude Isaac,Claude Isaac,male,95,964
+Maurice Kouakou,Maurice Kouakou,male,81,876
+Amede Koffi,Amede Koffi,male,78,990
+Adama,Adama,male,97,1193
+Jean Claude,Jean Claude,male,99,368
+Anne Desiree,Anne Desiree,female,98,749
+Marcel,Marcel,male,96,594
+Souleymane,Souleymane,male,99,846
+Raymonde Goudou,Raymonde,female,100,51
+Ramata Ly,Ramata Ly,female,91,70
+Sidiki,Sidiki,male,97,69
+Sansan,Sansan,male,96,25
+Kandia Kamissoko,Kandia Kamissoko,female,56,9
+Niale,,,,
+Pascal Abinan,Pascal,male,98,490
+Francois Albert,Francois Albert,male,98,641
+Siandou,Siandou,male,75,4
+Alain Richard,Alain Richard,female,67,3
+Mariatou,Mariatou,female,100,23
+Sidi Tiemoko,Sidi Tiemoko,male,94,155
+Kacou Houadja Leon,Kacou Leon,male,91,234
+Kolinda,Kolinda,female,75,4
+Andrej,Andrej,male,100,152
+Zdravko,Zdravko,male,98,180
+Damir,Damir,male,99,836
+Marija,Marija,female,98,762
+Nina,Nina,female,99,320
+Vesna,Vesna,female,98,362
+Darko,Darko,male,99,561
+Martina,Martina,female,98,643
+Gordan,Gordan,male,100,94
+Drazen,Drazen,male,100,165
+Marko,Marko,male,99,1898
+Blazenka,Blazenka,female,100,17
+Gari,Gari,male,75,4
+Boris,Boris,male,99,479
+Pjer,Pjer,male,100,5
+Miguel   Bermudez,Miguel,male,99,72
+Salvador Antonio  Mesa,Salvador Antonio Mesa,male,100,81
+Juan Esteban  Hernandez,Juan Esteban,male,100,87
+Ana Maria  Machado,Ana Maria,female,97,161
+Homero  Alvarez,Homero  Alvarez,male,92,807
+Ricardo  Ruiz,Ricardo Ruiz,male,98,45
+Ines  Waugh,Ines,female,100,4
+Roberto  Ojeda,Roberto,male,100,108
+Jorge Luis  Fonseca,Jorge Luis,male,99,288
+Ramiro  Menendez,Ramiro,male,100,8
+Jose Amado  Guerra,Jose Amado,male,100,137
+Gustavo Luis  Rollero,Gustavo Luis,male,100,156
+Jorge Luis  Di-Lella,Jorge Luis,male,99,288
+Rene  Villafana,Rene,male,100,20
+Alpidio  Grau,Alpidio  Grau,male,82,44
+Betsy  Velazquez,Betsy,female,100,4
+Alejandro  Fernandez,Alejandro,male,100,146
+Ena Elsa  Cobiella,Elsa,female,100,11
+Raul  Barreiro,Raul,male,100,63
+Meisi  Weiss,Meisi  Weiss,male,69,201
+Iris  Rojas,Iris,female,86,7
+Bruno  Parrilla,Bruno,male,93,14
+Rodrigo  Diaz,Rodrigo,male,92,13
+Jose Ramon  Loidi,Jose Ramon,male,100,170
+Alfredo  Valdes,Alfredo,male,100,43
+Julio Cesar  Bermejo,Julio Cesar,male,99,73
+Oscar Manuel  Martinez,Oscar Manuel,male,100,119
+Margarita Marlene  Fernandez,Margarita Marlene,female,96,23
+Jose Angel  Miranda,Jose,male,100,129
+Leopoldo,Leopoldo,male,100,3
+Elba Rosa  Montoya,Rosa,female,100,23
+Manuel  Cruz,Manuel,male,100,74
+Eduardo  Davila,Eduardo,male,100,92
+Alfonso  Martinez,Alfonso,male,100,10
+Osvaldo Caridad  Montiller,Osvaldo Caridad,male,67,39
+Antonio  Rodriguez,Antonio,male,100,75
+Yamila  Ojeda,Yamila,female,100,12
+Irma Margarita  Castrillon,Irma Margarita,female,100,19
+Nikos,Nikos,male,99,506
+Kostas,Kostas,male,99,340
+Savvas,Savvas,male,98,377
+Prodromos,Prodromos,male,100,20
+Georgios,Georgios,male,98,80
+Konstantinos,Konstantinos,male,98,152
+Ionas,Ionas,male,100,3
+Zeta,Zeta,female,67,3
+Giannis,Giannis,male,100,319
+Kyriakos,Kyriakos,male,99,344
+Marios,Marios,male,96,1566
+Milos,Milos,male,99,5905
+Miroslav,Miroslav,male,99,18463
+Antonin,Antonin,male,98,1899
+Lubomir,Lubomir,male,99,1399
+Alena,Alena,female,99,27471
+Adam,Adam,male,99,101742
+Marta,Marta,female,98,84333
+Tatana,Tatana,female,96,171
+Petr,Petr,male,98,61668
+Klara,Klara,female,98,4211
+Jiri,Jiri,male,98,7717
+Hynek,Hynek,male,98,626
+Margrethe,Margrethe,female,100,31
+Mette,Mette,female,99,1109
+Kaare,Kaare,male,100,34
+Pernille,Pernille,female,99,565
+Trine,Trine,female,99,400
+Rasmus,Rasmus,male,100,1201
+Lea,Lea,female,98,127
+Nicolai,Nicolai,male,100,345
+Mogens,Mogens,male,100,317
+Jeppe,Jeppe,male,99,324
+Magnus,Magnus,male,100,191
+Mattias,Mattias,male,100,20
+Nick,Nick,male,99,221
+Ane,Ane,female,100,36
+Astrid,Astrid,female,100,81
+Morten,Morten,male,100,1806
+Lars,Lars,male,100,1927
+Lone Dencker,Lone,female,99,535
+Martin Bille,Martin Bille,male,100,2093
+Ismail Omar,Ismail Omar,male,94,220
+Abdoulkader Kamil,Abdoulkader Kamil,male,96,100
+Mohamed Ahmed,Mohamed Ahmed,male,100,7
+Bodeh Ahmed,Bodeh Ahmed,male,96,478
+Abdi Youssouf,Abdi Youssouf,male,93,260
+Ali Hassan,Ali Hassan,male,95,644
+Ilyas Moussa,Ilyas Moussa,male,97,136
+Yacin Houssein,Yacin Houssein,male,95,207
+Mahamoud Ali,Mahamoud Ali,male,95,394
+Moussa Mohamed,Moussa Mohamed,male,100,2
+Djama Elmi,Djama Elmi,male,90,88
+Nabil Mohamed,Nabil Mohamed,male,96,617
+Moussa Ahmed,Moussa Ahmed,male,96,584
+Hassan Omar Mohamed,Hassan Omar Mohamed,male,96,1064
+Moumin Hassan,Moumin Hassan,male,96,319
+Moumin Ahmed,Moumin Ahmed,male,96,490
+Hassan Idriss,Hassan Idriss,male,96,373
+Moumina Houmed,Moumina Houmed,male,76,41
+Moustapha Mohamed,Moustapha Mohamed,male,100,2
+Ahmed  Ali,Ahmed Ali,male,95,815
+Mohamed Siad,Mohamed Siad,male,96,602
+Roosevelt,Roosevelt,male,100,2052
+Reginald,Reginald,male,98,2262
+Roselyn,Roselyn,female,100,4552
+Catherine Lady,Catherine Lady,female,98,44808
+Petter Saint,Petter Saint,male,95,2832
+Francine,Francine,female,75,4
+Kenneth,Kenneth,male,99,20555
+Kelver,Kelver,male,75,4
+Rayburn,Rayburn,male,100,20
+Casius,Casius,male,100,44
+Miriam,Miriam,female,98,26103
+John Collin,John,male,100,2
+Ian,Ian,male,99,34076
+Justina,Justina,female,99,7040
+Johnson,Johnson,male,96,6930
+Ivor,Ivor,male,98,532
+Levi,Levi,male,75,4
+Loreen Ruth,Ruth,female,100,3
+Danilo  Sanchez,Danilo Sanchez,male,98,56
+Margarita,Margarita,female,98,81
+Ruben Dario Paulino,Ruben Dario Paulino,male,99,145
+Isidoro,Isidoro,male,100,2
+Andres  Garcia,Andres Garcia,male,97,159
+Angel Francisco  Bourdierd,Francisco,male,100,422
+Donald  Ortiz,Donald Ortiz,male,100,11
+Miguel Octavio  Maldonado,Miguel Octavio,male,100,489
+Nelson  Simo,Nelson Simo,male,98,163
+Jose Ramon  Fadul,Jose Ramon,male,100,1252
+Winston Antonio  Urena,Winston Antonio,male,100,211
+Gustavo Adolfo  Franco,Gustavo Adolfo Franco,male,99,141
+Manuel Ramon,Manuel Ramon,male,99,777
+Rafael  Cardenas,Rafael,male,99,548
+Gonzalo  Terrero,Gonzalo,male,100,14
+Danilo,Danilo,male,98,52
+Francisco Javier  Fernandez,Francisco Javier,male,99,592
+Janet Altagracia  Hernandez,Janet Altagracia,female,96,93
+Jorge Felix  Contreras,Jorge Felix,male,99,485
+Jose Ramon  Sanchez,Jose Ramon Sanchez,male,100,1256
+Jean Alain,Jean Alain,male,98,90
+Hector  Albizu,Hector,male,100,226
+Jose Tomas  Vazquez,Jose Tomas,male,100,1043
+Francisco Antonio,Francisco Antonio,male,100,14
+Lenin  Garces,Lenin,male,100,209
+Otto  Sper,Otto,male,100,18
+Xavier  Guerrero,Xavier,male,100,616
+Ana Katuska  Salcedo,Ana,female,100,347
+Juan Fernando,Juan Fernando,male,100,26
+Berenice  Molina,Berenice,female,100,8
+Monserrat  Guillen,Monserrat,female,100,9
+Jose Ivan  Briones,Jose Ivan,male,99,1512
+Marcelo  Guerrero,Marcelo,male,100,441
+Richard  Alvarado,Richard,male,100,308
+Jose  Amores,Jose,male,99,1162
+Ivan  Berru,Ivan,male,99,350
+Maria Paula  Rodriguez,Maria Paula Rodriguez,female,98,695
+Pablo  Saenz,Pablo,male,100,810
+Andres  Poveda,Andres,male,99,1219
+Oswaldo  Roman,Oswaldo,male,100,171
+Catalina  Zeballos,Catalina,female,97,65
+Andrea  Andrade,Andrea Andrade,female,97,982
+Andres  Ayala,Andres,male,99,1219
+Rosi,Rosi,female,100,12
+Jorge  Zavala,Jorge,male,100,1444
+Guido  Almeida,Guido,male,100,85
+Gabriel  Soria,Gabriel,male,99,528
+Juan Sebastian  Proano,Juan Sebastian,male,100,1408
+Adrian  Soria,Adrian,male,100,273
+Marlo  Fuentes,Marlo,male,100,2
+Ricardo  Nuques,Ricardo,male,99,590
+Maria Alexandra  Padilla,Maria Alexandra Padilla,female,98,1119
+Humberto  Tipanluisa,Humberto,male,98,64
+Johana  Benitez,Johana,female,99,98
+Veronica  Jarrin,Veronica,female,99,467
+Francisco  Mena,Francisco,male,100,567
+Luis  Chiriboga,Luis,male,99,1919
+Abdelfattah,Abdelfattah,male,100,47
+El Sayed,El Sayed,male,100,19
+Khaled El,Khaled El,male,100,31
+Amr Ahmed,Amr Ahmed,male,100,7
+Enas,Enas,female,98,238
+Muhammad,Muhammad,male,100,1020
+Tarek,Tarek,male,99,3556
+Yasmine Abdel Aziz,Yasmine Abdel Aziz,male,50,504
+Sameh,Sameh,male,99,2649
+Halah,Halah,female,100,3
+Khaled,Khaled,male,99,6208
+Assam,Assam,male,100,10
+Nevine,Nevine,female,99,70
+Osama,Osama,male,98,3001
+Mahmud,Mahmud,male,100,53
+Rania,Rania,female,98,679
+Omar,Omar,male,99,3955
+Alaa El-Din  Abul Hassan,Alaa Hassan,male,93,6334
+Hala   Younes,Hala Younes,female,92,520
+Hisham,Hisham,male,99,1293
+Nabila,Nabila,female,100,47
+Kamil,Kamil,male,77,13
+Yasser,Yasser,male,99,2669
+Nayib Armando  Ortez,Armando,male,99,68
+Rene Francis  Monroy,Rene Francis,male,97,111
+Maria Luisa,Maria Luisa,female,100,5
+Karla Hanania,Karla,female,98,199
+Nelson,Nelson,male,99,160
+Alexandra,Alexandra,female,97,30
+Ana Orellana,Ana,female,99,206
+Rogelio Eduardo  Polanco,Rogelio Eduardo,male,100,276
+Oscar Rolando,Oscar Rolando,male,99,382
+Edgar,Edgar,male,100,76
+Morena,Morena,female,100,18
+Raul,Raul,male,100,93
+Oscar  Melgar,Oscar,male,99,326
+Egriselda,,,,
+Teodoro  Nguema Mbasogo,Teodoro Nguema,male,100,16
+Teodoro  Teodorin  Nguema  Mangue,Teodoro Nguema Mangue,male,89,19
+Francisco Pascual Eyegue  Asue,Francisco Pascual,male,100,36
+Clemente Engonga  Onguene,Clemente,male,100,4
+Angel  Mibuy,Angel ,male,100,27065
+Alfonso Nsue,Alfonso,male,100,6
+Nicolas Houtondji,Nicolas,male,100,16
+Leandro  Angue,Leandro,male,100,3
+Pastor Micha  Bile,Micha  Bile,male,79,4571
+Rufino Ndong  Nchama,Rufino Ndong Nchama,male,67,9
+Eucario Bakale,Eucario Bakale,male,100,9
+Jesus Engonga,Jesus,male,100,21
+Lucas  Nchama,Lucas Nchama,male,85,20
+Adoracion Salas,Adoracion Salas,male,81,574
+Simeon Oyono  Angue,Simeon,male,75,4
+Salomon  Owono,Salomon,male,100,4
+Miguel  Ondo,Miguel,male,100,40
+Eugenio Nze,Eugenio,male,100,5
+Salvador  Nkumu,Salvador,male,100,18
+Celestino Bonifacio Bakale,Celestino Bonifacio,male,88,8
+Gabriel Mbega Obiang,Gabriel Obiang,male,100,12
+Alejandro Bakale,Alejandro,male,92,12
+Faustino  Esono Eyang,Esono,male,80,5
+Diosdado  Medja,Diosdado,male,100,10
+Maria Consuelo Nguema,Maria Consuelo Nguema,female,94,65
+Juan-Antonio  Nchuchuma,Juan-Antonio,male,99,105
+Alejandro  Owono Asangono,Alejandro,male,92,12
+Antonio Mba  Mikue,Antonio Mba,male,95,39
+Baltasar Engonga,Baltasar Engonga,male,98,228
+Nicolas  Nchama,Nicolas Nchama,male,84,19
+Baltasar Esono Eworo,Esono,male,80,5
+Miguel Ntutumu,Miguel,male,100,40
+Anatolio,Anatolio,male,75,4
+Afworki,,,,
+Berhe,Berhe,male,75,4
+Ephrem,Ephrem,male,100,3
+Russom,Russom,male,100,8
+Hajj Ali,Ali,male,100,5
+Abrehe,Abrehe,male,100,2
+Saleh Mohammed,Mohammed,male,100,7
+Nurhussein,,,,
+Abdu,Abdu,male,75,4
+Hashim,Hashim,male,98,2087
+Hassen,Hassen,male,75,4
+Ghebreselassie,,,,
+Meki,Meki,male,79,196
+Teklemichael,Teklemichael,male,75,4
+Asfaha,Asfaha,male,100,3
+Menkerios,,,,
+Abraha,Abraha,male,97,36
+Woldemariam,Woldemariam,male,80,5
+Gebrehiwet Solomon,Solomon,male,100,8
+Asmerom Tesfay,Asmerom,male,100,8
+Kersti,Kersti,female,94,97
+Juri,Juri,male,99,112
+Tonis,Tonis,male,100,6
+Taavi,Taavi,male,100,152
+Mailis,Mailis,female,100,12
+Urmas,Urmas,male,97,120
+Kert,Kert,male,95,40
+Mart,Mart,male,97,127
+Raivo,Raivo,male,99,77
+Riina,Riina,female,99,96
+Jaak,Jaak,male,98,54
+Tanel,Tanel,male,98,176
+Madis,Madis,male,98,159
+Jonatan,Jonatan,male,99,4358
+Sven,Sven,male,99,90
+Mswati,Mswati,male,100,9
+Ambrose Mandvulo,Ambrose,male,97,821
+Themba,Themba,male,96,1178
+Jabulani,Jabulani,male,98,428
+Manqoba,Manqoba,male,98,95
+Tambo,Tambo,male,93,43
+Lady Howard,Lady Howard,male,57,8624
+Neal,Neal,male,99,2785
+Thuli,Thuli,female,93,322
+Lizzie,Lizzie,female,98,2237
+Pholile,Pholile,female,78,9
+Makhosi,Makhosi,female,78,60
+Ndlaluhlaza,,,,
+Harries Madze,Harries Madze,male,95,22
+David Cruiser,David Cruiser,male,99,381826
+Moses,Moses,male,99,12280
+Majozi,Majozi,male,96,25
+Njabuliso Busisiwe Sikulile,Njabuliso Busisiwe,female,97,420
+Melusi Martin,Melusi Martin,male,98,139390
+Zewde,Zewde,male,100,4
+Mekonnen Hassen,Mekonnen Hassen,male,99,145
+Oumer,Oumer,male,100,20
+Tegenu,Tegenu,male,100,7
+Mohammed Huessin,Mohammed,male,99,312
+Kassaw,Kassaw,male,100,3
+Aysha,Aysha,female,67,3
+Getie,Getie,male,67,3
+Chane,Chane,male,100,7
+Tito,Tito,male,100,3
+Gebeyehu,Gebeyehu,male,100,10
+Aman,Aman,male,98,82
+Mekuria,Mekuria,male,100,10
+Tsegaye,Tsegaye,male,99,89
+Tesfaye,Tesfaye,male,99,343
+Samuel,Samuel,male,100,294
+Toga,Toga,male,86,92
+Abebe,Abebe,male,98,245
+Gebregziabher,Gebregziabher,male,100,3
+Moges,Moges,male,100,49
+Abay Yigzaw,Abay Yigzaw,male,96,46
+Bekele,Bekele,male,100,62
+Tsegaye Assefa,Tsegaye Assefa,male,99,166
+Yirdaw,Yirdaw,male,100,2
+Atnafu,Atnafu,male,100,14
+Tekleberhan,,,,
+Atske Selassie,Selassie,male,82,67
+Jioji,Jioji,male,75,4
+Josaia Voreqe,Josaia,male,100,9
+Aiyaz,Aiyaz,male,100,38
+Mahendra,Mahendra,male,100,4735
+Inia,Inia,male,100,3
+Rosy Sofia,Rosy Sofia,female,100,6
+Parveen  Bala,Parveen  Bala,male,92,7813
+Semi,Semi,male,92,13
+Osea,Osea,male,100,6
+Ifereimi,Ifereimi,male,100,4
+Premila,Premila,female,75,4
+Jone,Jone,male,100,34
+Ashneel,Ashneel,male,100,9
+Mereseini,Mereseini,female,100,9
+Faizul Ariff,Faizul Ariff,male,98,525
+Naivakararurubalavu,,,,
+Satyendra,Satyendra,male,100,1073
+Sauli,Sauli,male,99,96
+Sanna,Sanna,female,96,873
+Katri,Katri,female,97,274
+Jari,Jari,male,99,1397
+Antti,Antti,male,100,1368
+Mila,Mila,female,97,31
+Li,Li,female,57,7
+Tuula,Tuula,female,96,395
+Krista,Krista,female,97,209
+Tytti,Tytti,female,98,56
+Pekka,Pekka,male,99,1058
+Ville,Ville,male,99,1271
+Anna-Kaja,Anna-Kaja,female,97,631
+Sirpa,Sirpa,female,98,408
+Aino-Kaisa,Aino-Kaisa,female,97,463
+Hanna,Hanna,female,95,712
+Timo,Timo,male,100,1412
+Olli,Olli,male,100,505
+Kirsti Helena,Kirsti Helena,female,98,411
+Jukka,Jukka,male,99,1146
+Edouard,Edouard,male,98,2888
+Florence,Florence,female,98,12778
+Franck,Franck,male,99,31285
+Bruno,Bruno,male,98,25603
+Amelie,Amelie,female,97,5171
+Marlene,Marlene,female,97,2139
+Frederique,Frederique,female,94,2275
+Christophe,Christophe,male,97,51368
+Nicole,Nicole,female,98,9163
+Muriel,Muriel,female,98,6573
+Sebastien,Sebastien,male,98,31249
+Jean-Michel,Jean-Michel,male,99,3776
+Annick,Annick,female,98,4957
+Gerald,Gerald,male,98,2769
+Agnes,Agnes,female,98,4309
+Roxana,Roxana,female,99,104
+Jacqueline,Jacqueline,female,98,4998
+Julien,Julien,male,99,61396
+Genevieve,Genevieve,female,97,1875
+Jean-Baptiste,Jean-Baptiste,male,98,2313
+Francois  de Galhau,Francois De,male,96,12442
+Ali  Ondimba,Ali,male,97,109
+Julien Nkoghe,Julien Nkoghe,male,98,47
+Biendi Maganga,Maganga,unknown,50,8
+Rigobert,Rigobert,male,100,5
+Lambert Noel,Lambert Noel,male,98,46
+Roger,Roger,male,100,73
+Arnauld Calixte Engandji,Arnauld Calixte,male,100,16
+Alain Claude,Alain Claude,male,88,353
+Lee,Lee,male,100,6
+Max,Max,male,100,36
+Jean de Dieu Moukagni,Jean de Dieu Moukagni,male,100,342
+Edgard Anicet Mboumbou,Edgard Anicet Mboumbou,male,99,87
+Emmanuel Norbert Tony,Emmanuel Norbert Tony,male,99,114
+Rose Christiane Ossouka,Christiane,female,100,13
+Michel Menga,Michel,male,99,151
+Noel,Noel,male,97,36
+Francis  Ndzigue,Francis,male,96,95
+Jean Fidele,Jean Fidele,male,99,342
+Denise Mekam'ne Edzidzie epouse,Denise,female,92,13
+Jean-Marie,Jean-Marie,male,100,13
+Sosthene,Sosthene,male,100,22
+Yolande,Yolande,female,100,18
+Nanette,Nanette,female,100,10
+Arsene Edouard,Arsene Edouard,male,98,54
+Francoise,Francoise,female,100,6
+Michel Xavier,Michel Xavier,male,98,180
+Isatou,Isatou,female,99,148
+Amie,Amie,female,96,5751
+Claudiana,Claudiana,female,97,274
+Yahya,Yahya,male,97,10174
+Mambury,,,,
+Mamadou,Mamadou,male,98,13183
+Lamin,Lamin,male,93,1911
+Ahmadou Lamin,Ahmadou Lamin,male,94,2411
+Badara,Badara,male,97,513
+Ebrima,Ebrima,male,98,703
+Abubacarr,Abubacarr,male,100,35
+Musa,Musa,male,95,17784
+Fafa,Fafa,female,50,3234
+Hamat,Hamat,male,94,32
+Bai Lamin,Bai Lamin,male,88,2377
+Fatou,Fatou,female,97,5400
+Hadrammeh,,,,
+Dawda,Dawda,male,98,124
+Lang,Lang,male,77,563
+Salome,Salome,female,97,221
+Irakli,Irakli,male,99,592
+Giorgi,Giorgi,male,99,1423
+Tea,Tea,female,95,108
+Maia,Maia,female,96,176
+Mikheil,Mikheil,male,100,79
+Levan,Levan,male,100,407
+Ivane,Ivane,male,100,28
+Vakhtang,Vakhtang,male,100,55
+Grigol,Grigol,male,100,15
+Ketevan,Ketevan,female,99,67
+Koba,Koba,male,100,99
+Kakha,Kakha,male,100,98
+Frank-Walter,Frank-Walter,male,96,19514
+Angela,Angela,female,98,2556
+Olaf,Olaf,male,99,2670
+Annegret,Annegret,female,96,194
+Gerd,Gerd,male,90,3051
+Anja,Anja,female,98,6430
+Svenja,Svenja,female,98,1691
+Franziska,Franziska,female,98,2591
+Julia,Julia,female,98,8793
+Heiko,Heiko,male,83,5136
+Jens,Jens,male,99,9230
+Horst,Horst,male,98,3472
+Katarina,Katarina,female,96,355
+Hubertus,Hubertus,male,100,128
+Helge,Helge,female,71,1604
+Emily Margarethe,Emily Margarethe,female,97,378
+Christoph,Christoph,male,100,5773
+Nana,Nana,male,78,3763
+Mahamudu,Mahamudu,male,100,2
+Cecelia,Cecelia,female,93,14
+Ibrahim Awal,Ibrahim Awal,male,95,539
+Samuel Kofi,Samuel Kofi,male,100,7
+Ursula,Ursula,female,100,18
+Mathew Opoku,Mathew Opoku,male,93,226
+Ignatius Baffour,Ignatius Baffour,male,98,103
+Boakye,Boakye,male,92,115
+Ken Ofori,Ken Ofori,male,96,370
+Elizabeth Naa Afoley,Elizabeth Naa,female,96,667
+Akoto Osei,Akoto Osei,male,89,420
+Shirley Ayorkor,Shirley,female,100,86
+Otiko Afisa,Otiko Afisa,male,68,22
+Kwaku,Kwaku,male,98,676
+Boniface Abubakari,Boniface Abubakari,male,94,118
+Ambrose,Ambrose,male,100,30
+John Peter,John Peter,male,99,2354
+Hajia Alima,Hajia Alima,female,98,48
+Osei Kyei,Osei Kyei,male,91,432
+Joe,Joe,male,97,616
+Kwesi Amoako,Kwesi Amoako,male,98,480
+Joseph Kofi,Joseph Kofi,male,100,2
+Catherine Abelema,Catherine,female,99,87
+Kweku Ofori,Kweku Ofori,male,97,471
+Samuel Atta,Samuel Atta,male,100,2
+Isaac Kwame,Isaac Kwame,male,100,4
+Yaw Osafo,Yaw Osafo,male,98,583
+Henry Kofi,Henry Kofi,male,100,3
+Barfour,Barfour,male,75,4
+Martha Ama Akyaa Pobee,Martha Ama Akyaa,female,97,501
+Prokopios,Prokopios,male,100,4
+Panagiotis,Panagiotis,male,99,2970
+Michalis,Michalis,male,99,566
+Styliani,Styliani,female,100,2
+Spyridon-Adonis,Spyridon-Adonis,male,97,159
+Niki,Niki,female,98,618
+Christos,Christos,male,99,2202
+Nikolaos-Georgios,Nikolaos-Georgios,male,99,1573
+Vasileios,Vasileios,male,100,175
+Ioannis,Ioannis,male,99,1511
+Nikolaos,Nikolaos,male,99,687
+Mavroudis,Mavroudis,male,100,3
+Theocharis,Theocharis,male,100,21
+Cecile,Cecile,female,97,8854
+Keith,Keith,male,75,4
+Elvin,Elvin,male,94,3724
+Kindra,Kindra,female,97,175
+Emmalin,Emmalin,female,100,3822
+Nickolas,Nickolas,male,100,11842
+Gregory,Gregory,male,100,2
+Delma,Delma,female,93,394
+Clarice,Clarice,female,98,1421
+Oliver,Oliver,male,100,2
+Norland,Norland,male,83,6
+Ethelstan Angus,Angus,male,100,2
+Kenisha Aniya,Kenisha,female,100,2
+James Ernesto  Cabrera,James Ernesto,male,100,68
+Jafeth  Franco,Franco,male,100,14
+Mario  Cobar,Mario,male,100,392
+Jose Luis  Urruela,Jose Luis,male,99,1292
+Acisclo  Urruela,Acisclo ,male,96,24
+Oscar Hugo  Rivas,Oscar Hugo,male,99,484
+Jose Pelayo  Stormont,Jose,male,98,540
+Alfonso  Vargas,Alfonso,male,100,38
+Julio Hector  Dominquez,Julio Hector,male,100,470
+Sandra Erica  Polanco,Sandra Erica,female,95,108
+Enrique Antonio  Asturias,Enrique Antonio,male,99,253
+Luis Miguel  Moreno,Luis Miguel,male,99,945
+Carlos  Menegazzo,Carlos,male,99,778
+Carlos  Monge,Carlos,male,99,778
+Maria Consuelo,Maria Consuelo,female,98,124
+Baudilio  Merlos,Baudilio,male,100,3
+Carlos  Gularte,Carlos,male,99,778
+Julio Roberto  Guerra,Julio Roberto,male,99,516
+Manuel Alfredo  Pinto,Manuel Alfredo,male,100,302
+Jorge,Jorge,male,100,439
+Ibrahima Kassory,Ibrahima,male,99,330
+Dene,Dene,male,69,200
+Mariama,Mariama,female,100,58
+Ismael,Ismael,male,100,67
+Ibrahima,Ibrahima,male,99,330
+Boubacar,Boubacar,male,99,157
+Sanoussy Bantama,Sanoussy,male,100,6
+Mamady,Mamady,male,100,137
+Cheick Taliby,Cheick Taliby,male,100,32
+Oye,Oye,male,74,230
+Frederic,Frederic,male,100,5
+Mamadi,Mamadi,male,96,68
+Edouard Niankoye,Edouard,male,100,8
+Abdoulaye Yero,Abdoulaye Yero,male,99,299
+Thierno Ousmane,Thierno Ousmane,male,100,7
+Zakaria,Zakaria,male,100,3
+Tibou,Tibou,male,100,7
+Amara,Amara,male,97,60
+Maitre Cheick,Cheick,male,100,30
+Roger Patrick,Roger Patrick,male,100,27
+Mory,Mory,male,100,87
+Kalifa Gassama,Kalifa Gassama,male,92,494
+Kanny,Kanny,female,75,4
+Mamy Moustapha,Mamy Moustapha,male,97,62
+Billy Nankouma,Billy,male,75,4
+Lansana,Lansana,male,97,58
+Bourema,Bourema,male,75,4
+Mouctar,Mouctar,male,98,65
+Sekou Kissing,Sekou,male,100,135
+Alpha Ibrahima,Alpha Ibrahima,male,100,14
+Aboubacar,Aboubacar,male,99,187
+Elhadj Abdoul Karim,Elhadj Abdoul Karim,male,99,94
+Louceny,Louceny,male,100,3
+Kerfalla,Kerfalla,male,100,11
+Fatoumata  Sidibe,Fatoumata Sidibe,female,96,188
+Jose Mario,Jose Mario,male,100,13
+Aristides,Aristides,male,100,2
+Agnelo,Agnelo,male,98,183
+Nicolau,Nicolau,male,96,415
+Aristides Ocante da,Aristides,male,100,2
+Vicente,Vicente,male,99,15180
+Camilo Simoes,Camilo Simoes,male,99,5939
+Antonio Serifo,Antonio,male,100,14
+Antonio Sirifo,Antonio,male,100,14
+Adiatu Djalo,Djalo,male,100,3
+Joao Ribeiro Butiam,Joao,male,100,10
+Iaia,Iaia,male,100,4
+Eduardo da Costa,Eduardo,male,100,3
+Barros Bacar,Bacar,male,86,7
+Maria Inacia Co,Maria,female,100,8
+Antonio Oscar,Antonio Oscar,male,100,16
+Victor Gomes,Victor,male,100,2
+Mutaro,Mutaro,male,75,4
+Ester,Ester,female,98,7612
+Victor Luis Pinto Fernandes,Victor Luis,male,100,4
+Mamadu Serifo,Mamadu,male,100,9
+Joao Alberto,Joao Alberto,male,100,12
+Queba,Queba,male,75,4
+Joao,Joao,male,100,10
+Quite,,,,
+Pauleta,Pauleta,male,61,49
+Humiliano Alves,Alves,male,81,932
+Suleimane,Suleimane,male,100,3
+Florentino Fernando,Fernando,male,100,13
+David Arthur,David,male,100,13
+Moses Veerasammy,Moses,male,100,2
+Dawn,Dawn,female,100,8697
+Khemraj,Khemraj,male,100,2
+Sydney,Sydney,female,70,4628
+Hemraj,Hemraj,male,99,372
+Winston,Winston,male,100,5
+Nicolette,Nicolette,female,100,6541
+Basil,Basil,male,100,2
+Raphael,Raphael,male,99,22692
+Volda,Volda,male,100,4
+Tabitha,Tabitha,female,99,2506
+Amna,Amna,female,97,1558
+Gobind,Gobind,male,100,134
+Riyad David,David,male,100,13
+Rudolph Michael,Rudolph Michael,male,100,32
+Jovenel,Jovenel,male,75,4
+Jean Henry,Jean Henry,male,88,113
+Jobert,Jobert,male,97,101
+Ronell,Ronell,female,56,151
+Jean Michel,Jean Michel,male,100,5
+Enol,Enol,male,93,73
+Jouthe,,,,
+Bocchit,,,,
+Mamatha Irene,Mamatha Irene,female,98,30599
+Jean-Marie Reynaldo,Jean-Marie Reynaldo,male,100,4
+Jean Roudy,Jean Roudy,male,89,106
+Pierre Josue Agenor,Pierre Josue,male,92,132
+Jean Claudy,Jean Claudy,male,89,107
+Marie Greta Roy,Marie Roy,female,92,24
+Fritz,Fritz,male,100,13
+Marie Elise Brisson,Marie,female,100,22
+Marie Christine,Marie Christine,female,100,27
+Evelyne,Evelyne,female,100,4
+Edwing,Edwing,male,100,2
+Jean Dubois,Jean,male,88,102
+Paul Getty,Paul,male,96,26
+Pietro,Pietro,male,99,18347
+Bernardito,Bernardito,male,100,8
+Juan Orlando  Alvarado,Juan Orlando,male,99,155
+Ricardo Antonio  Arias,Ricardo Antonio,male,99,157
+Olga Margarita  Rodriguez,Olga Margarita,female,92,25
+Maria Antonia  Rosales,Maria Antonia,female,97,76
+Jose Ramon  Alcerro,Jose Ramon,male,100,347
+Christa,Christa,female,98,3675
+Freddy,Freddy,male,92,13
+Miguel Antonio,Miguel Antonio,male,100,2
+Arnaldo,Arnaldo,male,83,6
+Marcial,Marcial,male,100,6
+Rocio,Rocio,female,100,17
+Lisandro  Banegas,Lisandro,male,100,2
+Octavio,Octavio,male,100,5
+Karla,Karla,female,98,112
+Jose Adonis,Jose Adonis,male,100,308
+Carlos Alberto  Erazo,Carlos Alberto,male,100,477
+Jose Antonio  Fuentes,Jose Antonio,male,99,374
+Ebal,Ebal,male,91,11
+Julian  Tinoco,Julian,male,89,9
+Oscar Fernando  Banegas,Oscar Fernando,male,99,359
+Wilfredo Rafael  Rodriguez,Wilfredo Rafael,male,99,70
+Maria Dolores  Lara,Maria Lara,female,97,71
+Mary Elizabeth,Mary Elizabeth,female,99,75
+Janos,Janos,male,99,823
+Zsolt,Zsolt,male,100,8640
+Antal,Antal,male,96,1064
+Gergely,Gergely,male,99,1398
+Istvan,Istvan,male,99,1250
+Tibor,Tibor,male,100,5767
+Mihaly,Mihaly,male,99,152
+Miklos,Miklos,male,98,318
+Laszlo,Laszlo,male,98,1103
+Sandor,Sandor,male,99,700
+Andrea,Andrea,female,98,5713
+Gyorgy,Gyorgy,male,99,183
+Katalin,Katalin,female,99,5605
+Gudni Thorlacius,Gudni,male,100,12
+Katrin,Katrin,female,100,16
+Lilja,Lilja,female,100,36
+Gudmundur,Gudmundur,male,100,45
+Bjarni,Bjarni,male,98,61
+Kristjan Thor,Kristjan Thor,male,100,51
+Gudlaugur Thor,Gudlaugur Thor,male,100,24
+Svandis,Svandis,female,100,3
+Thordis Kolbrun Reykfjord,Thordis Kolbrun,female,100,11
+Sigridur,Sigridur,female,100,18
+Asmundur Einar,Asmundur Einar,male,100,115
+Sigurdur Ingi,Sigurdur Ingi,male,97,60
+Asgeir,Asgeir,male,100,8
+Bergdis,Bergdis,female,75,4
+Jorundur,,,,
+Ram Nath,Ram Nath,male,100,14
+Venkaiah,Venkaiah,male,100,12
+Narendra,Narendra,male,100,4529
+Ajit Kumar,Ajit Kumar,male,99,225
+Narengra Singh,Singh,male,93,808
+Giriraj,Giriraj,male,100,226
+Sadananda,Sadananda,male,100,82
+Pralhad,Pralhad,male,100,127
+Piyush,Piyush,male,100,6118
+Ravi Shankar,Ravi Shankar,male,100,283
+Ramvilas,Ramvilas,male,100,10
+Nirmala,Nirmala,female,98,518
+Rajnath,Rajnath,male,95,22
+Harsh,Harsh,male,100,74
+Prakash,Prakash,male,100,9616
+Subrahmanyam,Subrahmanyam,male,99,202
+Harsimrat Kaur,Harsimrat Kaur,female,85,73
+Amit,Amit,male,100,33808
+Ramesh  Nishank,Ramesh Nishank,male,100,11421
+Gajendra Singh,Gajendra Singh,male,100,85
+Nitin,Nitin,male,100,12262
+Mukhtar Abbas,Mukhtar Abbas,male,100,750
+Narendra Singh,Narendra Singh,male,100,152
+Dharmendra,Dharmendra,male,100,2857
+Mahendra Nath,Mahendra Nath,male,100,10
+Thaawar Chand,Chand,male,92,309
+Smriti Zubin,Smriti Zubin,female,78,784
+Arjun,Arjun,male,100,6259
+Shripad Yesso,Shripad,male,100,224
+Hardeep Singh,Hardeep Singh,male,100,52
+Prahalad Singh,Prahalad Singh,male,100,5
+Jitendra,Jitendra,male,100,6347
+Santosh Kumar,Santosh Kumar,male,100,693
+Raj Kumar,Raj Kumar,male,100,654
+Inderjit Singh,Inderjit Singh,male,100,43
+Mansukh,Mansukh,male,100,87
+Kiren,Kiren,male,70,20
+Shaktikanta,Shaktikanta,male,100,3
+Harsh Vardhan,Harsh Vardhan,male,100,89
+Syed,Syed,male,98,5678
+Joko  Jokowi,Joko Jokowi,male,99,2296
+Ma'ruf,Ma'ruf,male,100,64
+Airlangga,Airlangga,male,100,38
+Muhadjir,Muhadjir,male,100,2
+Binsar Pandjaitan,Binsar,male,100,90
+Mahfud,Mahfud,male,99,155
+Pratikno,Pratikno,male,100,9
+Tjahjo,Tjahjo,male,100,17
+Syahrul Yasin,Syahrul Yasin,male,99,658
+Johnny,Johnny,male,98,127
+Teten,Teten,male,87,45
+Subianto Djojohadikusumo,Subianto,male,95,19
+Nadiem,Nadiem,male,75,4
+Arifin,Arifin,male,99,744
+Nurbaya Bakar,Nurbaya Bakar,female,57,14
+Indrawati,Indrawati,female,94,34
+Retno Lestari Priansari,Retno Lestari,female,94,1269
+Terawan Agus,Agus,male,99,11038
+Agus Gumiwang,Agus,male,99,11038
+Sofian,Sofian,male,99,154
+Yasonna,,,,
+Ida,Ida,female,95,1206
+Edhy,Edhy,male,97,112
+Suharso,Suharso,male,100,6
+Basuki,Basuki,male,99,232
+Fachrul,Fachrul,male,98,143
+Bambang,Bambang,male,100,3210
+Abdul Halim,Abdul Halim,male,100,14
+Juliari,,,,
+Zainudin,Zainudin,male,100,80
+Erick,Erick,male,99,956
+Kusubandio,,,,
+Agus,Agus,male,99,11038
+Budi Karya,Budi Karya,male,98,5321
+Gusti Ayu Bintang,Gusti Ayu Bintang,female,80,5828
+St,St,female,63,75
+Pramono,Pramono,male,100,68
+Budi,Budi,male,98,5219
+Perry,Perry,male,92,48
+Dian Triansyah,Dian Triansyah,female,68,4938
+Ali Hoseini,Ali Hoseini,male,94,240864
+Hasan Fereidun,Hasan Fereidun,male,96,83848
+Mohsen,Mohsen,male,99,10048
+Mohammad Baqer,Mohammad Baqer,male,100,8
+Eshaq,Eshaq,male,95,43
+Laya,Laya,female,93,461
+Hosein Ali,Hosein Ali,male,100,6
+Sorena  Khavas,Sorena ,male,82,110
+Masumeh,Masumeh,female,98,46
+Jamshid,Jamshid,male,99,677
+Ali Akbar,Ali Akbar,male,99,282
+Ali Asqar,Ali Asqar,male,94,240879
+Mohammad Ali,Mohammad Ali,male,99,774
+Mahmud  Najafabadi,Mahmud ,male,98,2022
+Mohammad Javad Azari,Mohammad Javad Azari,male,99,50212
+Abbas,Abbas,male,98,8768
+Farhad,Farhad,male,99,4525
+Reza,Reza,male,97,17936
+Mohammad Javad  Khonsari,Mohammad Javad ,male,99,50179
+Mahmud  Tabar,Mahmud  Tabar,male,98,2033
+Abdolreza Rahmani,Abdolreza Rahmani,male,86,338
+Alireza,Alireza,male,99,9043
+Bijan Namdar,Bijan Namdar,male,98,802
+Mansur,Mansur,male,98,1342
+Masud,Masud,male,99,1387
+Abdolnaser,,,,
+Qolam Ali,Ali,male,96,236138
+Barham,Barham,male,97,33
+Salih al,Salih Al,male,94,184
+Naim al,Al,male,91,117
+Bengin,Bengin,male,75,4
+Abd al-Amir al,Abd Al,male,94,263
+Najah al,Najah Al,male,91,146
+Nawfal Baha,Nawfal Baha,male,100,36
+Suha Khalil,Suha Khalil,male,57,89
+Luay al,Luay Al,male,94,174
+Fuad,Fuad,male,97,35
+Muhammad Ali al,Muhammad Ali Al,male,97,6269
+Jafar,Jafar,male,98,62
+Qusay al,Qusay Al,male,94,183
+Yasin al,Yasin Al,male,91,136
+Faruq Amin,Faruq Amin,male,100,49
+Basim al,Basim Al,male,95,246
+Thamir Abbas,Thamir Abbas,male,98,497
+Nuri Sabah Hamid al,Nuri Sabah Hamid Al,male,94,402
+Muhammad Hashim al,Muhammad Hashim Al,male,96,349
+Abdallah,Abdallah,male,100,40
+Jamal al,Jamal Al,male,95,286
+Ahmad al,Ahmad Al,male,100,2
+Ali al,Ali Al,male,89,9
+Farid,Farid,male,100,17
+Michael Daniel,Michael Daniel,male,99,2671
+Leo,Leo,male,99,108
+Katherine,Katherine,female,100,51
+Josepha,Josepha,female,100,2
+Regina,Regina,female,99,73
+Heather,Heather,female,98,81
+Paschal,Paschal,male,100,11
+Eoghan,Eoghan,male,99,135
+Shane,Shane,male,99,989
+Geraldine,Geraldine,female,99,202
+Reuben,Reuben,male,100,8
+Binyamin,Binyamin,male,100,12
+Uri,Uri,male,100,294
+Yifat,Yifat,female,95,41
+Miri,Miri,female,97,152
+Naftali,Naftali,male,100,14
+Aryeh,Aryeh,male,100,7
+Eli,Eli,male,99,583
+Rafi,Rafi,male,99,128
+Yuval,Yuval,male,90,360
+Ze'ev Elkin,Zeev,male,100,132
+Moshe,Moshe,male,98,600
+Yisrael,Yisrael,male,100,7
+Yaakov,Yaakov,male,96,47
+Yoav,Yoav,male,99,251
+Gilad,Gilad,male,99,185
+Ze'ev,Ze'ev,male,100,8
+Haim,Haim,male,100,284
+Tzachi,Tzachi,male,100,25
+Ofir,Ofir,male,94,196
+Gila,Gila,female,88,48
+Yariv,Yariv,male,100,62
+Bezalel,Bezalel,male,100,4
+Avichai,Avichai,male,100,12
+Ron,Ron,male,96,374
+Danny,Danny,male,99,192
+Giuseppe,Giuseppe,male,100,65535
+Riccardo,Riccardo,male,99,20457
+Teresa,Teresa,female,98,6475
+Dario,Dario,male,99,14815
+Lorenzo,Lorenzo,male,99,23964
+Stefano,Stefano,male,99,51491
+Vincenzo,Vincenzo,male,99,31988
+Elena,Elena,female,99,20228
+Luigi,Luigi,male,99,35095
+Paola,Paola,female,98,18156
+Luciana,Luciana,female,98,2390
+Alfonso,Alfonso,male,99,5475
+Nunzia,Nunzia,female,98,2295
+Fabiana,Fabiana,female,99,3104
+Giuseppe Luciano Calogero,Giuseppe Luciano Calogero,male,99,77776
+Francesco,Francesco,male,100,65535
+Federico,Federico,male,99,21201
+Ignazio,Ignazio,male,99,2170
+Armando,Armando,male,99,4345
+Mariangela,Mariangela,female,98,2188
+Andrew,Andrew,male,99,132
+Olivia Atavia,Olivia,female,100,16
+Ruel Bankroft,Ruel,male,100,11
+Olivia,Olivia,female,100,16
+Nigel,Nigel,male,100,17
+Kamina Elizabeth,Elizabeth,female,100,8
+Christopher Charles,Christopher Charles,male,99,142
+Audley,Audley,male,100,9
+Delroy Aubyn,Delroy Aubyn,male,100,29
+Shahine Elizabeth,Elizabeth,female,100,8
+Horace,Horace,male,100,19
+Andrew  Brian,Andrew Brian,male,99,172
+Edmund Curtis,Curtis,male,100,7
+William James Charles,William James Charles,male,100,63
+Daryl Wesley Phillip,Daryl Wesley Phillip,male,100,47
+Bryan,Bryan,male,100,14
+Audrey Patrice,Audrey Patrice,female,95,41
+Earle Courtenay,Earle,male,100,2
+Naruhito,Naruhito,male,100,8
+Shinzo,Shinzo,male,100,11
+Taro,Taro,male,98,362
+Yoshihide,Yoshihide,male,100,29
+Taku,Taku,male,99,469
+Hiroshi,Hiroshi,male,99,1448
+Koichi,Koichi,male,99,394
+Shinjiro,Shinjiro,male,96,27
+Toshimitsu,Toshimitsu,male,100,34
+Katsunobo,,,,
+Sanae,Sanae,female,97,76
+Masako,Masako,female,99,140
+Kazuyoshi,Kazuyoshi,male,100,97
+Seiichi,Seiichi,male,99,104
+Kazunori,Kazunori,male,100,192
+Ryota,Ryota,male,100,574
+Naokazu,Naokazu,male,100,6
+Kajiyama,Kajiyama,male,75,4
+Seigo,Seigo,male,100,48
+Hiroshige,Hiroshige,male,100,6
+Yasutoshi,Yasutoshi,male,93,14
+Seiko,Seiko,female,97,72
+Haruhiko,Haruhiko,male,100,41
+Shinsuke,Shinsuke,male,100,139
+Koro,Koro,male,67,6
+Abdallah,Abdallah,male,99,335
+Basim,Basim,male,100,21
+Muthana,Muthana,male,100,7
+Tayseer,Tayseer,male,100,42
+Hala,Hala,female,96,211
+Saleh,Saleh,male,99,270
+Mohammad al,Mohammad Al,male,91,34
+Ayman al,Ayman Al,male,98,655
+Saad al,Saad Al,male,99,229
+Muhyiddine,,,,
+Tareq,Tareq,male,99,506
+Salameh,Salameh,male,100,23
+Bassam,Bassam,male,97,227
+Nidal,Nidal,male,96,164
+Walid,Walid,male,100,143
+Wissam,Wissam,male,86,42
+Falah,Falah,male,100,21
+Basma,Basma,female,100,24
+Yasera,Yasera,male,67,3
+Mubarak,Mubarak,male,100,5
+Amjad,Amjad,male,99,367
+Sami,Sami,male,98,619
+Majd,Majd,male,71,168
+Khalid,Khalid,male,99,415
+Raed,Raed,male,98,566
+Fares,Fares,male,98,222
+Ziad,Ziad,male,98,212
+Dina,Dina,female,96,116
+Sima,Sima,female,100,9
+Nursultan,Nursultan,male,99,120
+Kasym-Zhomart,Kasym-Zhomart,male,100,18
+Askar,Askar,male,100,178
+Alikhan,Alikhan,male,100,20
+Berdibek,Berdibek,male,100,2
+Roman,Roman,male,100,7094
+Saparkhan,,,,
+Aktoty,Aktoty,female,100,9
+Nurlan,Nurlan,male,97,204
+Magzum,Magzum,male,100,3
+Askhat,Askhat,male,100,85
+Yelzhan,Yelzhan,male,75,4
+Beybut,,,,
+Dauren,Dauren,male,99,145
+Yerlan,Yerlan,male,100,94
+Marat,Marat,male,98,166
+Birzhan,Birzhan,male,100,30
+Ruslan,Ruslan,male,100,339
+Bakhyt,Bakhyt,female,59,29
+Kalmukhanbet,,,,
+Karim,Karim,male,100,13
+Gizat,Gizat,male,75,4
+Yerbolat,Yerbolat,male,100,21
+Yerzhan,Yerzhan,male,99,68
+Kayrat,Kayrat,male,100,13
+Uhuru,Uhuru,male,100,6
+Mwangi,Mwangi,male,92,270
+Raychelle,Raychelle,female,100,10
+Eugene,Eugene,male,99,191
+Adan Abdulla,Adan Abdulla,male,99,69
+Keriako,,,,
+Monica,Monica,female,97,189
+Sicily Kanina,Sicily Kanina,female,100,10
+Joseph Wakaba,Joseph Wakaba,male,99,2668
+Fred,Fred,male,99,739
+Ukur,Ukur,male,100,2
+Farida,Farida,female,100,43
+Margaret,Margaret,female,99,586
+Amina Chawahir,Amina,female,96,121
+Najib,Najib,male,91,11
+James Wainaina,James Wainaina,male,99,2911
+Paul Kihara,Paul Kihara,male,99,1941
+Patrick Ngugi,Patrick Ngugi,male,99,1716
+Robinson Njeru,Robinson Njeru,male,94,151
+Lazarus,Lazarus,male,100,45
+Taneti,Taneti,male,75,4
+Teuea,Teuea,male,100,2
+Atarake,,,,
+Tetabo,Tetabo,male,75,4
+Tauanei,,,,
+Kobebe,,,,
+Ioteba,,,,
+Mikarite,,,,
+Taoaba,,,,
+Tetiro,,,,
+Teburoro,,,,
+Il Sung,Il Sung,male,100,3
+Jong Il,Jong Il,male,100,6
+Jong Un,Jong Un,male,100,2
+Ryong Hae,Ryong Hae,male,59,134
+Pong Ju,Pong Ju,male,63,6043
+Pu Il,Pu Il,male,85,3253
+Son Hui,Son Hui,male,76,5792
+Kyong Thaek,Kyong,male,61,33
+Jae Ryong,Jae Ryong,male,76,1639
+Su Gil,Su Gil,male,67,10696
+Yong Chol,Yong Chol,male,87,2379
+Kwang Chol,Kwang Chol,female,56,871
+Man Gon,Man Gon,male,91,9026
+Su Yong,Su Yong,male,91,11
+Yong Ho,Yong Ho,male,100,21
+Jong Su,Jong Su,male,100,8
+Yong Gil,Yong Gil,male,100,6
+Yong Dae,Yong Dae,male,100,9
+Hyong Chol,Hyong Chol,male,81,130
+Yong Rim,Yong Rim,female,58,5644
+Yong Ju,Yong Ju,male,78,9
+Yong Guk,Yong Guk,male,86,2307
+Chun Sil,Chun Sil,female,58,2603
+Ji Yong,Ji Yong,male,100,18
+Myong Chol,Myong Chol,male,79,139
+Su Rin,Su Rin,female,69,5472
+Chang Yop,Chang Yop,male,73,2828
+Nung,Nung,male,54,372
+Chol,Chol,male,82,117
+Thae Song,Thae Song,male,59,160
+Chol Min,Chol Min,male,65,5050
+Kum Hui,Kum Hui,male,51,1896
+Chol Ung,Chol Ung,male,78,236
+Kwang Ho,Kwang Ho,male,100,24
+Tok Hun,Tok Hun,male,87,777
+In Ho,In Ho,male,100,3
+Ju,Ju,male,55,4734
+Ryong Nam,Ryong Nam,male,79,5553
+Tu Chol,Tu Chol,male,71,2731
+Jong Ho,Jong Ho,male,100,40
+Sung Du,Sung Du,male,82,2004
+Ui Gyong,Ui Gyong,male,62,128
+Chung Gil,Chung Gil,male,89,8063
+Sung Ho,Sung Ho,male,100,60
+Kil Ryong,Kil Ryong,male,73,284
+Myong Hak,Myong Hak,male,89,534
+Kyong Nam,Kyong Nam,male,79,5556
+Hun,Hun,male,87,557
+Kang Son,Kang Son,male,88,6665
+Chun Nam,Chun Nam,male,83,6
+Man Su,Man Su,male,71,12625
+Jae Song,Jae Song,male,77,1683
+Yong Jae,Yong Jae,male,92,13
+Chun Sop,Chun Sop,male,69,1025
+Ung Jo,Ung Jo,male,60,19267
+Ryong Guk,Ryong Guk,male,73,75
+Kang Ho,Kang Ho,male,100,6
+Kyong Jun,Kyong Jun,male,88,6862
+Jong Gwan,Jong Gwan,male,100,2
+Il Ryong,Il Ryong,male,93,2726
+Chung Gol,Chung Gol,male,77,1813
+Chol Su,Chol Su,female,68,4359
+Chang Uk,Chang Uk,male,100,4
+Kil Son,Kil Son,male,86,4362
+Il Guk,Il Guk,male,92,2741
+Chun Bok,Chun Bok,male,75,1126
+Hyok,Hyok,male,89,9
+Chol Gu,Chol Gu,male,75,740
+Song Ho,Song Ho,male,100,2
+Yong Su,Yong Su,male,100,9
+Sang Gon,Sang Gon,male,100,3
+Chon Gyun,Chon Gyun,male,58,371
+Song,Song,male,100,74
+Jae-in,Jae-In,male,86,7
+Nak-yon,Nak-Yon,male,87,887
+Nam-ki,Nam-Ki,male,77,6654
+Eun-hae,Eun-Hae,female,65,485
+Hyeon-soo,Hyeon-Soo,male,54,1200
+Yang-woo,Yang-Woo,male,69,4909
+Jae-kap,Jae-Kap,male,76,1753
+Myung-rae,Myung-Rae,female,80,1420
+Kyung-wha,Kyung-Wha,male,72,283
+Jung-ok,Jung-Ok,male,73,2511
+Neung-hoo,Neung-Hoo,male,73,775
+Young,Young,male,100,51
+Hyun-mee,Hyun-Mee,male,63,2415
+Kyeong-doo,Kyeong-Doo,male,67,388
+Seong-hyeok,Seong-Hyeok,male,93,310
+Ki-young,Ki-Young,male,100,12
+Young-sun,Young-Sun,male,100,9
+Yun-mo,Yun-Mo,male,75,9618
+Yeon-chul,Yeon-Chul,male,66,406
+Young-min,Young-Min,male,100,36
+Hoon,Hoon,male,97,582
+Eui-yong,Eui-Yong,male,86,2291
+Ju-yeol,Ju-Yeol,male,53,5011
+Soo-hyuck,Soo-Hyuck,male,53,1116
+Hyun,Hyun,male,82,1161
+Ramush,Ramush,male,96,46
+Behgjet,Behgjet,female,75,4
+Dardan,Dardan,male,95,699
+Enver,Enver,male,97,4838
+Dalibor,Dalibor,male,99,3217
+Nenad,Nenad,male,99,4360
+Kujtim,Kujtim,male,96,686
+Valdrin,Valdrin,male,97,205
+Shyqyri,Shyqyri,male,100,16
+Albena,Albena,female,97,255
+Dhurata,Dhurata,female,95,42
+Bedri,Bedri,male,96,1100
+Uran,Uran,male,92,155
+Pal,Pal,male,82,914
+Besim,Besim,male,96,1545
+Bejtush,Bejtush,male,100,22
+Abelard,Abelard,male,98,44
+Rrustem,Rrustem,male,96,50
+Skender,Skender,male,97,509
+Mahir,Mahir,male,97,4999
+Bajram,Bajram,male,97,636
+Vlora,Vlora,female,95,386
+al-Ahmad al-Jabir al-Sabah,Al-Ahmad,male,97,2697
+al-Hamad al-Sabah,Al-Hamad,male,96,1251
+al-Jarrah al-Sabah,Al-Jarrah,male,91,330
+Abd al-Muhsin al,Abd Al,male,90,288
+Rashid Abd al-Muhsin al,Rashid Abd Al,male,92,367
+Muhammad al,Muhammad Al,male,93,419
+Nasser Abdallah al-Roudhan,Nasser Abdallah,male,99,863
+Isa Ahmad al,Isa Ahmad Al,male,97,2709
+Mohammad Abdulatif al,Mohammad Abdulatif Al,male,97,1280
+Anas al-Khalid al,Anas Al,male,91,324
+Jamal Mansour al,Jamal Mansour Al,male,93,564
+Abdallah al-Mubarak al-Sabah,Abdallah,male,99,153
+Faleh Abdullah,Faleh Abdullah,male,98,1670
+Abdelmohsen Hamad al-Marzuq,Hamad,male,97,1024
+Abdulrahman Abdulkareem,Abdulrahman Abdulkareem,male,100,219
+Yaqub al,Yaqub Al,male,88,231
+Sabeeh Barak al-Sabeeh,Barak,male,100,24
+Yasir,Yasir,male,96,28
+Faleh Abdullah Ali,Faleh Abdullah Ali,male,98,5958
+Sabih al-Sabih,Sabih,male,100,4
+al-Abdallah al-Jabir al-Sabah,Al-Abdallah,male,93,380
+Mansur Ayad al,Mansur Ayad Al,male,89,248
+Sooronbay,,,,
+Mukhammedkalyy,,,,
+Kubatbek,Kubatbek,male,100,2
+Jengish,,,,
+Altynay,Altynay,female,100,4
+Zamirbek,Zamirbek,male,100,5
+Samat,Samat,male,97,32
+Erkinbek,Erkinbek,male,75,4
+Azamat,Azamat,male,100,96
+Sanjar,Sanjar,male,100,12
+Kanybek,Kanybek,male,100,9
+Nurbolot,Nurbolot,male,100,2
+Baktygul,Baktygul,female,100,14
+Chynggyz,,,,
+Kosmosbek,,,,
+Kashkar,,,,
+Ulukbek,Ulukbek,male,100,6
+Janat,Janat,female,75,4
+Erlis,Erlis,male,77,77
+Dastan,Dastan,male,100,23
+Orozbek,Orozbek,male,75,4
+Otkurbek,Otkurbek,male,75,4
+Tolkunbek,Tolkunbek,male,100,2
+Bolot,Bolot,male,100,3
+Mirgul,Mirgul,female,100,5
+Vorachit,Vorachit,male,100,4
+Viphavan,,,,
+Sisoulit,,,,
+Chitmani,,,,
+Siphandon,,,,
+Douangdi,,,,
+Thikeo,,,,
+Lachanthaboun,,,,
+Inthilat,,,,
+Kommasit,,,,
+Sounvileut,,,,
+Phonsena,,,,
+Vongdala,Vongdala,female,75,4
+Santivong,,,,
+Xaisompheng,,,,
+Chan-gnalat,Chan,male,69,13
+Keomixai,,,,
+Sihavong,,,,
+Lakhamfong,,,,
+Sinthavong,,,,
+Phomphiphak,Phomphiphak,female,75,4
+Kittikhoun,,,,
+Sangsomsak,,,,
+Yiapaoheu,,,,
+Boupphanouvong,,,,
+Phongthadi,,,,
+Sithphaxay,,,,
+Xaignavong,,,,
+Phansoulivong,,,,
+Egils,Egils,male,100,71
+Krisjanis,Krisjanis,male,89,19
+Janis,Janis,male,99,761
+Artis,Artis,male,100,149
+Kaspars,Kaspars,male,100,404
+Nauris,Nauris,male,100,84
+Ralf,Ralf,male,100,3
+Ilga,Ilga,female,99,75
+Juris,Juris,male,99,552
+Edgars,Edgars,male,99,553
+Ilze,Ilze,female,98,602
+Sandis,Sandis,male,99,92
+Talis,Talis,male,100,4
+Ramona,Ramona,female,100,49
+Ilmars,Ilmars,male,100,37
+Maris,Maris,male,92,279
+Andrejs,Andrejs,male,100,309
+Michel,Michel,male,98,814
+Sa'ad al,Saad Al,male,100,3
+Ghassan,Ghassan,male,98,509
+Hasan al,Hasan Al,male,100,5
+Ilyas,Ilyas,male,75,4
+Akram,Akram,male,98,136
+Nada al,Nada Al,female,100,3
+Fadi,Fadi,male,97,2343
+Ali Hasan,Ali Hasan,male,97,8052
+Gibran,Gibran,male,75,4
+Wael,Wael,male,98,909
+Raya Hafar al,Raya Al,male,69,85
+Camille,Camille,male,91,35
+Jamil,Jamil,male,99,237
+Awadis,Awadis,male,75,4
+Yusif,Yusif,male,75,4
+May,May,female,97,145
+Hasan,Hasan,male,98,909
+Violette Khayrallah al,Violette Khayrallah Al,male,81,75
+Riad,Riad,male,98,145
+Gabriel Naoum,Gabriel Naoum,male,99,69
+Amal,Amal,female,96,275
+Letsie,Letsie,male,100,4
+Thomas Motsoahae,Thomas,male,100,3
+Mahala,Mahala,female,76,105
+Thesele,Thesele,male,75,4
+Sentje,,,,
+Tlohelang,,,,
+Ntoi,Ntoi,male,75,4
+Moeketsi,Moeketsi,male,100,26
+Lesego,Lesego,male,75,4
+Mamotsie,Mamotsie,female,75,4
+Mahali,Mahali,female,75,4
+Nkaku,,,,
+Mokhele,Mokhele,male,100,7
+Keketso,Keketso,male,73,11
+Habofanoe,Habofanoe,male,75,4
+Joang,Joang,male,100,2
+Maliehe Prince,Prince,male,100,6
+Chalane,Chalane,unknown,50,8
+Matebatso,Matebatso,female,75,4
+Motloho,,,,
+Tefo,Tefo,male,100,7
+Samonyane,Samonyane,male,75,4
+Rets'elisitsoe Adelaide,Retselisitsoe,male,74,19
+Sankatana Gabriel,Gabriel,male,100,3
+Nkopane Raseeng,Nkopane,male,75,8
+Ellen,Ellen,female,100,5
+Selau,Selau,male,100,2
+Axel,Axel,male,98,15264
+Boima,Boima,male,100,3
+Marjon,Marjon,female,89,306
+Berniece,Berniece,female,100,15
+Lenn Eugene,Eugene,male,100,10
+Henrique,Henrique,male,100,2
+Neto Zarzar,Neto Zarzar,male,98,1655
+Brownie,Brownie,female,52,237
+Frederick,Frederick,male,100,12
+William Gyude,William,male,100,47
+Charles Saah,Charles Saah,male,100,54
+Clarence,Clarence,male,93,15
+Milton,Milton,male,100,6
+Lewis,Lewis,male,100,3
+Fayiz al,Al,male,93,15
+Abdel Salam,Abdel Salam,male,94,17
+Musa al,Musa Al,male,93,29
+Fathi al,Fathi Al,male,97,133
+Ali Faraj al,Ali Faraj Al,male,98,910
+Omar al,Omar Al,male,100,2
+Muhammad al-Tahir Hammuda,Muhammad,male,100,28
+Fathi,Fathi,male,97,118
+Wafa,Wafa,female,97,33
+Elmahdi,Elmahdi,male,99,129
+Mauro,Mauro,male,100,2
+Dominique,Dominique,male,75,4
+Georg,Georg,male,75,4
+Kurt,Kurt,male,100,4
+Gitanas,Gitanas,male,100,7
+Saulis,Saulis,male,100,3
+Andrius,Andrius,male,100,798
+Mindaugas,Mindaugas,male,100,782
+Virginijus,Virginijus,male,100,115
+Algirdas,Algirdas,male,100,253
+Zygimantas,Zygimantas,male,100,21
+Kestutis,Kestutis,male,100,218
+Vilius,Vilius,male,100,149
+Linas,Linas,male,100,360
+Aurelijius,,,,
+Rita,Rita,female,99,641
+Elvinas,Elvinas,male,100,7
+Raimundas,Raimundas,male,99,119
+Jaroslav,Jaroslav,male,100,32
+Vitas,Vitas,male,100,40
+Rolandas,Rolandas,male,100,289
+Audra,Audra,female,100,100
+Henri,Henri,male,100,44
+Xavier,Xavier,male,98,46
+Etienne,Etienne,male,92,13
+Fernand,Fernand,male,96,48
+Claude,Claude,male,98,243
+Carole,Carole,female,97,90
+Lydia,Lydia,female,100,15
+Corinne,Corinne,female,100,42
+Romain,Romain,male,100,143
+Sylvie,Sylvie,female,94,109
+Andry,Andry,male,95,471
+Lucien Fanomezantsoa,Lucien Fanomezantsoa,male,97,61
+Lalatiana Andriantogarivo,Lalatiana,female,86,29
+Vonjy,Vonjy,male,76,33
+Alexandre,Alexandre,male,92,26
+Naina,Naina,male,95,42
+Blanche Nirina,Nirina,female,56,285
+Landisoa,Landisoa,female,100,2
+Tianarivelo,Tianarivelo,male,100,2
+Jacques,Jacques,male,98,50
+Fidinarivo,Fidinarivo,female,75,4
+Leon Richard,Leon Richard,male,97,76
+Marie Therese,Marie Therese,female,98,217
+Irmah Lucien,Lucien,male,97,33
+Julio,Julio,male,100,36
+Hajo,Hajo,male,94,325
+Joel,Joel,male,100,31
+Tinoka,Tinoka,male,100,2
+Everton Hebert,Everton,male,100,2
+Kondwani,Kondwani,male,95,103
+Dr  Susuwele,Dr,male,75,4
+Francis,Francis,male,100,105
+Mary Thom,Mary Thom,female,80,54
+Jappie,Jappie,male,97,66
+Nicholas,Nicholas,male,100,13
+Ibrahim Salim,Ibrahim Salim,male,100,18
+Bright,Bright,male,100,69
+Martha Lunji Mhone,Martha,female,98,50
+Symon Vuwa,Symon,male,100,16
+Benson Malunga,Benson,male,93,15
+Bintony,,,,
+Ralph,Ralph,male,100,13
+Dalitso,Dalitso,male,80,35
+Edward,Edward,male,100,75
+Perks,Perks,male,80,10
+Al-Sultan  Ri'ayatuddin Al-Mustafa Billah Shah,Shah,male,96,811
+bin Mohamad,Bin Mohamad,male,99,993
+Wan Ismail,Wan Ismail,male,100,4
+Ayub,Ayub,male,97,30
+Singh Deo,Singh Deo,male,100,16
+Sabu,Sabu,male,75,4
+Nasution Ismail,Ismail,male,98,319
+Mohamed  Ali,Mohamed Ali,male,98,1297
+Malik,Malik,male,99,74
+Bee Yin,Bee Yin,female,70,319
+Mohd  Md Yusof,Mohd Md Yusof,male,99,4143
+Abdul Samad,Abdul Samad,male,100,4
+Guan Eng,Guan Eng,male,79,139
+Yassin,Yassin,male,100,6
+Kamaruddin,Kamaruddin,male,97,38
+Murugeson,Murugeson,male,75,4
+Ignatius Dorell,Ignatius,male,100,18
+Teresa  Suh Sim,Teresa Sim,male,51,228
+Mohd Harun,Mohd Harun,male,99,3863
+Ketapi,,,,
+Anthony  Siew Fook,Anthony Siew Fook,male,80,495
+Jayakumar Arulanandam,Jayakumar,male,100,7
+Bian,Bian,male,100,2
+Syed Abdul Rahman,Syed Abdul Rahman,male,100,2
+Vui Keong,Vui Keong,male,93,84
+Mohd Yunus,Mohd Yunus,male,100,7
+Mohd Zabidi,Mohd Zabidi,male,99,3824
+Syed Mohd  Tengku Hussin,Syed Mohd Tengku Hussin,male,98,4515
+Ibrahim  Ibu  Mohamed,Ibrahim Ibu Mohamed,male,99,1839
+Faisal,Faisal,male,100,16
+Yumna,Yumna,female,100,5
+Mohamed Maleeh,Mohamed,male,99,1357
+Mariya Ahmed,Mariya Ahmed,male,98,1194
+Fayyaz,Fayyaz,male,98,467
+Aishath,Aishath,female,98,299
+Rasheed Hassan,Rasheed Hassan,male,99,303
+Zaha,Zaha,female,100,2
+Abdulla,Abdulla,male,99,344
+Shidhatha,,,,
+Aminath,Aminath,female,98,239
+Iruthisham,,,,
+Thilmeeza,,,,
+Ibrahim Boubacar,Ibrahim Boubacar,male,98,1425
+Soumeylou Boubeye,Soumeylou,male,75,4
+Safia,Safia,female,75,8
+Nango,Nango,male,100,3
+Al Hassan Ag Ahmed,Al Hassan Ag Ahmed,male,98,133
+Nina  Intalou,Nina,female,93,14
+diaye Ramatoulaya,Diaye,male,77,13
+Tiemoko,Tiemoko,male,100,38
+Arouna Modibo,Arouna Modibo,male,99,468
+Boubou,Boubou,male,100,43
+Sambou,Sambou,male,96,26
+Aida   bo,Aida Bo,female,93,30
+Kamissa,Kamissa,female,92,13
+Samba Ousmane,Samba Ousmane,male,99,985
+Mohamed Moustapha,Mohamed Moustapha,male,100,2
+Moulaye Ahmed,Moulaye Ahmed,male,100,2
+Traore Seynabou,Traore Seynabou,male,77,348
+Assetou Foune Samake,Assetou Foune Samake,female,67,156
+Tiena,Tiena,female,96,26
+Diarra Raky,Diarra,male,81,190
+Kane Rokia,Kane Rokia,female,87,103
+Yaya,Yaya,male,99,267
+Hawa Baba Ba,Hawa Baba Ba,male,52,499
+Abinou,,,,
+Adama Tiemoko,Adama Tiemoko,male,96,896
+Diakite Aissata,Diakite Aissata,female,80,321
+Thierno Amadou Omar Hass,Thierno Amadou Omar,male,99,1012
+Salif,Salif,male,99,212
+Lassine,Lassine,male,98,100
+Mohamed Ag,Mohamed Ag,male,100,18
+Soumana Mory,Soumana Mory,male,99,88
+Mahamadou,Mahamadou,male,99,569
+Marie-Louise,Marie-Louise,female,97,73
+Christopher,Christopher,male,97,79
+Chris,Chris,male,97,256
+Evarist,Evarist,male,99,73
+Helena,Helena,female,100,6
+Carmelo,Carmelo,male,94,36
+Justyne,Justyne,female,94,120
+Konrad,Konrad,male,100,8
+Clive,Clive,male,100,26
+Hilda,Hilda,female,98,4056
+Wilbur,Wilbur,male,97,220
+Brenson,Brenson,male,100,7
+Kalani,Kalani,male,75,4
+Amenta,Amenta,unknown,50,6
+Tony,Tony,male,100,2
+Alfred  Jr,Alfred,male,100,3
+Ann Marie,Ann Marie,female,99,586
+Amatlain Elizabeth,Elizabeth,female,99,44677
+Mohamed Ould Abdel,Mohamed Ould Abdel,male,98,525
+Mohamed Salem Ould,Mohamed Salem Ould,male,100,2
+Khadijetou Mbareck,Khadijetou,female,100,13
+Sidi Mohamed Ould,Sidi Mohamed Ould,male,98,690
+Mokhtar Ould,Mokhtar Ould,male,100,42
+Seyedna Ali Ould Mohamed,Ali Ould Mohamed,male,99,555
+Amedi,Amedi,male,75,4
+Amal Mint,Amal Mint,female,100,5
+Yahya Ould,Yahya Ould,male,100,86
+Ismail Ould Cheikh,Ismail Ould Cheikh,male,99,257
+Nani Ould,Ould,male,100,32
+Sidi Ould,Sidi Ould,male,98,215
+Ahmedou Ould,Ahmedou Ould,male,88,8
+Ahmed Ould Ehil,Ahmed Ould,male,98,294
+Moctar Malal,Moctar Malal,male,98,57
+Mohamed Ould Cheikh El,Mohamed Ould Cheikh El,male,99,722
+Naha Mint Hamdi Ould,Naha Mint Hamdi Ould,male,87,46
+Mohamed Abdel,Mohamed Abdel,male,98,493
+Lemina Mint El Ghotob Ould,Lemina Mint El Ghotob Ould,male,89,56
+Mariem Mint,Mariem Mint,female,98,41
+Djindah Mohamed El Moustapha,Mohamed El Moustapha,male,99,544
+Zeinebou Mint Ely,Zeinebou Mint Ely,male,80,45
+Mohamed Ould,Mohamed Ould,male,100,13
+Najwa,Najwa,female,75,4
+Mohamed Lemine Ould,Mohamed Lemine Ould,male,100,4
+Abdel Aziz,Abdel Aziz,male,100,8
+Prithvirajsing,,,,
+Pravind,Pravind,male,100,7
+Anerood,,,,
+Showkutally,,,,
+Mahen,Mahen,male,100,32
+Pradeep,Pradeep,male,100,14
+Eddy,Eddy,male,98,44
+Ashit,Ashit,male,75,4
+Leela Devi,Leela Devi,female,100,14
+Sunil,Sunil,male,100,35
+Renganaden,Renganaden,male,75,4
+Sudhir,Sudhir,male,100,12
+Premdut,,,,
+Nandcoomar,,,,
+Fazila,Fazila,female,100,2
+Anwar,Anwar,male,95,21
+Soodesh,Soodesh,male,67,3
+Nandocoomar,,,,
+Alain,Alain,male,99,101
+Yogida,,,,
+Anil,Anil,male,100,48
+Stephan,Stephan,male,95,58
+Ravi,Ravi,male,100,128
+Ramesh Basant,Ramesh,male,100,14
+Sooroojdev,,,,
+Jagdish,Jagdish,male,83,6
+Andres Manuel,Andres Manuel,male,100,5
+Roman  Falcon,Falcon,male,100,3
+Victor  Arambula,Victor,male,100,3255
+Javier  Espriu,Javier,male,100,3733
+Alejandra  Guerrero,Alejandra Guerrero,female,97,3275
+Graciela  Colin,Graciela Colin,female,91,336
+Rocio  Garcia,Rocio Garcia,female,98,1016
+Victor Manuel,Victor Manuel,male,100,550
+Arturo  Gutierrez,Arturo Gutierrez,male,99,3199
+Marcelo  Casaubon,Marcelo,male,100,263
+Olga  Cordero,Olga Cordero,female,97,292
+Jorge Carlos  Varela,Jorge Carlos,male,100,15490
+Luisa Maria  Lujan,Luisa Maria Lujan,female,98,2056
+Luis Cresencio,Luis Cresencio,male,100,7178
+Jose Rafael  Duran,Jose Rafael Duran,male,99,6962
+Esteban,Esteban,male,99,654
+Irma Erendira,Irma Erendira,female,100,457
+Alfonso  Montano,Alfonso Montano,male,100,1237
+Miguel  Marques,Miguel Marques,male,99,4220
+Maria Luisa  Gonzalez,Maria Luisa Gonzalez,female,97,2065
+Alejandro  Manero,Alejandro,male,100,6725
+Alejandro  de Leon,Alejandro de Leon,male,100,6898
+Martha  Coqui,Martha Coqui,female,99,1130
+Juan Ramon    Ramirez,Juan Ramon Ramirez,male,99,5100
+Yosiwo,,,,
+Lorrie,Lorrie,female,96,561
+Kalwin,Kalwin,male,100,2
+Kandhi,Kandhi,male,64,11
+Livinson,Livinson,male,100,3
+Joses,Joses,male,97,76
+Marion,Marion,female,95,26832
+Carlson,Carlson,male,96,138
+Wesley,Wesley,male,99,13241
+Akillino Harris,Harris,male,97,2088
+Jane,Jane,female,97,30423
+Ion,Ion,male,99,715
+Sergiu,Sergiu,male,100,628
+Alexandru,Alexandru,male,99,396
+Victor,Victor,male,99,501
+Anatol,Anatol,male,100,64
+Corneliu,Corneliu,male,100,20
+Aurel,Aurel,male,98,48
+Viorica,Viorica,female,98,145
+Fadei,Fadei,male,67,6
+Gilles,Gilles,male,100,6
+Marie-Pierre,Marie-Pierre,female,60,55
+Maguy,Maguy,female,100,2
+Isabelle,Isabelle,female,100,16
+Khaltmaa,Khaltmaa,female,75,4
+Ukhnaa,Ukhnaa,female,75,4
+Ulziisaikhan,Ulziisaikhan,male,100,2
+Gombojav,Gombojav,unknown,50,2
+Khavdislam,,,,
+Nyamaa,Nyamaa,unknown,50,6
+Tsedenbal,,,,
+Tserenpil,,,,
+Namsrai,Namsrai,female,75,4
+Chimed,Chimed,male,75,4
+Batjargal,Batjargal,male,91,32
+Damdin,Damdin,male,67,3
+Davaajantsan,,,,
+Tsend,Tsend,female,57,7
+Sodnom,Sodnom,male,100,2
+Dolgorsuren,Dolgorsuren,female,100,9
+Jadamba,Jadamba,male,100,4
+Miyegombo,,,,
+Bayartsaikhan,,,,
+Yondon,Yondon,female,75,4
+Sukhee,Sukhee,male,100,2
+Milo,Milo,male,100,7
+Dusko,Dusko,male,100,34
+Rafet,Rafet,male,100,3
+Milutin,Milutin,male,100,13
+Dragica,Dragica,female,92,13
+Srdjan,Srdjan,male,100,57
+Kenan,Kenan,male,100,15
+Mehmed,Mehmed,male,100,5
+Mevludin,Mevludin,male,95,99
+Suzana,Suzana,female,100,25
+Sanja,Sanja,female,98,93
+Nikola,Nikola,male,100,303
+Pavle,Pavle,male,100,17
+Osman,Osman,male,100,9
+Marjia,Marjia,female,92,13
+Nebojsa,Nebojsa,male,100,42
+Zeljko,Zeljko,male,99,120
+Mohammed,Mohammed,male,98,7673
+Saad Eddine al,Saad Eddine Al,male,97,3794
+Aziz,Aziz,male,97,9887
+Mohamed Amine,Mohamed Amine,male,98,461
+Nasser,Nasser,male,96,326
+Fatema,Fatema,female,98,41
+El Hossein,El Hossein,male,83,1186
+Lahcen,Lahcen,male,98,1846
+Nabil,Nabil,male,97,6581
+Moulay Hafid,Moulay Hafid,male,100,4
+Mustafa,Mustafa,male,98,1201
+Abdesslam,Abdesslam,male,97,113
+Anis,Anis,male,97,344
+Rachid,Rachid,male,97,17570
+Mohand,Mohand,male,97,35
+Bassima,Bassima,female,97,29
+Abdellah,Abdellah,male,98,3876
+Mohammed,Mohammed,male,98,7673
+Lahbib,Lahbib,male,97,158
+Driss,Driss,male,98,4705
+Idriss Azami,Idriss Azami,male,97,435
+Hakima,Hakima,female,98,680
+Charafat,,,,
+Mbarka,Mbarka,female,100,45
+Soumiya,Soumiya,female,100,120
+Mamoun,Mamoun,male,99,95
+Mohamed Najib,Mohamed Najib,male,100,6
+Draiss,Draiss,male,100,2
+Abdeladim,Abdeladim,male,98,86
+Abdellatif,Abdellatif,male,98,1896
+Lalla  Alaoui,Lalla Alaoui,male,56,726
+Filipe Jacinto,Filipe Jacinto,male,100,2
+Carlos Agostinho,Carlos Agostinho,male,99,900
+Higino,Higino,male,96,27
+Silva,Silva,male,96,57
+Atanasio Salvador,Atanasio Salvador,male,100,109
+Adriano,Adriano,male,100,83
+Conceita,,,,
+Ernesto Max,Ernesto Max,male,99,200
+Cidalia Manuel Chauque,Cidalia Manuel Chauque,male,94,611
+Nazira Karimo Vali,Nazira Vali,female,71,7
+Jaime,Jaime,male,99,239
+Joaquim,Joaquim,male,100,301
+Vitoria Dias,Vitoria Dias,male,63,35
+Celso,Celso,male,99,285
+Carmelita Rita,Rita,female,96,53
+Jorge Penicela,Jorge Penicela,male,98,433
+Agostinho,Agostinho,male,100,139
+Eusebio Lambo,Eusebio,male,100,39
+Adelaide Anchia,Adelaide Anchia,female,98,55
+Beatriz da Consolacao Mateus,Beatriz Da Mateus,male,72,185
+Rogerio,Rogerio,male,98,120
+Hage,Hage,male,100,2
+Nangola,,,,
+Saara,Saara,female,96,24
+Netumbo,,,,
+Alpheus,Alpheus,male,100,3
+Penda ya,Penda,male,100,22
+Katrina,Katrina,female,100,16
+Pohamba,Pohamba,male,100,2
+Calle,Calle,male,97,874
+Bernard,Bernard,male,100,9
+Doreen,Doreen,female,100,2
+Kalumbi,Kalumbi,male,100,5
+Itah,Itah,female,67,15
+Frans,Frans,male,95,63
+Tjekero,,,,
+Stanley,Stanley,male,96,26
+Sackeus,Sackeus,male,100,3
+Erkki,Erkki,male,100,3
+Utoni,,,,
+Zephania,Zephania,male,94,47
+Leon,Leon,male,100,23
+Charlea,Charlea,female,92,13
+Erastus Utoni,Erastus,male,100,48
+Peya,Peya,female,75,8
+Obeth,Obeth,male,100,45
+Ipumbu Wendelinus,Wendelinus,male,100,3
+Neville,Neville,male,100,10
+Lionel Rouwen,Lionel Rouwen,male,99,18143
+Rennier,Rennier,male,100,6
+Wawani,,,,
+Isabella,Isabella,female,98,11891
+Maverick,Maverick,male,100,7175
+Reagan,Reagan,male,90,3323
+Marlene Inemwin,Marlene,female,98,11755
+Bidya Devi,Bidya Devi,male,67,24
+Nanda Bahadar,Nanda,male,90,10
+Khadga Prasad,Khadga Prasad,male,100,21
+Ishwor,Ishwor,male,100,74
+Upendra,Upendra,male,100,52
+Ghanshyam,Ghanshyam,male,100,17
+Gokul Prasad,Gokul Prasad,male,98,47
+Yogesh,Yogesh,male,100,67
+Bina,Bina,female,100,26
+Giriraj Mani,Giriraj Mani,male,98,42
+Barsaman,,,,
+Hridayesh,Hridayesh,male,100,21
+Yuba Raj,Yuba Raj,male,100,6
+Pradeep Kumar,Pradeep Kumar,male,100,2
+Shakti Bahadur,Shakti Bahadur,male,94,18
+Bhanubhakta,Bhanubhakta,male,100,2
+Ram Bahadur,Ram Bahadur,male,100,9
+Lekh Raj,Lekh Raj,male,99,309
+Rameshwor Raya,Rameshwor,male,100,11
+Padma Kumari,Padma Kumari,female,57,14
+Basanta Kumar,Basanta Kumar,male,100,228
+Mohammad Istiyak,Mohammad,male,100,7
+Parbat,Parbat,male,83,6
+Jagat Bahadur,Jagat Bahadur,male,100,31
+Ram Kumari,Ram Kumari,male,96,277
+Dhan Bahadur,Dhan Bahadur,male,100,5
+Nawaraj,Nawaraj,male,100,37
+Mitilal,,,,
+Rambir,Rambir,male,75,4
+Chiranjivi,Chiranjivi,male,100,5
+Arjun Kumar,Arjun Kumar,male,100,6
+Durga Prasad,Durga Prasad,male,100,3
+Willem-alexander,Willem-Alexander,male,99,4257
+Karin Kajsa,Karin Kajsa,female,99,2305
+Carola,Carola,female,99,371
+Ingrid,Ingrid,female,98,1559
+Wopke,Wopke,male,93,14
+Stef,Stef,male,90,701
+Sigrid,Sigrid,female,98,103
+Cora,Cora,female,97,210
+Arie,Arie,male,97,1146
+Wouter,Wouter,male,100,1717
+Klaas Henderikus Willem,Klaas Henderikus Willem,male,98,4863
+Hendrik,Hendrik,male,99,695
+Karel Jan Gustaaf,Karel Jan Gustaaf,male,96,14300
+Patsy,Patsy,female,75,4
+Jacinda,Jacinda,female,100,7
+Iain,Iain,male,100,29
+Damien,Damien,male,100,26
+Jenny,Jenny,female,98,130
+Tracey,Tracey,female,99,106
+Kelvin,Kelvin,male,100,39
+Carmel,Carmel,female,100,5
+Phil,Phil,male,99,146
+Megan,Megan,female,100,127
+Nanaia,Nanaia,unknown,50,2
+Damien OÃ¢â  â,Damien,male,100,26
+Graeme,Graeme,male,100,109
+Rosemary,Rosemary,female,100,31
+Daniel  Saavedra,Daniel,male,100,63
+Rosario  Zambrana de Ortega,Rosario,female,100,10
+Rosa Adelina  Castro,Rosa,female,100,25
+Salvador,Salvador,male,100,23
+Sumaya,Sumaya,female,96,457
+Johana Vanessa,Johana Vanessa,female,100,58
+Denis  Colindres,Denis,male,100,45
+Maria Amelia  Kinloch,Maria Amelia,female,98,129
+Carolina  Murillo,Carolina,female,94,51
+Orlando  Delgadillo,Orlando,male,100,48
+Alba Luz  Briones,Alba Luz,female,100,21
+Anasha,Anasha,female,87,15
+Oscar  Obregon,Oscar,male,100,128
+Paul  Kelley,Paul,male,100,17
+Wendy  Urbina,Wendy,female,95,40
+Leonardo Ovidio  Ramirez,Leonardo,male,100,27
+Francisco Obadiah  Hooker,Francisco,male,99,147
+Jaime  Castillo,Jaime,male,100,43
+Brigi,Brigi,female,98,677
+Sadou,Sadou,male,80,15
+Habi Mahamadou,Habi Mahamadou,male,97,245
+Assoumana Mallam,Assoumana,male,89,9
+Kalla,Kalla,male,100,3
+Mohamed Ben,Mohamed Ben,male,99,209
+Amina,Amina,female,96,52
+Almoustapha,Almoustapha,male,100,38
+Kadi,Kadi,female,93,14
+Hassoumi,Hassoumi,male,100,9
+Yahouza,Yahouza,male,100,6
+Magagi,Magagi,male,100,10
+Abdou,Abdou,male,96,220
+Marou,Marou,male,86,7
+Hassane Baraze,Hassane,male,98,143
+Pierre Foumakoye,Pierre,male,100,8
+Kane Aichatou,Kane Aichatou,female,93,59
+Sani,Sani,male,98,90
+Tidjani Idrissa,Tidjani Idrissa,male,96,135
+Illiassou,Illiassou,male,100,23
+Waziri,Waziri,male,75,4
+Kaffa Rekiatou Christelle,Kaffa Rekiatou Christelle,female,97,27679
+Barki,Barki,male,73,33
+Mohamed Sanoussi,Mohamed Sanoussi,male,100,2
+Kassoum,Kassoum,male,100,20
+Amani,Amani,male,100,8
+Tidjani ldrissa,Tidjani,male,100,12
+Issoufou,Issoufou,male,96,151
+Elback Adam,Adam,male,100,50
+Moctar,Moctar,male,99,85
+Ibrahim Issifi,Ibrahim Issifi,male,98,495
+Barkai,Barkai,male,75,4
+Albade,,,,
+Ahmat,Ahmat,male,100,5
+Lamido Ousseini Salamatou Bella,Ousseini Salamatou Bella,male,60,110
+Maizoumbou Hapsatou,Maizoumbou,female,75,4
+Ouhoumoudou,,,,
+Rhissa Ag,Rhissa,male,100,4
+Hassana,Hassana,female,100,6
+Muhammadu,Muhammadu,male,100,17
+Oluyemi  Yemi,Oluyemi Yemi,male,80,1317
+Mohammed Sabo,Mohammed Sabo,male,97,2145
+Hadi,Hadi,male,91,35
+Ali Isa,Ali Isa,male,95,1041
+Bashir,Bashir,male,98,692
+Adamu,Adamu,male,97,662
+Mohammed Musa,Mohammed Musa,male,100,8
+Zainab Shamsuna,Zainab,female,98,601
+Geoffrey,Geoffrey,male,100,95
+Osagie,Osagie,male,95,222
+Sadiya Umar,Sadiya Umar,male,95,1488
+Otunba Adeniyi,Otunba Adeniyi,male,96,1817
+Lai,Lai,male,96,26
+Rauf,Rauf,male,97,38
+Abubakar,Abubakar,male,98,2197
+Olamilekan,Olamilekan,male,98,1042
+Godswill Obot,Godswill Obot,male,97,498
+Mohammed Maigari,Mohammed Maigari,male,97,2095
+Sale,,,,
+Ogbonnaya,Ogbonnaya,male,99,67
+Rotimi,Rotimi,male,96,793
+Suleiman,Suleiman,male,97,818
+Dame Pauline,Dame Pauline,female,96,93
+Babatunde Raji,Babatunde Raji,male,96,2451
+Sunday,Sunday,male,98,3222
+Mustapha Baba,Mustapha Baba,male,97,1585
+Clement Ikanade,Clement,male,97,929
+Emeka,Emeka,male,99,2296
+Sharon,Sharon,female,94,786
+Ramatu Tijani,Ramatu Tijani,male,85,424
+Zubairu,Zubairu,male,100,73
+Adeleke,Adeleke,male,91,662
+Omotayo,Omotayo,male,77,659
+Uchechukwu,Uchechukwu,male,85,147
+Festus,Festus,male,98,875
+Timipre,Timipre,male,60,10
+Gbemisola,Gbemisola,female,84,224
+Sylvanus Adiewere,Sylvanus,male,98,123
+Tijjani Muhammad Bande,Tijjani Muhammad Bande,male,99,1603
+Gjorge,Gjorge,male,100,11
+Koco,Koco,male,79,73
+Bujar,Bujar,male,96,1172
+Hazbi,Hazbi,male,76,25
+Ljupco,Ljupco,male,98,122
+Asaf,Asaf,male,98,727
+Radmila,Radmila,female,98,959
+Kreshnik,Kreshnik,male,99,348
+Sadulla,Sadulla,male,82,17
+Venko,Venko,male,100,29
+Damjan,Damjan,male,99,589
+Bilen,Bilen,male,75,102
+Suhejl,Suhejl,male,100,5
+Goran,Goran,male,99,8120
+Zorica,Zorica,female,98,1022
+Samka,Samka,female,68,34
+Adnan,Adnan,male,97,23277
+Vasko,Vasko,male,98,319
+Vasile,Vasile,male,96,3203
+Harald,Harald,male,99,321
+Erna,Erna,female,92,13
+Olaug Vervik,Olaug,female,93,14
+Kjell Ingolf,Kjell Ingolf,male,99,404
+Ola,Ola,male,93,287
+Trine Skei,Trine,female,100,238
+Jan Tore,Jan Tore,male,100,33
+Sylvi,Sylvi,female,100,17
+Siv,Siv,female,97,103
+Harald Tom,Harald Tom,male,99,925
+Ine Eriksen,Ine,female,96,27
+Bent,Bent,male,91,55
+Dag Inge,Dag Inge,male,100,374
+Joran,Joran,male,99,232
+Anniken,Anniken,female,98,44
+Kjell-Borge,Kjell-Borge,male,99,402
+Iselin,Iselin,female,98,54
+Torbjorn Roe,Torbjorn Roe,male,100,13
+Jon Georg,Jon Georg,male,99,428
+Oystein,Oystein,male,100,27
+Kare,Kare,male,100,5
+bin Said Al Said,Bin Said Al Said,male,95,1915
+bin Shihab Al Said,Bin Shihab Al Said,male,94,1215
+bin Mahmud Al Said,Bin Mahmud Al Said,male,94,1161
+Fuad bin Jafar bin Muhammad al,Fuad Bin Jafar Bin Muhammad Al,male,92,572
+Abdallah bin Muhammad bin Abdallah al,Abdallah Bin Muhammad Bin Abdallah Al,male,92,608
+Khalid bin Umar bin Said al,Khalid Bin Umar Bin Said Al,male,96,2268
+Ali bin Masud bin Ali al,Ali Bin Masud Bin Ali Al,male,96,3446
+bin Hilal bin Saud al-Busaidi,Bin Hilal Bin Saud Al-Busaidi,male,99,417
+Madiha bint Ahmad bin Nasir al,Madiha Bint Ahmad Bin Nasir Al,male,89,790
+Muhammad bin Salim bin Said al,Muhammad Bin Salim Bin Said Al,male,96,2150
+Ahmed Mohammad Obaid,Ahmed Mohammad Obaid,male,98,2922
+bin Tariq Al Said,Bin Tariq Al Said,male,95,1337
+bint Saud al-Busaidi,Bint Saud Al-Busaidi,male,84,190
+Muhammad bin Saif al,Muhammad Bin Saif Al,male,94,965
+Ali bin Muhammad,Ali Bin Muhammad,male,98,1664
+bin Faisal bin Said al-Busaidi,Bin Faisal Bin Said Al-Busaidi,male,98,1238
+Abdul al-Malik bin Abdallah bin Ali al,Abdul Bin Abdallah Bin Ali Al,male,96,2161
+Abdallah bin Muhammad bin Said al,Abdallah Bin Muhammad Bin Said Al,male,95,1337
+Abdallah bin Nasser bin Abdallah al,Abdallah Bin Nasser Bin Abdallah Al,male,94,926
+Muhammad bin Hamad bin Sayf al,Muhammad Bin Hamad Bin Al,male,92,704
+Ahmad bin Abdallah bin Muhammad al,Ahmad Bin Abdallah Bin Muhammad Al,male,93,904
+Sultan bin Muhammad al,Sultan Bin Muhammad Al,male,95,946
+bin Said bin Said al-Kalbani,Bin Said Bin Said Al-Kalbani,male,97,1562
+Saad bin Muhammad bin Said al-Mardhuf al,Saad Bin Muhammad Bin Said Al,male,95,1347
+Ahmad bin Nasir bin Hamad al,Ahmad Bin Nasir Bin Hamad Al,male,93,937
+Ahmad bin Muhammad bin Salim al,Ahmad Bin Muhammad Bin Salim Al,male,95,1717
+al-Mutasim bin Hamud al-Busaidi,Bin Al-Busaidi,male,97,29
+bin Hamud al-Busaidi,Bin Al-Busaidi,male,97,29
+bin Saud bin Harib al-Busaidi,Bin Saud Bin Harib Al-Busaidi,male,99,213
+Darwish bin Ismail bin Ali,Darwish Bin Ismail Bin Ali,male,97,1638
+Yusuf bin  bin Abdallah,Yusuf Bin Bin Abdallah,male,98,124
+al-Fadhl bin Muhammad bin Ahmad alHarthi,Bin Muhammad Bin Ahmad Alharthi,male,96,509
+Salim bin Abdallah al,Salim Bin Abdallah Al,male,95,1270
+Abd al-Aziz bin Muhammad al,Abd Bin Muhammad Al,male,92,563
+Muhammad bin,Muhammad Bin,male,99,151
+bin Taymur Al Said,Bin Al Said,male,94,1156
+Umar bin Abd al-Munim al,Umar Bin Abd Al,male,91,454
+Abdallah bin Salih Khalfan al,Abdallah Bin Salih Khalfan Al,male,91,503
+Tahir bin Salim al,Tahir Bin Salim Al,male,95,1265
+Hunaina bint Sultan bin Ahmad al,Bint Sultan Bin Ahmad Al,male,92,1169
+Khalifa bin Ali bin Issa,Khalifa Bin Ali Bin Issa,male,98,1776
+Arif,Arif,male,99,961
+Imran,Imran,male,99,5157
+Ghulam Sarwar,Ghulam Sarwar,male,100,6
+Murad,Murad,male,100,188
+Pervez,Pervez,male,99,88
+Zubaida,Zubaida,female,100,15
+Muhammad Hammad,Muhammad Hammad,male,99,177
+Omar Ayub,Omar Ayub,male,99,455
+Shafqat,Shafqat,male,97,286
+Makhdoom Shah Mahmood,Makhdoom Shah Mahmood,male,97,1414
+Chaudhary Tariq Bashir,Chaudhary Tariq Bashir,male,99,2307
+Shireen,Shireen,female,86,37
+Khalid Maqbool,Khalid Maqbool,male,99,2092
+Ijaz Ahmad,Ijaz Ahmad,male,83,6
+Fehmida,Fehmida,female,100,14
+Ali Amin Khan,Ali Amin Khan,male,98,12732
+Muhammad Farogh,Muhammad,male,99,21722
+Syed Ali Haider,Syed Ali Haider,male,100,3
+Shehryar Khan,Shehryar Khan,male,100,2
+Sahibzada Muhammad Mehboob,Sahibzada Muhammad Mehboob,male,99,21996
+Muhammad Azam Khan,Muhammad Azam Khan,male,99,23779
+Khusro,Khusro,male,100,3
+Mohammadmian,,,,
+Sheikh Rashid,Sheikh Rashid,male,99,2170
+Noor-Ul-Haq,Noor-Haq,male,65,918
+Chaudhry Fawad,Chaudhry Fawad,male,99,792
+Muhammad Faisal,Muhammad Faisal,male,98,63
+Tariq,Tariq,male,99,1948
+Asad Majeed,Asad Majeed,male,99,3644
+Maleeha,Maleeha,female,96,50
+Thomas Esang,Thomas,male,100,2
+Raynold,Raynold,male,100,58
+Baklai,,,,
+Sinton,Sinton,male,100,4
+Elbuchel,,,,
+Emais,Emais,unknown,50,2
+Umiich,,,,
+Faustina,Faustina,female,94,478
+Secilil,Secilil,male,75,4
+Ernestine,Ernestine,female,97,509
+Hersey,Hersey,male,64,36
+Ngedikes Olai,Olai,male,60,10
+Laurentino  Cohen,Laurentino,male,75,4
+Jose Gabriel,Jose Gabriel,male,100,3
+Augusto,Augusto,male,100,20
+Ramon,Ramon,male,100,32
+Maruja,Maruja,female,92,226
+Alejandro,Alejandro,male,100,109
+Rosario,Rosario,female,100,21
+Doris,Doris,female,100,29
+Rafael,Rafael,male,99,104
+Rolando,Rolando,male,99,73
+Markova,Markova,female,71,7
+Gustavo,Gustavo,male,99,77
+Kenia Isolda,Kenia,female,100,22
+Rolando Julio   de Alba,Rolando Julio Alba,male,92,196
+Juan Ricardo,Juan Ricardo,male,99,431
+Meliton  Ruiz,Meliton,male,75,4
+Bob,Bob,male,100,4
+Davis Madava,Davis,male,86,7
+Puka,Puka,male,75,4
+Timothy,Timothy,male,93,14
+Wake,Wake,male,100,71
+Lekwa,Lekwa,male,75,4
+Chris Yer,Chris,male,95,37
+Saki Hacky,Saki,male,100,2
+Wera,Wera,female,89,298
+Rainbo,Rainbo,female,100,6
+Lino,Lino,male,98,6622
+Solan,Solan,unknown,50,2
+Jelta,,,,
+Nick Kopia,Nick,male,100,10
+Westly,Westly,male,92,38
+Pila Kole,Pila Kole,male,98,4379
+Alfred Luke,Alfred Luke,male,100,27
+Johnson Ibo,Johnson,male,100,9
+Sam,Sam,male,92,24
+Kerenga,Kerenga,male,75,4
+Bryan Jared,Bryan,male,100,10
+Soroi,Soroi,male,67,3
+Sasindran,Sasindran,male,100,11
+Michael Buku,Michael,male,100,76
+Loi,Loi,male,75,4
+Rupa Abraham,Abraham,male,100,12
+Teresa  Acosta,Teresa,female,95,21
+Ariel,Ariel,male,99,84
+Benigno,Benigno,male,75,4
+Luis Alberto,Luis Alberto,male,100,19
+Liz,Liz,female,99,103
+Alejandro  Vierci,Alejandro,male,100,75
+Juan Ernesto,Juan Ernesto,male,100,180
+Bernardino  Estigarribia,Bernardino,male,100,2
+Arnoldo,Arnoldo,male,98,420
+Dany,Dany,male,100,12
+Nilda,Nilda,female,100,16
+Jose  Sienra,Jose,male,98,181
+Manuel Maria  Cardozo,Manuel Maria,female,70,151
+Jose Antonio,Jose Antonio,male,100,5
+Martin Alberto  Cornejo,Martin Alberto,male,100,1144
+Vicente Antonio  Salinas,Vicente Antonio,male,100,636
+Jorge Luis  Chavesta,Jorge Luis,male,99,5213
+Sonia  Oneeglio,Sonia,female,99,235
+Walter Roger  Ruiz,Walter Roger Ruiz,male,99,932
+Ariela Maria de los Milagros  Florez,Ariela Maria de Los Milagros,female,98,1682
+Maria Antonieta  Luperdi,Maria Antonieta,female,98,806
+Flor Aidee  Medina,Flor,female,97,219
+Juan Carlos  Yonsen,Juan Carlos,male,99,4966
+Fabiola Martha  Dodero,Fabiola Martha,female,99,385
+Gustavo Adolfo   Velasquez,Gustavo Adolfo,male,100,663
+Edgar Manuel  Vela,Edgar Manuel,male,99,1667
+Maria Elizabeth Jacqueline  Pereyra,Maria Elizabeth Jacqueline,female,98,1647
+Rodolfo Eugenio  Wendorff,Rodolfo Eugenio,male,100,218
+Carlos  Soto,Carlos,male,100,3269
+Ana Teresa  Vergara,Ana Teresa,female,97,678
+Sylvia Elizabeth  Pizarro,Sylvia Elizabeth,female,99,761
+Rocio Ingred  Alvarado,Rocio Alvarado,female,98,437
+Edmer  Mori,Edmer,male,100,3
+Gloria Edelmira  Figueroa,Gloria Edelmira,female,100,200
+Julio  Flores,Julio Flores,male,100,936
+Hugo de Zela Martinez,Hugo De,male,100,441
+Nestor  Bardales,Nestor,male,100,141
+Leni,Leni,female,100,29
+Karlo,Karlo,male,99,84
+Wendel,Wendel,male,95,22
+Leonor,Leonor,female,100,35
+Roy,Roy,male,99,352
+Teodoro,Teodoro,male,95,20
+Francisco,Francisco,male,100,145
+Gregorio,Gregorio,male,96,27
+Menardo,Menardo,male,100,2
+Silvestre,Silvestre,male,100,8
+Delfin,Delfin,male,97,32
+Fortunato de la,Fortunato de La,male,59,51
+Bernadette Romulo,Bernadette Romulo,female,86,370
+Hermogenes,Hermogenes,male,100,5
+Benjamin,Benjamin,male,100,192
+Jose Manuel de Gallego,Jose Manuel De,male,99,705
+Kira,Kira,female,60,15
+Andrzej,Andrzej,male,99,20213
+Mateusz,Mateusz,male,100,22955
+Piotr,Piotr,male,99,40427
+Jacek,Jacek,male,99,14764
+Jaroslaw,Jaroslaw,male,99,666
+Jan Krzysztof,Jan Krzysztof,male,100,3
+Marek,Marek,male,99,24343
+Jadwiga,Jadwiga,female,99,1656
+Krzysztof,Krzysztof,male,100,25586
+Henryk,Henryk,male,99,1666
+Bozena,Bozena,female,98,1035
+Marian,Marian,male,98,2391
+Lukasz,Lukasz,male,99,4431
+Elzbieta,Elzbieta,female,99,1297
+Jerzy,Jerzy,male,99,4258
+Zbigniew,Zbigniew,male,100,4218
+Mariusz,Mariusz,male,99,18575
+Dariusz,Dariusz,male,99,8140
+Witold,Witold,male,100,1107
+Michal,Michal,male,99,6580
+Beata,Beata,female,98,14282
+Joanna,Joanna,female,98,21216
+Marcelo,Marcelo,male,98,1475
+Antonio Luis Santos da,Antonio Luis Santos Da,male,98,35780
+Mariana  da Silva,Mariana Da Silva,female,81,5191
+Maria do Ceu,Maria Do Ceu,female,100,80
+Graca,Graca,female,98,142
+Tiago  Rodrigues,Tiago Rodrigues,male,99,14038
+Joao Pedro Matos,Joao Pedro Matos,male,99,53347
+Pedro Manuel Dias de Jesus,Pedro Manuel Dias de Jesus,male,99,43656
+Francisca,Francisca,female,99,660
+Ana,Ana,female,98,31130
+Joao Gomes,Joao Gomes,male,91,23
+Manuel,Manuel,male,99,11728
+Ricardo  Santos,Ricardo Santos,male,99,20285
+Domingos Teixeira de Abreu,Domingos Teixeira de Abreu,male,96,1413
+bin Hamad Al Thani,Bin Hamad Al Thani,male,97,665
+bin Nasir bin Khalifa Al Thani,Bin Nasir Bin Khalifa Al Thani,male,95,244
+Ahmad bin Abdallah al,Ahmad Bin Abdallah Al,male,96,775
+Isa Saad al-Jafali al,Isa Saad Al,male,95,221
+Salih bin Ghanim bin Nasir al,Salih Bin Ghanim Bin Nasir Al,male,95,191
+Salih Muhammad Salim al,Salih Muhammad Salim Al,male,97,336
+bin Jasim bin Muhammad Al Thani,Bin Jasim Bin Muhammad Al Thani,male,97,290
+Muhammad Abd al-Wahid Ali al,Muhammad Abd Ali Al,male,97,1845
+Ghayth bin Mubarak al,Bin Mubarak Al,male,93,157
+Muhammad Salih al,Muhammad Salih Al,male,97,238
+Sharif al-Imadi,Sharif,male,91,11
+bin Abd al-Rahman Al Thani,Bin Abd Al Thani,male,92,141
+Hasan Lahdan Saqr al,Hasan Saqr Al,male,95,179
+Muhammad bin Abdallah bin Mitib al,Muhammad Bin Abdallah Bin Al,male,96,291
+al-Kuwari,Al-Kuwari,male,100,5
+Jasim Saif Ahmad al,Jasim Saif Ahmad Al,male,97,831
+bin Muhammad al-Atiyah,Bin Muhammad,male,99,154
+bin Saud Al Thani,Bin Saud Al Thani,male,94,136
+bin Hamad bin Muhammad Al Thani,Bin Hamad Bin Muhammad Al Thani,male,97,819
+bint Ahmad bin Saif Al Thani,Ahmad Bin Saif Al Thani,male,97,814
+Klaus,Klaus,male,94,34
+Ludovic,Ludovic,male,100,29
+Gratiela Leocadia,Gratiela,female,98,65
+Viorel,Viorel,male,99,1437
+Petre,Petre,male,94,597
+Stefan-Radu,Stefan-Radu,male,96,5446
+Oetru Bogdan,Bogdan,male,99,4377
+Danut,Danut,male,99,445
+Rovana,Rovana,female,100,2
+Ramona Nicole,Ramona Nicole,female,98,1348
+Sorina,Sorina,female,99,390
+Carmen Daniela,Carmen Daniela,female,100,6
+Tudorel,Tudorel,male,100,71
+Lia-Olguta,Lia-Olguta,female,99,198
+Mihai-Viorel,Mihai-Viorel,male,99,7218
+Eugen Orlando,Eugen Orlando,male,99,1002
+Nicolae,Nicolae,male,94,1265
+Natalia-Elena,Natalia-Elena,female,99,3951
+Bogdan Gheorghe,Bogdan Gheorghe,male,100,4
+Lucian,Lucian,male,99,1852
+Ioan,Ioan,male,99,1600
+Ioana,Ioana,female,97,2631
+Mugur,Mugur,male,99,79
+George Cristian,George Cristian,male,100,13
+Vladimir Vladimirovich,Vladimir Vladimirovich,male,100,2
+Dmitriy Anatolyevich,Dmitriy,male,100,2289
+Anton Germanovich,Anton,male,100,4797
+Maksim Alekseyevich,Maksim,male,100,1063
+Yuriy Ivanovich,Yuriy,male,99,589
+Konstatin Anatolyevich,Konstatin,male,75,4
+Tatyana Alekseyevna,Tatyana,female,98,1898
+Olga Yuryevna,Olga,female,98,8703
+Aleksey Vasilyevich,Aleksey,male,99,1792
+Dmitriy Nikolayevich,Dmitriy,male,100,2289
+Vitaliy Leyontyevich,Vitaliy,male,100,696
+Yuriy Petrovich,Yuriy Petrovich,male,99,598
+Yevgeniy Nikolayevich,Yevgeniy,male,100,45
+Vladimir Rostislavovich,Vladimir,male,99,5819
+Sergey Kuzhugetovich,Sergey,male,100,9144
+Konstantin Yuryevich,Konstantin,male,100,2239
+Maksim Stanislavovich,Maksim,male,100,1063
+Aleksandr Valentinovich,Aleksandr,male,100,2515
+Aleksandr Aleksandrovich,Aleksandr,male,100,2515
+Sergey Viktorovich,Sergey,male,100,9144
+Veronika Igoryevna,Veronika,female,98,743
+Denis Valentinovich,Denis,male,100,4644
+Vladimir Aleksandrovich,Vladimir Aleksandrovich,male,100,2
+Aleksandr Vladimirovich,Aleksandr Vladimirovich,male,100,2520
+Maksim Anatolyevich,Maksim,male,100,1063
+Mikhail Mikhaylovich,Mikhail,male,100,2058
+Pavel Anatolyevich,Pavel,male,100,4094
+Yevgeniy Ivanovich,Yevgeniy,male,100,45
+Sergey Yevgenyevich,Sergey,male,100,9144
+Aleksandr Vasilyevich,Aleksandr,male,100,2515
+Nikolay Platonovich,Nikolay,male,100,1673
+Yuriy Yakovlevich,Yuriy,male,99,589
+Elvira Sakhipzadovna,Elvira,female,98,342
+Anatoliy Ivanovich,Anatoliy,male,99,316
+Vasiliy Alekseyevich,Vasiliy,male,99,541
+Marie-Solange,Marie-Solange,female,99,116
+Germaine,Germaine,female,100,12
+Uzziel,Uzziel,male,75,4
+Solina,Solina,male,51,479
+Paula,Paula,female,100,3
+Claver,Claver,male,100,10
+Johnston,Johnston,male,88,94
+Anastase,Anastase,male,96,26
+Fanfan,Fanfan,female,59,1421
+Aurore Mimosa,Aurore,female,100,6
+Soraya,Soraya,female,98,8231
+Judith,Judith,female,100,22
+Fulgence,Fulgence,male,100,15
+Eugene-Richard,Eugene-Richard,male,99,191
+Evode,Evode,male,100,11
+Olivier,Olivier,male,98,165
+Claudine,Claudine,female,98,90
+Isaac,Isaac,male,97,33
+Alvera,Alvera,female,100,2
+Claire,Claire,female,98,49
+Mathilde,Mathilde,female,100,5
+Cuthbert Montraville,Cuthbert,male,97,158
+Vance,Vance,male,100,3416
+Mark Anthony Graham,Anthony,male,100,3
+Lindsay,Lindsay,female,94,10143
+Thelma,Thelma,female,98,1727
+Delano Frank,Delano Frank,male,99,66724
+Pearlette,Pearlette,female,100,2
+Allen,Allen,male,96,10293
+Bradley,Bradley,male,100,3
+Guy,Guy,male,98,20859
+Gale,Gale,female,75,4
+Lenard,Lenard,male,98,213
+Ubaldus,Ubaldus,male,100,3
+Hermangild,Hermangild,male,100,3
+Stephenson,Stephenson,male,99,81
+Sarah,Sarah,female,98,127402
+Marlene Malahoo,Marlene,female,98,11755
+Anton Edsel,Anton Edsel,male,99,24469
+Menissa,Menissa,female,75,4
+Frederick Nathaniel,Frederick Nathaniel,male,99,9657
+Ralph Everard,Ralph,male,75,4
+Louis,Louis,male,97,22473
+Saboto,Saboto,male,75,4
+St  Clair,St  Clair,female,54,2285
+Camillo,Camillo,male,99,1195
+Montgomery,Montgomery,male,89,113
+Cecil,Cecil,male,91,4024
+Julian,Julian,male,95,24021
+Lou-Anne Gaylene,Lou-Anne Gaylene,female,96,148
+Inga Rhonda,Inga Rhonda,female,98,8774
+Tuimalealiifano Vaaletoa,,,,
+Fatiaalofa Aiono Lupesolia'i Sailele Malielegaoi,,,,
+Naomi Mata'afa,Naomi,female,75,4
+Natanielu Mua,Mua,male,66,156
+Fio Selafi Joseph Purcell,Joseph,male,100,5
+Lepuiai Rio Tupai,Rio Tupai,male,90,4258
+Solamalemalo Keneti Sio,Sio,male,76,149
+Epa Tuioti,Epa,female,73,162
+Kika Stowers-Ah Kau,Kika Kau,female,89,2956
+Katopau Ainu'u,,,,
+Fatiaalofa Aiono Lupesolia  Sailele Malielegaoi,,male,67,3
+Fea Leniu Tionisio Hunt,Fea Leniu Hunt,male,52,150
+Fata Pinati,Fata,male,75,4
+Tuitama Talalelei Leao,Leao,male,91,106
+Niko Lee Hang,Niko Lee,male,86,51732
+Lemalu Hermann,Hermann,male,97,4973
+Atalina,Atalina,female,100,3
+Feturi,Feturi,female,75,4
+Antonella,Antonella,female,100,4
+Pasquale,Pasquale,male,75,4
+Valeria,Valeria,female,83,6
+Romeo,Romeo,male,75,4
+Gian Carlo,Gian Carlo,male,100,20
+Fabio,Fabio,male,100,51
+Damiano,Damiano,male,100,3
+Daniele,Daniele,male,100,38
+Evaristo,Evaristo,male,100,2
+Francisco Martins,Francisco,male,100,8
+Julieta Izidro,Julieta,female,75,4
+Elsa,Elsa,female,100,7
+Ivete da Graca,Ivete,female,75,4
+Osvaldo,Osvaldo,male,100,15
+Vinicius Xavier,Vinicius,male,75,4
+Wuando Borge,Borge,male,97,29
+Maria do Carmo Trovoada,Maria,female,100,14
+Carlos Filomeno Azevedo Agostinho das,Carlos Agostinho,male,100,39
+bin Abd al-Aziz Al Saud,Bin Abd Al-Aziz Al Saud,male,95,3987
+Sulayman bin Abdallah al,Sulayman Bin Abdallah Al,male,90,1738
+Majid bin Abdallah al,Majid Bin Abdallah Al,male,92,2381
+Abdallah bin Ammar al,Abdallah Bin Ammar Al,male,93,2737
+bin Abdallah bin Muhammad bin Farhan Al Saud,Bin Abdallah Bin Muhammad Bin Farhan Al Saud,male,96,6022
+Muhammad bin Mazyad al,Muhammad Bin Mazyad Al,male,94,2694
+Hamad bin Muhammad bin Hamad al,Hamad Bin Muhammad Bin Hamad Al,male,95,5114
+Abd al-Rahman bin Abd al-Muhsin al,Abd Bin Abd Al,male,91,1972
+Faysal bin,Faysal Bin,male,96,184
+Muhammad Salih,Muhammad Salih,male,99,1600
+Tawfiq bin Fawzan al,Tawfiq Bin Fawzan Al,male,88,1324
+Majid al,Majid Al,male,100,5
+Turki bin Abdallah al,Turki Bin Abdallah Al,male,94,3726
+Bandar al,Bandar Al,male,95,19
+bin Saud bin Nayif bin Abd al-Aziz Al Saud,Bin Saud Bin Nayif Bin Abd Al-Aziz Al Saud,male,96,6610
+Abd al-Latif bin Abd al-Aziz bin Abd al-Rahman,Abd Bin Abd Al-Aziz Bin Abd,male,97,1309
+Walid bin Muhammad bin Salid al,Walid Bin Muhammad Bin Al,male,95,3389
+Ahmad bin Sulayman bin Abd al-Aziz al,Ahmad Bin Sulayman Bin Abd Al-Aziz Al,male,96,9977
+Salih bin Nasir bin Ali Al,Salih Bin Nasir Bin Ali Al,male,96,13956
+Muhammd bin Faysal bin Jabir,Muhammd Bin Faysal Bin Jabir,male,96,340
+Muhammad bin Abd al-Malik,Muhammad Bin Abd,male,99,1909
+Salih bin Abd al-Aziz bin Muhammad bin Ibrahim,Salih Bin Abd Al-Aziz Bin Muhammad Bin Ibrahim,male,98,5071
+Musaid bin Muhammad al,Musaid Bin Muhammad Al,male,94,2688
+Khalid bin Abd al-Rahman al,Khalid Bin Abd Al,male,96,7796
+Adil al-Ahmad al,Adil Al,male,91,1738
+Fahd bin Abdallah bin Abd al-Latif al,Fahd Bin Abdallah Bin Abd Al,male,94,3444
+Mutalib bin Abdallah al,Bin Abdallah Al,male,90,1735
+Isam bin Saad bin,Isam Bin Saad Bin,male,97,4306
+Ibrahim al,Ibrahim Al,male,95,22
+Abd al-Aziz bin Abdallah,Abd Al-Aziz Bin Abdallah,male,97,960
+bint Bandar bin Abd al-Aziz Al Saud,Bint Bandar Bin Abd Al-Aziz Al Saud,male,95,5248
+Abdallah bin Yahya al,Abdallah Bin Yahya Al,male,93,2683
+Macky,Macky,male,94,31
+Mohammed Abdallah Boun,Mohammed Abdallah,male,97,109
+Maxime Jean Simon,Maxime Jean Simon,male,98,735
+Mbagnick,Mbagnick,male,100,60
+Papa Abdoulaye,Papa Abdoulaye,male,100,75
+Maimouna,Maimouna,female,99,515
+Augustin,Augustin,male,100,79
+Alioune,Alioune,male,99,1381
+Abdou Latif,Abdou Latif,male,100,11
+Aminata Angelique,Aminata Angelique,female,98,1192
+Mame Thierno,Mame Thierno,male,100,32
+Oumar,Oumar,male,99,1475
+Ndeye Ramatoulaye Gueye,Ndeye Ramatoulaye Gueye,female,81,1206
+Abdoulaye Diouf,Abdoulaye Diouf,male,97,3086
+Mary Teuw,Mary Teuw,male,100,2
+Abdoulaye Daouda,Abdoulaye Daouda,male,99,3732
+Aly Ngouille,Aly Ngouille,male,97,403
+Khoudia,Khoudia,female,99,113
+Ismaila Madior,Ismaila Madior,male,99,490
+Samba,Samba,male,98,977
+Aminata Mbengue,Aminata Mbengue,female,94,1216
+Aissatou Sophie,Aissatou Sophie,female,99,1010
+Serigne Mbaye,Serigne Mbaye,male,100,39
+Mansour Elimane,Mansour Elimane,male,99,787
+Matar,Matar,male,99,458
+Yaya Abdoul,Yaya Abdoul,male,97,625
+Mame Mbaye,Mame Mbaye,male,91,11
+Diene Farba,Diene Farba,male,86,116
+Mansour,Mansour,male,98,640
+Ndeye Saly Diop,Ndeye Saly Diop,female,68,1368
+Pape Gorgui,Pape Gorgui,male,100,3
+Souleymane Jules,Souleymane Jules,male,100,7
+Moustapha Lo,Moustapha Lo,male,98,1838
+Birima,Birima,male,97,35
+Abdou Ndene,Abdou Ndene,male,100,2
+Momar,Momar,male,99,469
+Cheikh,Cheikh,male,98,2952
+Rasim,Rasim,male,92,25
+Zorana,Zorana,female,97,174
+Branislav,Branislav,male,100,762
+Vladan,Vladan,male,100,654
+Jadranka,Jadranka,female,98,126
+Sinisa,Sinisa,male,100,509
+Zlatibor,Zlatibor,male,100,27
+Nela,Nela,female,99,72
+Branko,Branko,male,98,813
+Vanja,Vanja,female,72,364
+Slavica,Slavica,female,98,507
+Jorgovanka,Jorgovanka,female,100,2
+Djerdj,Djerdj,male,100,5
+Wallace,Wallace,male,100,2
+Jean-Paul,Jean-Paul,male,100,10
+Mitcy,Mitcy,female,83,6
+Macsuzy,,,,
+Maurice,Maurice,male,97,13212
+Idith,Idith,female,75,4
+Caroline,Caroline,female,100,4
+Julius Maada,Julius Maada,male,95,19
+Mohamed Juldeh,Mohamed Juldeh,male,99,402
+Robert Tamba Michael,Robert Tamba Michael,male,98,127
+Alhaji Kanja,Alhaji,male,98,48
+Jacob Jusu,Jacob Jusu,male,100,22
+Alie,Alie,male,100,25
+Charles Francis,Charles Francis,male,100,91
+Adekunle Joliff Milton,Milton,male,100,13
+Emma,Emma,female,80,5
+Morie,Morie,male,100,6
+Foday,Foday,male,100,46
+Alpha Osman,Alpha Osman,male,98,96
+Baindu,Baindu,female,100,4
+Aiah,Aiah,male,100,22
+Memunatu,Memunatu,female,100,8
+Peter Bayuku,Peter,male,100,40
+Kabineh,Kabineh,male,75,4
+Raymond Ernest Denison de Souza,Raymond Ernest,male,100,38
+Abu Abu,Abu,male,100,51
+Haja Isata,Haja Isata,female,96,27
+Patrick Saidu,Patrick Saidu,male,99,100
+Bockari Kortu,,,,
+Vandi Chidi,Vandi,male,100,6
+Yacob,Yacob,male,75,4
+Hsien Loong,Hsien Loong,male,77,13
+Tharman,Tharman,male,75,4
+Swee Keat,Swee Keat,male,69,13
+Boon Wan,Boon Wan,male,83,231
+Chee Hean,Chee,male,88,58
+S.,S.,male,86,7
+Grace  Hai Yen,Hai Yen,female,61,56
+Eng Hen,Eng Hen,male,80,44
+Ye Kung,Ye Kung,male,94,65
+Zulkifli,Zulkifli,male,100,21
+Vivian,Vivian,female,98,133
+Kim Yong,Kim Yong,male,100,4
+K.,K.,male,83,6
+K.,K.,male,83,6
+Josephine,Josephine,female,99,89
+Chun Sing,Chun,male,74,27
+Indranee,Indranee,female,100,9
+Chee Meng,Chee Meng,male,100,6
+Ashok Kumar,Ashok Kumar,male,99,187
+Burhan,Burhan,male,96,10719
+Gabriela,Gabriela,female,98,1773
+Lubica,Lubica,female,98,754
+Denisa,Denisa,female,99,1342
+Gabor,Gabor,male,98,57
+Arpad,Arpad,male,96,45
+Jozef,Jozef,male,99,6308
+Frantisek,Frantisek,male,99,452
+Borut,Borut,male,99,356
+Miro,Miro,male,99,162
+Karl,Karl,male,100,26
+Dejan,Dejan,male,100,751
+Andreja,Andreja,female,99,511
+Maja,Maja,female,98,1009
+Irena,Irena,female,99,490
+Mateja,Mateja,female,99,647
+Milojka,Milojka,female,100,10
+Anja Kopac,Anja,female,99,535
+Alenka,Alenka,female,96,381
+Gorazd,Gorazd,male,98,166
+Bostjan,Bostjan,male,99,248
+Stanislav,Stanislav,male,98,59
+Darja,Darja,female,99,285
+Manasseh Damukana,Manasseh,male,98,178
+Manasseh,Manasseh,male,98,178
+Maeue Augustine Auga,Augustine,male,100,2
+Clezy,Clezy,female,75,4
+Peter Shanel,Peter,male,100,10
+Bartholomew,Bartholomew,male,99,186
+John Moffat,John,male,100,19
+Culwick,,,,
+Harry,Harry,male,100,2
+Nesto,Nesto,male,92,90
+Jeremiah,Jeremiah,male,99,4279
+Ishmael Mali,Ishmael,male,100,2
+Dickson Mua,Dickson,male,75,4
+Makario,Makario,male,95,21
+Willie Bradford,Willie,male,100,3
+Rexon Annex,Rexon Annex,male,77,65
+Anthony Kamutulaka,Anthony,male,100,2
+Fredrick,Fredrick,male,99,7237
+Duddley,Duddley,male,100,2
+Freda     Tuki,Freda,female,75,4
+Denton,Denton,male,96,155
+Mohamed Abdullahi Mohamed,Mohamed Abdullahi Mohamed,male,97,828
+Hassan Ali,Hassan Ali,unknown,50,2
+Mahdi Ahmed Guled,Mahdi Ahmed Guled,male,99,237
+Said Hussein,Said Hussein,male,100,47
+Mohamed Abdullahi,Mohamed Abdullahi,male,100,3
+Abdirahman Hosh,Abdirahman,male,99,79
+Abdirashid Abdullahi Mohamed,Abdirashid Abdullahi Mohamed,male,97,452
+Abdirahman Dahir,Abdirahman Dahir,male,99,91
+Salim Aliyow,Salim,male,100,2
+Abdirahman  Beileh,Abdirahman,male,99,79
+Abdirahman Mohamed Abdi,Abdirahman Mohamed Abdi,male,97,558
+Yusuf  Omar,Yusuf Omar,male,97,59
+Fowzia Abikar,Fowzia Abikar,female,92,39
+Abdirahman Omar Osman,Abdirahman Omar Osman,male,99,138
+Abdi Farah Said,Abdi Farah Said,male,95,120
+Abukar Islow,Abukar,male,100,14
+Hassan  Haji,Hassan Haji,male,96,91
+Salah Ahmed,Salah Ahmed,male,99,231
+Sheikhnuur Mohamed,Mohamed,male,97,389
+Abdirashid Mohamed,Abdirashid Mohamed,male,97,402
+Gamal Mohamed,Mohamed,male,97,389
+Marian  Jama,Jama,male,100,11
+Abdi  Hassan,Abdi Hassan,male,96,178
+Abdullahi Sheikh  Siraji,Abdullahi,male,98,50
+Maryan  Ahmed,Maryan Ahmed,male,97,229
+Iiman Abdullahi,Abdullahi,male,98,50
+Khadra Ahmed,Khadra Ahmed,male,96,233
+Deqa  Haji Yusuf,Haji Yusuf,male,93,29
+Khadija Mohamed,Mohamed,male,97,389
+Bashir Isse,Bashir Isse,male,100,21
+Ahmed Issa,Ahmed Issa,male,99,230
+Elmi Ahmed,Elmi Ahmed,male,99,229
+Matamela Cyril,Matamela Cyril,male,99,152
+Thoko,Thoko,female,89,82
+Angie,Angie,female,98,261
+Stella,Stella,female,95,154
+Nkosazana,Nkosazana,female,100,14
+Nosiviwe,Nosiviwe,female,100,12
+Barbara,Barbara,female,99,254
+Thulas,Thulas,male,67,24
+Zwelini,,,,
+Blade,Blade,male,100,94
+Aaron,Aaron,male,99,189
+Lindiwe,Lindiwe,female,99,491
+Naledi,Naledi,female,91,171
+Gwede,Gwede,male,75,4
+Bhekokwakhe  Bheki,Bhekokwakhe Bheki,male,99,339
+Pravin,Pravin,male,100,16
+Senzo,Senzo,male,96,249
+Khumbudzo,Khumbudzo,male,64,11
+Nathi,Nathi,male,93,311
+Ayanda,Ayanda,unknown,50,994
+Nkhensani,Nkhensani,female,85,48
+Ebrahim,Ebrahim,male,99,250
+Fikile,Fikile,female,79,237
+Jackson,Jackson,male,92,177
+Maite,Maite,female,91,32
+Elias Lesetja,Elias Lesetja,male,99,212
+Mninwa Johannes,Johannes,male,100,469
+Jerry,Jerry,male,97,335
+Salva  Mayardit,Salva,female,75,4
+Deng Gai,Deng,male,96,26
+James Wani,James Wani,male,98,46
+Onyoti Adigo,Adigo,male,57,7
+Martin Elia,Martin Elia,male,100,28
+Nadia Arop,Nadia,female,97,32
+Kuol  Juuk,Kuol,male,100,2
+Dhieu  Diing,Diing,male,100,2
+Salvatore Garang,Garang,male,100,4
+Awut Deng,Deng,male,96,26
+Jemma Nunu,Jemma Nunu,female,84,2177
+Deng Hoc,Deng,male,96,26
+Riek Gai,Riek,male,100,3
+Yien,Yien,male,53,30
+Hussein Mar,Hussein Mar,male,98,109
+Michael Makuei,Michael,male,95,21
+Michael Tiangjiek,Michael,male,95,21
+Paulino  Onango,Paulino,male,75,4
+Alfred Lado,Alfred Lado,male,100,10
+James Jenga,James,male,97,37
+Gabriel Thokuj,Gabriel,male,100,13
+Mayik Ayii,Mayik Ayii,male,62,21
+Obuto Issac Mamur,Obuto Issac Mamur,male,100,3887
+Peter  Gbandi,Peter,male,98,47
+Awow Daniel  Deng,Daniel Deng,male,98,58
+Simon Mijok,Simon,male,100,16
+Paul  Akec,Paul,male,94,17
+John  Jok,John Jok,male,100,73
+Sofia,Sofia,female,100,3
+Alfred Akuoch,Alfred,male,100,6
+Dier Tong,Dier Tong,male,77,2183
+Philip Jada,Philip Jada,male,100,12
+Akuei Bona,Bona,female,63,8
+Felipe,Felipe,male,98,4897
+Pedro  Perez-Castejon,Pedro,male,98,41613
+Maria del Carmen  Poyato,Maria Del Carmen,female,97,93655
+Luis  Puchades,Luis,male,99,43667
+Jose  Cabrera,Jose Cabrera,male,97,67371
+Margarita  Fernandez,Margarita Fernandez,female,95,2447
+Teresa  Rodriguez,Teresa Rodriguez,female,97,6507
+Nadia  Santamaria,Nadia Santamaria,female,97,2042
+Maria Isabel  Dieguez,Maria Isabel Dieguez,female,97,81623
+Maria Jesus  Cuadrado,Maria Jesus Cuadrado,female,69,95440
+Josep  Fontelles,Josep,male,99,5169
+Maria Luisa  Roces,Maria Luisa,female,97,71228
+Reyes  Illera,Reyes,female,84,1082
+Fernando   Gomez,Fernando Gomez,male,99,22635
+Dolores  Garcia,Dolores Garcia,female,90,1724
+Magdalena  Cordero,Magdalena Cordero,female,98,901
+Jose Luis  Meco,Jose Luis Meco,male,98,111030
+Pedro Francisco,Pedro Francisco,male,100,17
+Maritxell  Lamana,Maritxell,female,75,4
+Luis Maria  de Castro,Luis Maria de Castro,female,60,111266
+Santiago  Ansorena,Santiago,male,99,5295
+Agustin  Maraver,Agustin,male,98,3240
+Gotabaya,Gotabaya,male,75,4
+Mahinda,Mahinda,male,100,90
+Arumugam,Arumugam,male,92,12
+Thilak,Thilak,male,98,58
+Dulles,Dulles,male,100,5
+S.,S.,male,96,23
+Dinesh,Dinesh,male,99,441
+Pavithra,Pavithra,female,70,84
+Bandula,Bandula,male,99,71
+Prasanna,Prasanna,male,98,258
+Wimal,Wimal,male,100,28
+Chamal,Chamal,male,100,61
+Nimal Siripala,Nimal,male,100,103
+S.,S.,male,96,23
+Ramesh,Ramesh,male,99,129
+Janaka Bandara,Janaka Bandara,male,100,2
+Arjuna,Arjuna,male,100,61
+Prasad,Prasad,male,99,282
+Kshenuka,,,,
+Abd-al-Fatah al  Abd-al-Rahman,Al,male,95,19
+Mohamed Hamdan Dagalo,Mohamed Hamdan,male,99,2303
+Shameldin,,,,
+Yasir Abdel Rahman Hassan Al,Yasir Abdel Rahman Hassan Al,male,97,764
+Hassan Mohamed  Gady,Hassan Mohamed,male,99,2830
+Siddiq  Kafi,Siddiq Kafi,male,100,8
+Aisha  al-Saeed,Aisha,female,100,30
+Mohamed Osman Hassan al,Mohamed Osman Hassan Al,male,98,3335
+Mohammed al  Suleiman,Mohammed Al Suleiman,male,98,1956
+Raja  Issa Abdul-Masseh,Raja Issa,male,53,17
+Eissa Osman,Eissa Osman,male,98,497
+Omer,Omer,male,98,685
+Faisal Mohamed,Faisal Mohamed,male,99,2376
+Jamal  Ibrahim,Jamal Ibrahim,male,98,531
+Yousef Adam Al,Yousef Adam Al,male,99,282
+Ibrahim Ahmed Al,Ibrahim Ahmed Al,male,98,2737
+Asmaa Mohamed,Asmaa Mohamed,male,98,2312
+Mohamed Al-Amin Al,Mohamed Al,male,99,2314
+Nasr-Eddin,Nasr,male,100,33
+Akram Ali Al,Akram Ali Al,male,98,840
+Intsar Al-Zain,Intsar,female,75,4
+Madani Abbas,Madani Abbas,male,95,77
+Hashim Tahir Shiekh,Hashim Tahir,male,99,161
+Al-Teraifi,Al,male,95,19
+Lina Al-Sheikh,Lina,female,100,24
+Alam al-Din Abdallah,Alam Abdallah,male,99,89
+Yaser Abbas Mohamed,Yaser Abbas Mohamed,male,99,2399
+Walla Isam Al,Walla Isam Al,male,93,99
+Abdullah Ahmed,Abdullah Ahmed,male,99,2320
+Omar Ahmed Mohammad,Omar Ahmed Mohammad,male,98,2530
+Desire Delano,Delano,male,100,4
+Ashwin,Ashwin,male,100,2
+Lekhram,Lekhram,male,100,21
+Ronni,Ronni,male,71,591
+Lilian,Lilian,female,100,3
+Gillmore,Gillmore,male,83,6
+Yldiz,Yldiz,female,75,4
+Faizel Mohamed,Faizel,male,100,2
+Soewarto,,,,
+Regilio,Regilio,male,97,32
+Antoine,Antoine,male,99,33499
+Cristien,Cristien,male,75,24
+Roline,Roline,female,90,51
+Lalinie,Lalinie,female,75,4
+Glenn,Glenn,male,100,8
+Niermala Sakoentala,Niermala,female,100,5
+Henry Leonard,Henry,male,100,3
+Carl,Carl,male,99,1145
+Stefan,Stefan,male,99,4248
+Lena,Lena,female,99,2555
+Amanda,Amanda,female,99,1576
+Eva,Eva,female,99,2605
+Anders,Anders,male,99,6318
+Hans,Hans,male,99,1531
+Magdalena,Magdalena,female,99,280
+Per,Per,male,99,2986
+Ann,Ann,female,98,834
+Asa,Asa,female,96,25
+Matilda,Matilda,female,99,782
+Tomas,Tomas,male,99,1991
+Mikael,Mikael,male,99,4963
+Morgan,Morgan,male,99,495
+Jennie,Jennie,female,99,855
+Ardelan,Ardelan,male,75,4
+Karin,Karin,female,99,1743
+Bjorn Olof,Bjorn Olof,male,99,557
+Ueli,Ueli,male,97,253
+Simonetta,Simonetta,female,83,6
+Viola,Viola,female,94,51
+Walter,Walter,male,99,571
+Juerg,Juerg,male,100,74
+Bashar al,Bashar Al,male,97,276
+Imad Muhammad Dib,Imad Muhammad,male,98,299
+Walid al,Walid Al,male,98,93
+Umar Ibrahim,Ibrahim,male,99,192
+Hassan al,Hassan Al,male,97,305
+Ali Abdallah,Ali Abdallah,male,98,743
+Abdallah al,Abdallah Al,male,99,69
+Adib,Adib,male,100,14
+Hazwan al,Al,male,96,23
+Muhammad Zuhair,Muhammad Zuhair,male,99,205
+Mamun,Mamun,male,97,1007
+Nizar Wehbe,Nizar,male,98,52
+Atif,Atif,male,75,4
+Muhammad Walid,Muhammad Walid,male,99,269
+Mohamed Mazen Ali,Mohamed Mazen Ali,male,98,1210
+Muhammad Imad Abdallah,Muhammad Imad Abdallah,male,98,345
+Muhammad Ibrahim al,Muhammad Ibrahim Al,male,99,414
+Najm Hamad al,Najm Hamad Al,male,98,44
+Hussein,Hussein,male,98,85
+Mansur Fadlallah,Mansur,male,100,3
+Muhammad Abd al-Sattar al,Muhammad Abd Al,male,99,440
+Rima al,Rima Al,female,66,70
+Bashar Riyad,Bashar Riyad,male,98,265
+Nabil al,Nabil Al,male,98,95
+Salwa,Salwa,female,100,13
+Wafiqa,Wafiqa,female,100,2
+Rafia,Rafia,female,75,4
+Dureid,Dureid,male,100,4
+Ing-wen,Ing-Wen,female,56,2480
+Chien-jen,Chien-Jen,female,87,12910
+Chuan,Chuan,male,81,372
+Hsi-yao,Hsi-Yao,male,74,2005
+Mei-ling,Mei-Ling,female,100,30
+Keh-her,Keh-Her,male,68,465
+Yu-hsieh,Yu-Hsieh,male,63,3566
+Chen-yuan,Chen-Yuan,male,62,7239
+Po-ya,Po-Ya,male,64,2240
+Jin-lin,Jin-Lin,male,55,11195
+Hau-min,Hau-Min,male,66,5653
+Jia-chyuan,Jia-Chyuan,female,65,1438
+Li-chiun,Li-Chiun,female,53,4172
+Jong-chin,Jong-Chin,male,74,2088
+Wen-chung,Wen-Chung,male,100,4
+Yu-jer,Yu-Jer,male,69,4117
+Jau-shieh,Jau-Shieh,male,88,153
+Tzou-yien,Tzou-Yien,male,58,33
+Jiunn-rong,Jiunn-Rong,male,55,615
+Ching-hsiang,Ching-Hsiang,male,100,4
+Fong-yu,Fong-Yu,male,63,3911
+Shih-kuan,Shih-Kuan,male,72,421
+Hung-duen,Hung-Duen,male,95,4969
+Tan,Tan,male,74,6978
+Jing-sen,Jing-Sen,female,57,4279
+Tain-jy,Tain-Jy,male,67,607
+Jan-yau,Jan-Yau,male,92,104221
+Mei-chu,Mei-Chu,female,73,3610
+Wan-i,Wan-I,male,65,3295
+Jun-ji,Jun-Ji,male,84,11461
+Hung-mo,Hung-Mo,male,86,12985
+Tsung-tsong,Tsung-Tsong,male,90,48
+Chi-hung,Chi-Hung,male,92,12
+Shou-shing,Shou-Shing,male,78,384
+chou,Chou,female,62,1347
+Chung-wei,Chung-Wei,male,91,11
+Yung-te,Yung-Te,male,80,1753
+Yuan-ching,Yuan-Ching,male,51,2470
+Tzer-ming,Tzer-Ming,male,77,2699
+Ning-jye,Ning-Jye,female,72,1980
+Ying-yuan,Ying-Yuan,female,73,4951
+Kung-wha,Kung-Wha,female,67,1402
+Hsiao-yueh,Hsiao-Yueh,male,63,113
+Shyr-hau,Shyr-Hau,male,71,735
+Hsin-hsing,Hsin-Hsing,male,61,196
+Hong-mo,Hong-Mo,male,69,11944
+Shying-jow,Shying-Jow,male,87,223
+Shiow-ming,Shiow-Ming,male,77,2695
+Jeng-yi,Jeng-Yi,male,61,1644
+Fai-nan,Fai-Nan,female,66,4530
+Shuo-tai,Shuo-Tai,male,74,2287
+Emomali,,,,
+Qohir,,,,
+Davlatali,Davlatali,male,75,4
+Azim,Azim,male,100,12
+Mahmadtoir,,,,
+Izzatullo,Izzatullo,male,100,2
+Shamsiddin,Shamsiddin,male,100,3
+Sherali,Sherali,male,100,8
+Nematullo,Nematullo,male,75,4
+Nuriddin,Nuriddin,male,100,8
+Usmonali,Usmonali,male,75,4
+Fayziddin,,,,
+Sirojiddin,Sirojiddin,male,75,4
+Nasim,Nasim,male,100,8
+Zarobiddin,,,,
+Ramazon,Ramazon,male,100,3
+Sumangul,,,,
+Khudoyor,,,,
+Farrukh,Farrukh,male,100,26
+Saymumin,,,,
+Yusuf,Yusuf,male,100,9
+Sherkhon,,,,
+Jamshed,Jamshed,male,100,42
+Farhod,Farhod,male,100,20
+Mahmadamin,,,,
+John Pombe,John,male,99,909
+Samia Hassan,Samia Hassan,male,98,311
+Kassim Majaliwa,Kassim Majaliwa,male,98,124
+Ali Mohamed,Ali Mohamed,male,100,2
+Hussein Ali,Hussein Ali,male,98,438
+Sospeter Mwijarubi,Sospeter,male,97,31
+Augustine Phillip,Augustine Phillip,male,99,67
+Ummy Ally,Ummy,female,93,15
+Mwigulu,Mwigulu,male,75,4
+Charles John,Charles John,male,99,1363
+Nape Mosses,Mosses,male,100,39
+Harrison George,Harrison George,male,99,462
+William Vangimembe,William,male,98,243
+Jumanne,Jumanne,male,100,72
+Gerson,Gerson,male,100,6
+Makame Mnyaa,Makame,male,100,17
+George Boniface,George Boniface,male,99,531
+January Yussuph,January Yussuph,male,100,23
+Abdallah Saleh,Abdallah Saleh,male,98,273
+George Mcheche,George,male,99,444
+Benno,Benno,male,100,6
+Wilson,Wilson,male,99,69
+Tuvako Nathaniel,Nathaniel,male,100,13
+Wachiralongkon,,,,
+Chan-ocha,Chan-Ocha,male,82,373
+Wongsuwan,Wongsuwan,unknown,50,2
+Chatusiphithak,,,,
+Laksanawisit,,,,
+Chanwirakun,,,,
+Kruea-ngam,Ngam,female,78,9
+Lippataphanlop,,,,
+Changmongkhon,,,,
+Sri-on,Sri-On,female,79,119
+Khunpluem,,,,
+Punnakan,Punnakan,male,75,4
+Thipsuwan,,,,
+Sonthichirawong,,,,
+Sawanayon,,,,
+Pramudwinai,,,,
+Mesinsi,,,,
+Cheungrungrueangkit,,,,
+Paochinda,,,,
+Thepsuthin,,,,
+Sonakun,,,,
+Sinlapa-acha,Acha,male,64,11
+Krairoek,Krairoek,male,100,2
+Ratchakitprakan,,,,
+Chitchop,,,,
+Santiprabhob,,,,
+Thongphakdi,,,,
+Siwihok,,,,
+Mari,Mari,female,75,4
+Estanislau da,Estanislau,male,75,4
+Antonio da,Antonio,male,100,19
+Dionisio Babo,Dionisio,male,100,2
+Hermenegildo  Agio,Hermenegildo,male,100,2
+Cirilo Jose,Jose,male,97,39
+Joao Cancio,Joao Cancio,male,100,22
+Santina,Santina,female,75,4
+Hernani,Hernani,male,97,552
+Maria do Ceu Sarmento Pina da,Maria,female,100,14
+Longuinhos,Longuinhos,male,75,4
+Ivo,Ivo,male,100,2
+Gastao de,Gastao,male,75,4
+Isabel Amaral,Isabel,female,100,3
+Jorge da Conceicao,Jorge,male,100,7
+Francisco Kalbuady,Francisco,male,100,18
+Domingos Sarmento,Domingos,male,100,17
+Maria Helena Lopes de Jesus,Maria,female,100,14
+Faure,Faure,male,100,2
+Komi,Komi,male,99,181
+Ouro Koura,Ouro Koura,male,93,14
+Victoire Sidemho,Victoire,female,94,64
+Bernadette Essossimna,Bernadette Essossimna,female,89,28
+Guy Madje,Guy Madje,male,94,90
+Andre,Andre,male,100,37
+Komlan Edo Robert,Komlan Edo Robert,male,98,298
+Octave Nicoue,Octave,male,100,11
+Ninsao,,,,
+Pius,Pius,male,98,1380
+Cina,Cina,female,64,238
+Dederiwe,,,,
+Komi Paalamwe,Komi,male,99,181
+Damehane,,,,
+Tchabinandi,,,,
+Payadawa,,,,
+Fiatuwo Kwadjo,Kwadjo,male,95,41
+Georges Kwawu,Georges,male,100,114
+Kossi,Kossi,male,98,302
+Batienne,,,,
+Elliott,Elliott,male,100,2
+Nakpah,,,,
+Frederic Edem,Frederic Edem,male,95,438
+Kokou,Kokou,male,98,230
+Tupou,Tupou,female,100,3
+Pohiva,Pohiva,male,75,4
+Sione Vuna,Sione,male,95,19
+Tevita,Tevita,male,100,13
+Siaosi  Ofakivahafolau,Siaosi,male,100,2
+Amelia,Amelia,female,100,2
+Tukui'aulahi,,,,
+Akosita,Akosita,female,75,4
+Vatau,Vatau,male,75,4
+MAÃ¢â  â   TukuiÃ¢â  â  aulahi, Â    Â ,male,64,25
+Poasi Mataele,Mataele,male,67,3
+Samiu Kuita,Samiu,male,85,13
+Linda Simiki,Linda,female,100,3
+Sione Ngongo,Sione,male,95,19
+Viliami Va'inga,Viliami,male,100,4
+Judge Paula-Mae,Judge,male,100,78
+Lincoln,Lincoln,male,100,8
+Maxie,Maxie,male,52,190
+Nyan Gadsby,Nyan Gadsby,male,78,229
+Colm,Colm,male,99,588
+Dennis,Dennis,male,100,4
+Terrence,Terrence,male,100,6
+Jennifer,Jennifer,female,100,17
+Ancil,Ancil,male,100,3
+Franklin,Franklin,male,100,2
+Cherrie-Ann,Cherrie-Ann,female,100,9
+Shamfa,,,,
+Randall,Randall,male,100,5
+Fitzgerald,Fitzgerald,male,75,4
+Faris,Faris,male,75,4
+Alvin,Alvin,male,100,7
+Anthony Wayne Jerome,Anthony Wayne Jerome,male,98,113
+Penelope,Penelope,female,100,12952
+Beji,Beji,male,87,38
+Youssef,Youssef,male,98,1197
+Mohamed Zine El,Mohamed Zine El,male,99,10142
+Abdelkarim,Abdelkarim,male,100,89
+Zied,Zied,male,99,2336
+Hatem,Hatem,male,99,1418
+Faouzi,Faouzi,male,99,579
+Riadh,Riadh,male,99,1517
+Ridha,Ridha,male,99,1076
+Khemaies,Khemaies,male,97,32
+Imed,Imed,male,98,1609
+Slim,Slim,male,99,1844
+Slim Feriani,Slim Feriani,male,98,1852
+Hichem,Hichem,male,99,1644
+Ghazi,Ghazi,male,99,391
+Taoufik,Taoufik,male,98,432
+Iyed,Iyed,male,98,80
+Mehdi Ben,Mehdi Ben,male,98,85
+Mabrouk,Mabrouk,male,94,298
+Selma Elloumi,Selma Elloumi,female,93,89
+Radhouane,Radhouane,male,98,111
+Naziha,Naziha,female,100,54
+Majdouline,Majdouline,female,90,10
+Marouane,Marouane,male,99,115
+Faycal,Faycal,male,99,96
+Mohamed Khaled,Mohamed Khaled,male,100,2
+Recep Tayyip,Recep Tayyip,male,92,25
+Fuat,Fuat,male,96,5930
+Bekir,Bekir,male,96,10436
+Mehmet,Mehmet,male,100,65535
+Fatih,Fatih,male,97,58275
+Murat,Murat,male,100,65535
+Zehra Zumrut,Zehra Zumrut,female,96,5719
+Mevlut,Mevlut,male,96,922
+Fahrettin,Fahrettin,male,97,2051
+Suleyman,Suleyman,male,97,2593
+Abdulhamit,Abdulhamit,male,98,168
+Hulusi,Hulusi,male,96,805
+Ziya,Ziya,male,96,3217
+Ruhsar,Ruhsar,female,94,31
+Mehmet Cahit,Mehmet Cahit,male,100,7
+Berat,Berat,male,95,3792
+Serdar,Serdar,male,97,32807
+Feridun Hadi,Feridun Hadi,male,96,1567
+Gurbanguly,,,,
+Bahargul,Bahargul,female,100,2
+Purli,Purli,male,75,4
+Bayramgeldi,Bayramgeldi,male,75,4
+Cary,Cary,male,75,4
+Myratgeldi,Myratgeldi,male,75,4
+Rasit,Rasit,male,75,4
+Gocmyrat,,,,
+Esenmyrat,,,,
+Carymyrat,,,,
+Magtymguly,Magtymguly,male,100,2
+Soyencnazar,,,,
+Atageldi,Atageldi,male,100,2
+Begenc,Begenc,male,100,5
+Mammetmyrat,,,,
+Myrat,Myrat,male,97,30
+Batyr,Batyr,male,100,31
+Nurmuhammet,Nurmuhammet,male,100,2
+Tahyrberdi,,,,
+Mammethan,,,,
+Begmyrat,Begmyrat,male,100,2
+Muhammetseyit,,,,
+Yaylym,,,,
+Azat,Azat,male,100,31
+Orazdurdy,,,,
+Resul,Resul,male,100,7
+Orazmyrat,Orazmyrat,male,75,4
+Dayanc,Dayanc,male,100,4
+Turkmengaz Myrat,Myrat,male,97,30
+Merdan,Merdan,male,100,47
+Meret,Meret,male,100,2
+Aksoltan,Aksoltan,female,75,4
+Iakopa Italeli,,,,
+Kausea,,,,
+Minute,,,,
+Timi,Timi,female,54,2596
+Seve,Seve,female,55,565
+Isaia,Isaia,male,89,131
+Katepu,,,,
+Ampelosa,,,,
+Nielu,,,,
+Aunese Makoi,Makoi,male,94,17
+Yoweri Kaguta,Yoweri Kaguta,male,100,7
+Ruhakana,,,,
+Kirunda,Kirunda,male,91,22
+Mary Busingye Karooro,Mary Busingye,female,95,198
+Vincent Bamulangaki,Vincent,male,99,140
+Adolf,Adolf,male,100,7
+Hilary,Hilary,male,100,11
+Kahinda,Kahinda,female,75,4
+Janet Museveni,Janet,female,98,61
+Sam Kutesa,Sam Kutesa,male,99,319
+Jeje,Jeje,male,75,4
+Ephraim,Ephraim,male,100,21
+Betty,Betty,female,98,123
+Esther  Mbulakubuza,Esther,female,97,200
+Muruli,Muruli,male,97,31
+Elioda,,,,
+Elly,Elly,male,94,51
+Amelia Anne,Amelia Anne,female,100,78
+Tom,Tom,male,96,141
+Katumba,Katumba,male,88,51
+Mull Sebujja,Mull,male,77,22
+Adonia,Adonia,male,100,4
+Volodymyr,Volodymyr,male,100,644
+Dmytro,Dmytro,male,100,553
+Oleksiy,Oleksiy,male,100,129
+Mykhaylo,Mykhaylo,male,98,53
+Alyona,Alyona,female,98,255
+Andriy,Andriy,male,99,973
+Tymofiy,Tymofiy,male,100,3
+Oksana,Oksana,female,98,1920
+Vadym,Vadym,male,100,209
+Zoryana,Zoryana,female,98,52
+Vladyslav,Vladyslav,male,100,122
+Denys,Denys,male,100,248
+Yuliya,Yuliya,female,96,465
+Oleksandr,Oleksandr,male,100,709
+Yakiv,Yakiv,male,75,4
+bin Zayid Al Nuhayyan,Bin Zayid Al,male,95,424
+Al Maktum,Al,male,94,334
+Muhammad Abdallah al,Muhammad Abdallah Al,male,98,1534
+Thani bin Ahmad al,Thani Bin Ahmad Al,male,98,2142
+Essa Buhumaid,Essa,male,99,150
+bint Muhammad al-Kabi,Bint Muhammad,male,97,1127
+al-Qasimi,Al,male,94,334
+Sultan bin Said al,Sultan Bin Said Al,male,98,1159
+Hussain Ibrahim al,Hussain Ibrahim Al,male,98,1211
+bin Muhammad al-Mazrui,Bin Muhammad,male,99,1193
+Rashid Ahmad bin,Rashid Ahmad Bin,male,98,2383
+bin Rashid Al Maktum,Bin Rashid Al,male,97,1011
+bint Khalfan al-Rumi,Bint Khalfan,male,68,69
+Abd al-Rahman Muhammad al,Abd Muhammad Al,male,98,1498
+bin Mubarak Al Nuhayyan,Bin Mubarak Al,male,96,519
+Nasser bin Thani al,Nasser Bin Thani Al,male,97,774
+bin Muhammad Belhaf al-Nuaymi,Bin Muhammad,male,99,1193
+Saqr Ghubash Said,Saqr Said,male,99,150
+Abdullah bin Muhammad Al,Abdullah Bin Muhammad Al,male,99,2230
+Mariam bint Muhammad Khalfan al,Mariam Bint Muhammad Khalfan Al,male,90,1622
+bin Sultan al-Ulama,Bin Sultan,male,100,681
+Muhammad bin Ahmad al,Muhammad Bin Ahmad Al,male,98,3233
+Ubayd Humaid al,Humaid Al,male,95,476
+Anwar Muhammad,Anwar Muhammad,male,99,1263
+Ahmad bin Abdallah Humaid Belhoul al,Ahmad Bin Abdallah Humaid Al,male,98,2365
+Reem bin Ibrahim al,Reem Bin Ibrahim Al,male,83,1211
+al-Muheiri,Al,male,94,334
+bint Suhail Faris al-Mazrui,Bint Suhail Faris,male,92,327
+Sultan Ahmad al,Sultan Ahmad Al,male,98,2633
+Sarah bint Yousef al,Sarah Bint Yousef Al,male,67,894
+Harb al-Muhairi,Harb,male,90,60
+Maitha Salim al,Maitha Salim Al,male,91,627
+Anwar Nusayba,Anwar,male,98,158
+Mubarak Rashid al,Mubarak Rashid Al,male,97,1020
+Yusif bin Mani bin Said al,Bin Mani Bin Said Al,male,96,734
+Lana Zaki,Lana Zaki,unknown,50,78
+Elizabeth,Elizabeth,female,98,3122
+Sajid,Sajid,male,98,301
+Nicky,Nicky,female,69,1923
+Ben,Ben,male,99,14800
+Gavin,Gavin,male,99,3044
+Theresa,Theresa,female,97,836
+Priti,Priti,female,100,33
+Alok,Alok,male,98,42
+Alister,Alister,male,99,128
+Alun,Alun,male,100,234
+Amber,Amber,female,97,1170
+Kwasi,Kwasi,male,94,35
+Jo,Jo,female,80,3379
+Brandon,Brandon,male,99,995
+Jake,Jake,male,99,4686
+Rishi,Rishi,male,96,160
+Tabare Ramon  Rosas,Tabare Ramon,male,100,28
+Lucia,Lucia,female,100,224
+Tabare,Tabare,male,100,10
+Danilo  Saragoza,Danilo,male,100,29
+Maria Julia,Maria Julia,female,100,5
+Rodolfo,Rodolfo,male,100,60
+Eneida,Eneida,female,98,415
+Liliam,Liliam,female,96,317
+Carlos Alberto  Derois,Carlos Alberto,male,100,581
+Elbio Oscar  Frieri,Elbio Oscar,male,100,133
+Shavkat,Shavkat,male,99,72
+Ochilboy,,,,
+Elyor,Elyor,male,100,37
+Baxtiyor,Baxtiyor,male,95,19
+Bahodir,Bahodir,male,100,51
+Shuhrat,Shuhrat,male,100,74
+Botir,Botir,male,100,32
+Nozim,Nozim,male,100,8
+Alisher,Alisher,male,100,205
+Abdulaziz,Abdulaziz,male,100,43
+Inom,Inom,male,100,5
+Ibrohim,Ibrohim,male,100,17
+Polat,Polat,male,100,8
+Sardor,Sardor,male,100,168
+Ruslanbek,Ruslanbek,male,100,2
+Oybek,Oybek,male,99,91
+Agrippina,Agrippina,female,100,81
+Sherzod,Sherzod,male,99,178
+Abdusalom,Abdusalom,male,100,3
+Behzod,Behzod,male,100,26
+Nigmatilla,,,,
+Mamarizo,Mamarizo,male,75,4
+Javlon,Javlon,male,100,23
+Tallis Obed,Tallis Obed,male,98,1278
+Charlot,Charlot,male,52,305
+Jotham,Jotham,male,100,134
+Matai,Matai,male,77,13
+Jean-Pierre,Jean-Pierre,male,100,2
+Gaetan,Gaetan,male,98,7605
+Norris,Norris,male,93,379
+Don,Don,male,98,23550
+Alfred,Alfred,male,98,12096
+Simeon Malachi,Simeon Malachi,male,99,5830
+Odo,Odo,male,90,113
+Nicolas  Moros,Nicolas,male,98,119
+Delcy  Gomez,Delcy,female,75,4
+Wilmar  Soteldo,Wilmar,female,65,23
+Jose  Torres,Jose Torres,male,99,4833
+Blanca  Gomez,Blanca,female,99,145
+Jorge  Gomez,Jorge,male,99,1531
+Ernesto  Poljak,Ernesto,male,99,295
+Vladimir  Lopez,Vladimir Lopez,male,99,106
+Victor  Pacheco,Victor Pacheco,male,99,1116
+Simon  Delgado,Simon Delgado,male,98,191
+Heryck  Hernandez,Hernandez,unknown,50,2
+Aristobulo  Almeida,Almeida,female,67,3
+Luis Alfredo,Luis Alfredo,male,100,68
+Dante  Quijada,Dante,male,100,16
+Jorge  Montserrat,Jorge Montserrat,male,98,1539
+Yomana  Khatib,Yomana  Khatib,male,89,127
+Hipolito  Paez,Paez,unknown,50,2
+Carlos  Gonzalez,Carlos Gonzalez,male,99,4349
+Ildemaro  Arismendi,Ildemaro,male,100,17
+Aloha  Gutierrez,Gutierrez,male,75,4
+Tareck   Maddah,Tareck   Maddah,male,88,49
+Nestor  Torres,Nestor Torres,male,99,344
+Eduardo  Rodriguez,Eduardo Rodriguez,male,99,1236
+Luis Alberto  Ramirez,Luis Alberto Ramirez,male,99,4824
+Jorge  Monsalve,Jorge,male,99,1531
+Iris  Rangel,Iris,female,97,150
+Manuel  Fernandez,Manuel Fernandez,male,100,1290
+Ricardo  Prieto,Ricardo,male,100,977
+Marleny  Hernandez,Marleny Hernandez,female,91,22
+Juan  Palacio,Juan,male,100,1796
+Stella  de Montilla,Stella De,female,86,14
+Hugbel  Caruci,,male,67,3
+Mayerlin,Mayerlin,female,99,92
+Evelyn  Figuera,Evelyn,female,100,200
+Caryl  de Acosta,De,female,67,3
+Pedro  Aparicio,Pedro Aparicio,male,100,1327
+Tarek  Halabi,Tarek,male,100,6
+Carolina  Vasquez,Carolina Vasquez,female,98,885
+Calixto  Sanchez,Calixto Sanchez,male,92,12
+Samuel  Acosta,Samuel,male,100,349
+Nguyen Phu,Nguyen Phu,male,85,13
+Dang Thi Ngoc,Dang Thi Ngoc,female,56,4400
+Nguyen Xuan,Nguyen Xuan,male,95,129
+Truong Hoa,Truong Hoa,unknown,50,2
+Vuong Dinh,Vuong Dinh,male,78,1662
+Trinh Dinh,Trinh Dinh,male,100,3
+Vu Duc,Vu Duc,male,100,38
+Pham Binh,Pham Binh,male,69,3706
+Pham Hong,Pham Hong,male,83,29
+Nguyen Ngoc,Nguyen Ngoc,male,78,243
+Phung Xuan,Phung Xuan,male,100,4
+Dinh Tien,Dinh Tien,male,100,11
+Le Vinh,Le Vinh,male,100,6
+Tran Tuan,Tran Tuan,male,100,20
+Truong Minh,Truong Minh,male,94,17
+Le Thanh,Le Thanh,male,86,112
+Dao Ngoc,Dao Ngoc,male,86,7
+Ngo Xuan,Ngo Xuan,male,100,14
+Tran Hong,Tran Hong,male,77,13
+Nguyen Chi,Nguyen Chi,male,100,34
+Nguyen Thi Kim,Nguyen Thi Kim,female,100,40
+To,To,male,66,140
+Chu Ngoc,Chu Ngoc,female,64,3206
+Truong Quang,Truong Quang,male,80,5
+Le Minh,Le Minh,male,84,86
+Mai Tien,Mai Tien,female,62,5005
+Do Van,Do Van,male,98,65
+Ha Kim,Ha Kim,female,68,4506
+Dang Dinh,Dang Dinh,male,100,11
+Abd Rabuh Mansur,Abd,male,90,31
+al-Ahmar,Al,male,98,50
+Maeen Abd al-Malik,Maeen Abd,male,95,59
+Marwan Ahmad,Marwan Ahmad,male,95,348
+Abd al-Latif al,Abd Al,male,95,81
+Abdallah Muhsin al,Abdallah Al,male,98,87
+Ahmad Zubayan,Ahmad,male,93,198
+Alawi,Alawi,male,100,16
+Ahmad Ubayd al,Ahmad Al,male,94,248
+Fahad Salim,Fahad Salim,male,97,97
+Husayn Abd al-Rahman,Abd,male,90,31
+Izz al-Din al,Al,male,98,50
+Muamar Mutahir al,Al,male,98,50
+Ali Haytham al,Ali Haytham Al,male,97,1225
+Nihal al,Al,male,98,50
+Abd al-Raqib al,Abd Al,male,95,81
+Sayf Muhsin al,Al,male,98,50
+Nasir,Nasir,male,75,4
+Wahi Taha,Taha,male,96,120
+Samira,Samira,female,83,6
+Abd al-Rab Salih al,Abd Salih Al,male,95,84
+Abd al-Ghani,Abd,male,90,31
+Yasir Abdallah al,Yasir Abdallah Al,male,98,95
+Abdallah Salim,Abdallah Salim,male,97,110
+Lutfi,Lutfi,male,100,9
+Muhammad Abd al-Majid,Muhammad Abd,male,94,51
+Murad al,Murad Al,male,99,107
+Izzi,Izzi,female,56,176
+Nayif al,Al,male,98,50
+Hafiz,Hafiz,male,100,2
+Ahmed Awad,Ahmed Awad,male,97,1387
+Abdallah Ali Fadl al,Abdallah Ali Fadl Al,male,97,1258
+Inonge,Inonge,female,100,20
+Lawrence John,Lawrence John,male,100,376
+Margaret Mhango,Margaret,female,100,40
+Brian,Brian,male,99,226
+Olipa Mwansa,Mwansa,male,64,77
+Davies,Davies,male,100,64
+Bwalya,Bwalya,male,62,111
+Kampamba,Kampamba,male,80,5
+Chitalu,Chitalu,unknown,50,14
+Nkandu,Nkandu,male,65,17
+Ronald Kaoma,Ronald Kaoma,male,89,45
+Dora,Dora,female,100,5
+Given,Given,male,100,85
+Joyce Nonde,Joyce Nonde,female,84,37
+Godfridah Nsenduluka,Godfridah,female,100,4
+Chomba Freedom,Chomba,male,78,23
+Charles Romel,Charles,male,100,233
+Mutotwe,,,,
+Sylvia Bambala,Sylvia,female,100,21
+Likando,Likando,male,55,11
+Denny,Denny,male,100,5
+Lazarous,Lazarous,male,100,26
+Emmerson Dambudzo,Emmerson Dambudzo,male,75,8
+Constantino,Constantino,male,100,2
+Kembo,Kembo,male,100,2
+Oppah,Oppah,female,100,4
+Fortune,Fortune,male,100,61
+Nqobizitha Mangaliso,Nqobizitha,male,100,13
+Mthuli,Mthuli,male,100,2
+Sibusiso,Sibusiso,female,64,14
+Obadiah,Obadiah,male,96,154
+Amon,Amon,male,95,20
+Kazembe,Kazembe,male,100,9
+Sekai,Sekai,female,100,19
+Jenfan,Jenfan,male,100,2
+Ziyambi,,,,
+Perrance,,,,
+July,July,male,75,4
+Cain,Cain,male,100,5
+Joel Biggie,Joel Biggie,male,100,48
+Sithembiso,Sithembiso,female,75,4
+Kirsty,Kirsty,female,100,5
+John Panonetsa,John,male,97,270
+Ammon,Ammon,male,94,162
+Frederick Musiiwa Makamure,Musiiwa,male,67,3
+Sergio de Sousa,Sergio de Sousa,male,96,449
+J.,J.,male,82,2236
+Sebastian,Sebastian,male,100,661
+Werner,Werner,male,99,858
+Alma,Alma,female,96,46
+Klaudia,Klaudia,female,100,88
+Margarete,Margarete,female,98,57
+Heinz,Heinz,male,99,440
+Gernot,Gernot,male,99,311
+Rabab,Rabab,male,100,5
+Philippe,Philippe,male,99,5802
+Eliane,Eliane,female,100,7
+Ruben Dario  Suarez,Ruben Dario,male,100,97
+Sefik,Sefik,male,100,15
+Bisera,Bisera,female,100,2
+Ankica,Ankica,female,100,12
+Sifet,Sifet,male,92,12
+Stasa,Stasa,unknown,50,2
+Fahrudin,Fahrudin,male,99,68
+Vojin,Vojin,male,100,6
+Senad,Senad,male,98,445
+Bojan,Bojan,male,99,386
+Vesko,Vesko,male,100,10
+Nermin,Nermin,male,97,409
+Edita,Edita,female,98,44
+Radovan,Radovan,male,100,49
+Natalija,Natalija,female,100,20
+Alen,Alen,male,98,518
+Sonja,Sonja,female,98,45
+Denitsa,Denitsa,female,98,95
+Win,Win,male,82,2318
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Henry,Henry,male,99,32139
+Han,Han,male,72,4580
+Myo,Myo,male,87,1074
+Win,Win,male,82,2318
+Naing,Naing,male,90,440
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Ohn,Ohn,male,60,62
+Khin,Khin,female,72,713
+Pe,Pe,male,60,895
+Kyaw,Kyaw,male,96,2103
+Thaung,Thaung,male,96,46
+Thein,Thein,male,92,294
+Ohn,Ohn,male,60,62
+Kyaw,Kyaw,male,96,2103
+Min,Min,male,65,4933
+Soe,Soe,male,82,968
+Aung,Aung,male,93,2546
+Win,Win,male,82,2318
+Thant,Thant,male,87,199
+Aung,Aung,male,93,2546
+Kyaw,Kyaw,male,96,2103
+Aung,Aung,male,93,2546
+Hau,Hau,male,72,720
+Hun,Hun,male,85,40
+BIN CHHIN,Bin Chhin,male,70,20
+Aung,Aung,male,100,2
+Chea,Chea,male,79,160
+Hor,Hor,male,87,15
+Ke,Ke,male,83,12
+Kong,Kong,male,74,105
+Men,Men,male,87,23
+Nhek,Nhek,male,75,4
+Sar,Sar,male,63,8
+Prak,Prak,male,89,28
+Yim,Yim,male,92,26
+BIN CHHIN,Bin Chhin,male,70,20
+Veng,Veng,male,85,13
+Pan,Pan,male,86,7
+Him,Him,male,77,22
+Phoeung,Phoeung,male,75,4
+Aun,Aun,unknown,50,6
+Hang,,,,
+Say,Say,male,91,23
+Prak,Prak,male,89,28
+Mam,Mam,male,75,8
+Cham,Cham,male,100,3
+Khieu,Khieu,male,100,3
+Sar,Sar,male,63,8
+Ang,Ang,male,73,15
+Ith,Ith,male,75,8
+Chea,Chea,male,79,160
+Suy,Suy,male,83,18
+Chhay,Chhay,male,80,44
+Tram,Tram,male,100,2
+Sun,Sun,male,75,61
+Men,Men,male,87,23
+Ouk,Ouk,male,66,35
+Vorng,Vorng,male,67,3
+Thong,Thong,male,92,12
+Lim,Lim,male,80,105
+Chea,Chea,male,79,160
+Chum,Chum,male,79,19
+Sovann,Sovann,male,88,56
+Bater,Bater,male,100,3
+Cheong,Cheong,male,65,17
+Rodolfo Enrique  Navarro,Rodolfo Enrique Navarro,male,100,610
+Ricardo  Picon,Ricardo,male,100,1641
+Fernando  Gomez,Fernando Gomez,male,99,1862
+Angel  Cabrera,Angel  Cabrera,male,100,27116
+Mabel,Mabel,female,98,133
+Marie Tumba,Marie Tumba,female,97,110469
+Salvador  Mesa,Salvador Mesa,male,100,6
+Jorge  Fonseca,Jorge,male,99,166
+Gustavo  Rollero,Gustavo,male,100,34
+Jorge  Di-Lella,Jorge,male,99,166
+Ena  Cobiella,Ena ,female,88,1126
+Livan  Cruz,Livan,male,100,11
+Manuel  Martinez,Manuel,male,100,74
+Jose  Loidi,Jose,male,100,129
+Eloy  Martinez,Eloy,male,100,2
+Julio  Bermejo,Julio,male,98,55
+Oscar  Martinez,Oscar,male,100,45
+Martha  Cabrera,Martha,female,92,24
+Jose  Miranda,Jose,male,100,129
+Elba  Montoya,Elba  Montoya,female,89,895
+Juan Carlos  Granda,Juan Carlos,male,100,238
+Osvaldo  Montiller,Osvaldo,male,100,26
+Gladys  Portela,Gladys,female,92,12
+Martha  Gonzalez,Martha,female,92,24
+Margrethe,Margrethe,female,100,31
+Ivonne Juez Abuchacra de,Ivonne,female,100,92
+Mswati,Mswati,male,100,9
+Alejandro  Falla,Alejandro,male,99,334
+Cesar Guillermo  Reyes,Cesar Guillermo,male,99,289
+Oscar David  Aguirre,Oscar David,male,99,653
+Jose Edmundo  Cifuentes,Jose Edmundo,male,98,542
+Lidiette Silvana  Cayetano,Silvana,female,91,11
+Roberto Antonio  Tony,Roberto Antonio Tony,male,99,404
+Claudia,Claudia,female,99,222
+Alberto  Mata,Alberto,male,100,81
+Alvaro,Alvaro,male,100,98
+Pedro  Vila,Pedro,male,100,142
+Edgar  Samayoa,Edgar,male,100,265
+Rafael Alberto  Madrid,Rafael Alberto,male,100,167
+Albin Enrique  Ramirez,Enrique,male,99,101
+Hugo Roberto  Castillo,Hugo Roberto,male,99,375
+Raul  Segura,Raul,male,100,103
+Mahfud,Mahfud,male,99,155
+Pratikno,Pratikno,male,100,9
+St,St,female,63,75
+Naruhito,Naruhito,male,100,8
+Kajiyama,Kajiyama,male,75,4
+Abdallah,Abdallah,male,99,335
+Salamah,Salamah,male,100,3
+Yeraly,Yeraly,female,100,3
+Aset,Aset,male,100,46
+Peter Gatirau,Peter,male,99,3412
+Monica Kathina,Monica,female,97,189
+Raychelle Awour,Raychelle,female,100,10
+Simon Kiprono,Simon Kiprono,male,99,1257
+Ukur Kanacho,Ukur,male,100,2
+Sye-kyun,Sye-Kyun,male,75,115
+Mi-ae,Mi-Ae,female,100,4
+Albin,Albin,male,98,1777
+Avdullah,Avdullah,male,95,19
+Haki,Haki,male,92,639
+Besian,Besian,male,95,78
+Rozeta,Rozeta,female,93,46
+Hykmete,Hykmete,female,67,3
+Blerim,Blerim,male,95,1562
+Besnik,Besnik,male,96,1459
+Glauk,Glauk,male,100,11
+Lumir,Lumir,male,99,156
+Agim,Agim,male,97,1078
+Albulena,Albulena,female,96,224
+Emilija,Emilija,female,98,457
+Erkin,Erkin,male,100,21
+Hassan,Hassan,male,98,2630
+Zeina,Zeina,female,98,546
+Ghada,Ghada,female,98,220
+Raoul,Raoul,male,100,7
+Raymond,Raymond,male,100,133
+Damianos,Damianos,male,99,84
+Nassif,Nassif,male,98,43
+Imad,Imad,male,99,824
+Manal  al,Manal Al,female,82,352
+Lamya Yamin al,Al,male,92,64
+Hamad,Hamad,male,100,43
+Ramzi,Ramzi,male,99,189
+Talal,Talal,male,97,216
+Vartine,Vartine,female,75,4
+Letsie,Letsie,male,100,4
+Henri,Henri,male,100,44
+Christopher Jorebon,Christopher,male,100,4
+Jemi,Jemi,male,66,294
+Kitlang,Kitlang,female,75,4
+Casten,Casten,male,99,72
+Bruce,Bruce,male,75,4
+Kessai Hesa,Kessai,male,75,4
+Sandy,Sandy,female,78,27089
+Donald,Donald,male,75,4
+Jiba,Jiba,male,54,24
+Sultan,Sultan,male,73,12713
+Mohammed,Mohammed,male,98,7673
+Edelvina  Kika,Kika,female,100,4
+Carmelita,Carmelita,female,75,4
+Veronica,Veronica,female,100,23
+Armindo,Armindo,male,100,107
+Amade,Amade,male,100,68
+Margarida,Margarida,female,94,52
+Ivete,Ivete,female,100,53
+Jaime Bessa,Jaime,male,99,239
+Joao Osvaldo,Joao Osvaldo,male,99,736
+Augusta,Augusta,female,93,27
+Janfar,Janfar,male,100,4
+Willem-alexander,Willem-Alexander,male,99,4257
+Harald,Harald,male,99,321
+Sveinung,Sveinung,male,98,53
+Abid,Abid,male,100,3
+Geir Inge,Geir Inge,male,100,11
+Torborn Roe,Roe,male,100,2
+Nikolai,Nikolai,male,100,54
+Tina,Tina,female,98,169
+Linda Hofstad,Linda,female,98,455
+Henrik,Henrik,male,99,353
+Knut Arild,Knut Arild,male,100,3
+Sheyla,Sheyla,female,100,3
+Sonia Elizabeth  Oneeglio,Sonia Elizabeth,female,99,970
+Carlos Martin  Abanto,Carlos Martin,male,100,3876
+Susana Gladis  Achata,Susana Gladis,female,98,240
+Fernando Rafael  Portocarrero,Fernando Rafael,male,100,1557
+Carlos Eduardo  Contreras,Carlos Eduardo,male,100,4313
+Mikhail Vladimirovich,Mikhail Vladimirovich,male,100,2063
+Andrey Removich,Andrey,male,100,7309
+Dmitriy Yuriyevich,Dmitriy,male,100,2289
+Viktoriya Valeriyevna,Viktoriya,female,98,374
+Aleksey Logvinovich,Aleksey,male,99,1792
+Marat Shakirzyanovich,Marat,male,99,838
+Olga Borisovna,Olga,female,98,8703
+Maksut Igorevich,Igorevich,male,100,2
+Maksim Gennadyevich,Maksim,male,100,1063
+Sergey Sergeyevich,Sergey,male,100,9144
+Mikhail Albertovich,Mikhail,male,100,2058
+Konstantin Anatolyevich,Konstantin,male,100,2239
+Anton Olegovich,Anton,male,100,4797
+Valeriy Nikolayevich,Valeriy,male,99,377
+Oleg Vasilyevich,Oleg,male,100,4791
+Igor Viktorovich,Igor,male,100,4182
+S.,S.,male,86,7
+K.,K.,male,83,6
+K.,K.,male,83,6
+Commins Aston,Aston,male,93,587
+Rolland,Rolland,male,92,703
+Felipe,Felipe,male,98,4897
+Pablo  Turrion,Pablo,male,99,25211
+Alberto  Espinoza,Alberto Espinoza,male,99,31006
+Irene  Gil,Irene Gil,female,96,8300
+Maria Aranzazu  Arancha   Laya,Maria Aranzazu Arancha Laya,female,97,68601
+Salvador  Roca,Salvador Roca,male,99,3462
+Jose Luis  Belmonte,Jose Luis Belmonte,male,98,111037
+Juan Carlos  Moreno,Juan Carlos Moreno,male,98,134039
+Yolanda,Yolanda,female,98,8274
+Carolina  San Sebastian,Carolina San Sebastian,female,71,10814
+Manuela  Olivan,Manuela,female,98,2238
+Pablo Hernandez,Pablo Hernandez,male,100,50
+S.,S.,male,96,23
+Carl,Carl,male,99,1145
+Davlatshoh,,,,
+Shirin,Shirin,female,95,1688
+Amonullo,Amonullo,male,75,4
+Zulfiya,Zulfiya,female,100,3
+Zavqi,,,,
+Mahmadyusuf,Mahmadyusuf,male,75,4
+Muzaffar,Muzaffar,male,100,5
+Gulru,Gulru,female,75,4
+Wachiralongkon,,,,
+Tupou,Tupou,female,100,3
+Samuhammet,,,,
+Gadyrgeldi,,,,
+Rahim,Rahim,male,100,3
+Ezizgeldi,,,,
+Gurbanmyrat,Gurbanmyrat,male,75,4
+Reem bint Ibrahim al,Reem Bint Ibrahim Al,male,81,1145
+Elizabeth,Elizabeth,female,98,3122
+Anne-Marie,Anne-Marie,female,96,275
+Therese,Therese,female,98,96
+Suella,Suella,female,100,3
+Oktam,Oktam,male,100,6
+Elmira,Elmira,female,100,13
+Ozodbek,Ozodbek,male,100,6
+Tursunxon,,,,
+Timur,Timur,male,99,168
+Rahmat,Rahmat,male,100,2
+Dilmurod,Dilmurod,male,100,59
+Ahmad  Ubayd al,Ahmad Al,male,94,248
+Abdelmadjid,Abdelmadjid,male,99,176
+Cherif,Cherif,male,97,1065
+Kamel,Kamel,male,98,7268
+Ammar,Ammar,male,97,613
+Malika,Malika,female,97,636
+Sid Ahmed,Sid Ahmed,male,98,382
+Chems-Eddine,Chems-Eddine,male,100,8
+Ferhat Ait Ali,Ferhat Ait Ali,male,98,6755
+Belkacem,Belkacem,male,98,735
+Ahmed Chawki Fouad Acheuk,Ahmed Chawki Fouad,male,98,9593
+Yassine,Yassine,male,98,1341
+Kaoutar,Kaoutar,female,100,25
+Brahim,Brahim,male,98,3240
+Farouk,Farouk,male,98,1374
+Bessma,Bessma,female,91,35
+Hacene,Hacene,male,98,628
+Hoyam,Hoyam,female,80,5
+Arezki,Arezki,male,98,543
+Sid Ali,Sid Ali,male,99,221
+Yahia,Yahia,male,98,920
+Benabderrahmane,Benabderrahmane,male,100,6
+Sofiane,Sofiane,male,98,6333
+Victor Francisco dos Santos,Victor Francisco Dos Santos,male,98,1773
+Adjany,Adjany,female,100,3
+Tete,Tete,male,60,5
+Joao Ernesto    Liberdade,Joao Ernesto,male,98,1528
+Manuel Tavares,Manuel Tavares,male,99,1812
+Manuel Gomes da Conceicao,Manuel Gomes Da Conceicao,male,97,1927
+Marcy,Marcy,female,100,6
+Adao de,Adao De,male,95,129
+J.,J.,male,82,2236
+Dmitriy,Dmitriy,male,99,130
+Philippe,Philippe,male,99,5802
+Walter Souza  Netta,Walter Souza,male,99,1616
+Abraham Braganca,Abraham,male,100,24
+Marcelo  Antonio,Marcelo Antonio,male,100,23493
+Luiz Eduardo  Baptista Pereira,Luiz Eduardo Baptista Pereira,male,100,22320
+Win,Win,male,82,2318
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Henry,Henry,male,99,32139
+Han,Han,male,72,4580
+Myo,Myo,male,87,1074
+Win,Win,male,82,2318
+Naing,Naing,male,90,440
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Ohn,Ohn,male,60,62
+Khin,Khin,female,72,713
+Pe,Pe,male,60,895
+Kyaw,Kyaw,male,96,2103
+Thaung,Thaung,male,96,46
+Thein,Thein,male,92,294
+Ohn,Ohn,male,60,62
+Kyaw,Kyaw,male,96,2103
+Min,Min,male,65,4933
+Soe,Soe,male,82,968
+Aung,Aung,male,93,2546
+Win,Win,male,82,2318
+Thant,Thant,male,87,199
+Aung,Aung,male,93,2546
+Kyaw,Kyaw,male,96,2103
+Aung,Aung,male,93,2546
+Hau,Hau,male,72,720
+Hun,Hun,male,85,40
+BIN CHHIN,Bin Chhin,male,70,20
+Aung,Aung,male,100,2
+Chea,Chea,male,79,160
+Hor,Hor,male,87,15
+Ke,Ke,male,83,12
+Kong,Kong,male,74,105
+Men,Men,male,87,23
+Nhek,Nhek,male,75,4
+Sar,Sar,male,63,8
+Prak,Prak,male,89,28
+Yim,Yim,male,92,26
+BIN CHHIN,Bin Chhin,male,70,20
+Veng,Veng,male,85,13
+Pan,Pan,male,86,7
+Him,Him,male,77,22
+Phoeung,Phoeung,male,75,4
+Aun,Aun,unknown,50,6
+Hang,,,,
+Say,Say,male,91,23
+Prak,Prak,male,89,28
+Mam,Mam,male,75,8
+Cham,Cham,male,100,3
+Khieu,Khieu,male,100,3
+Sar,Sar,male,63,8
+Ang,Ang,male,73,15
+Ith,Ith,male,75,8
+Chea,Chea,male,79,160
+Suy,Suy,male,83,18
+Chhay,Chhay,male,80,44
+Tram,Tram,male,100,2
+Sun,Sun,male,75,61
+Men,Men,male,87,23
+Ouk,Ouk,male,66,35
+Vorng,Vorng,male,67,3
+Thong,Thong,male,92,12
+Lim,Lim,male,80,105
+Chea,Chea,male,79,160
+Chum,Chum,male,79,19
+Sovann,Sovann,male,88,56
+Bater,Bater,male,100,3
+Cheong,Cheong,male,65,17
+Karel,Karel,male,96,21265
+Marie,Marie,female,97,110430
+Jana,Jana,female,98,74581
+Margrethe,Margrethe,female,100,31
+Mswati,Mswati,male,100,9
+Faiyaz,Faiyaz,male,99,364
+Aikaterini,Aikaterini,female,100,29
+Taranjit Singh,Taranjit Singh,male,100,4
+Tirumurti,,,,
+Mahfud,Mahfud,male,99,155
+Pratikno,Pratikno,male,100,9
+St,St,female,63,75
+Naruhito,Naruhito,male,100,8
+Kajiyama,Kajiyama,male,75,4
+Abdallah,Abdallah,male,99,335
+Yerulan,Yerulan,male,100,3
+Aida,Aida,female,96,161
+Sabirjan,Sabirjan,male,100,2
+Sitphaxai,,,,
+Anlavan,,,,
+Letsie,Letsie,male,100,4
+Henri,Henri,male,100,44
+Arthur Peter,Arthur Peter,male,100,194
+Saulos,Saulos,male,83,6
+Everton Herbert,Everton Herbert,male,100,12
+Atupele,Atupele,male,57,14
+Jappie Chancy Mtuwa,Chancy,male,100,5
+Mark Michael,Michael,male,97,64
+Kamlepo,,,,
+Henry Chimunthu,Henry,male,99,81
+Mary Clara,Mary Clara,female,100,57
+Eugen,Eugen,male,99,161
+Mohammed,Mohammed,male,98,7673
+Johannes,Johannes,male,96,102
+Willem-alexander,Willem-Alexander,male,99,4257
+Harald,Harald,male,99,321
+Rodolfo Max  Alfaro,Rodolfo Max,male,100,22
+Eduardo  San Martin,Eduardo San Martin,male,100,136
+Benigno Maria  Benitez,Maria,female,97,107
+Antonio  Palacios,Antonio,male,100,64
+Liz Rossana  Campos,Liz Rossana,female,99,134
+Juan Ernesto  Tommasi,Juan Ernesto,male,100,180
+Julio Javier  Bogado,Julio Javier,male,100,200
+Carla  Planas,Carla,female,100,15
+Julio Daniel  Insfran,Julio Daniel,male,100,230
+Mario Alberto  Cardozo,Mario Alberto,male,99,145
+Nilda  Santacruz,Nilda,female,100,16
+Julio Cesar  Ramirez,Julio Cesar,male,100,168
+Enrique,Enrique,male,100,81
+bin Khalifa bin Abd al-Aziz Al Thani,Bin Khalifa Bin Abd Al Thani,male,94,241
+S.,S.,male,86,7
+K.,K.,male,83,6
+K.,K.,male,83,6
+Zuzana,Zuzana,female,99,8236
+Veronika,Veronika,female,99,4069
+Natalia,Natalia,female,99,441
+Janez,Janez,male,99,686
+Aleksandra,Aleksandra,female,99,167
+Matej,Matej,male,99,1027
+Simona,Simona,female,98,371
+Anze,Anze,male,98,56
+Tomaz,Tomaz,male,99,174
+Jernej,Jernej,male,99,316
+Ales,Ales,male,100,244
+Lilijana,Lilijana,female,100,45
+Janez Cigler,Janez,male,99,686
+Zvonko,Zvonko,male,100,83
+Senley,,,,
+Lanelle Olandrea,Lanelle,female,94,36
+Riek  Teny Dhurgon,Riek,male,100,3
+Rebecca Nyandeng Chol  de Mabior,Chol de Mabior,male,100,19
+Hussein  Ayii,Hussein,male,99,105
+Josephine Joseph,Josephine Joseph,male,93,55
+Angelina,Angelina,female,75,4
+Peter Marcello,Peter,male,98,47
+Josephine  Cosmas,Josephine Cosmas,female,67,6
+Lasuba,Lasuba,male,75,4
+Beatrice  Wani,Beatrice Wani,male,64,14
+Ayaa Benjamin,Ayaa Benjamin,male,80,10
+Elisabeth Acuei,Elisabeth,female,99,26306
+Denay Jok,Jok,male,100,4
+Peter  Majongdit,Peter,male,98,47
+Michael  Lueth,Michael,male,95,21
+Reuben Madol,Reuben Madol,male,100,5677
+Stephen Par,Stephen,male,95,21
+Puot Kang,Kang,male,90,2557
+Joseph Bangasi,Joseph,male,100,51
+Kuol Athian,Kuol,male,100,2
+Madut Biar,Madut,male,75,4
+Peter Gatkuoth,Peter,male,98,47
+Rizik Zachariah,Rizik Zachariah,male,100,8890
+Albino Bol,Albino Bol,male,100,8
+Felipe,Felipe,male,98,4897
+S.,S.,male,96,23
+Nureldin Mohamed Hamed,Nureldin Mohamed Hamed,male,99,2341
+Carl,Carl,male,99,1145
+Jamoliddin,Jamoliddin,male,100,3
+Palamagamba,,,,
+Wachiralongkon,,,,
+Tupou,Tupou,female,100,3
+Kais,Kais,male,99,1187
+Elyes,Elyes,male,99,387
+Shiraz,Shiraz,female,100,11
+Mongi,Mongi,male,98,317
+Chokri,Chokri,male,98,779
+Mohamed Nizar,Mohamed Nizar,male,100,2
+Noureddine,Noureddine,male,99,413
+Salah Ben,Salah Ben,male,98,53
+Mohamed Fadhel,Mohamed Fadhel,male,100,7
+Mohamed Selim,Mohamed Selim,male,99,10251
+Thouraya Jeribi,Thouraya,female,98,126
+Lofti,Lofti,male,100,3
+Moncef,Moncef,male,99,607
+Habib,Habib,male,98,889
+Ayachi,Ayachi,male,87,52
+Lobna,Lobna,female,98,295
+Mohamed Ali,Mohamed Ali,male,99,609
+Anouar,Anouar,male,99,382
+Asma,Asma,female,98,1334
+Salma,Salma,female,98,805
+Akissa,Akissa,female,75,4
+Oleh,Oleh,male,99,275
+Ihor,Ihor,male,100,289
+Ilya,Ilya,male,100,266
+Maryna,Maryna,female,97,196
+Serhiy,Serhiy,male,100,188
+Iryna,Iryna,female,98,716
+Elizabeth,Elizabeth,female,98,3122
+Ishmael,Ishmael,male,99,946
+Kalo Willie,Kalo Willie,male,100,4
+Semion,Semion,male,97,68
+Silas,Silas,male,99,3701
+Jay,Jay,male,67,3
+Esmon,Esmon,male,100,3
+Jack Kalmet,Jack,male,100,6
+Willie,Willie,male,100,2
+J.,J.,male,82,2236
+Permanent Representative to the,The,male,100,9
+Philippe,Philippe,male,99,5802
+Win,Win,male,82,2318
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Henry,Henry,male,99,32139
+Han,Han,male,72,4580
+Myo,Myo,male,87,1074
+Win,Win,male,82,2318
+Naing,Naing,male,90,440
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Ohn,Ohn,male,60,62
+Khin,Khin,female,72,713
+Pe,Pe,male,60,895
+Kyaw,Kyaw,male,96,2103
+Thaung,Thaung,male,96,46
+Thein,Thein,male,92,294
+Ohn,Ohn,male,60,62
+Kyaw,Kyaw,male,96,2103
+Min,Min,male,65,4933
+Soe,Soe,male,82,968
+Aung,Aung,male,93,2546
+Win,Win,male,82,2318
+Thant,Thant,male,87,199
+Aung,Aung,male,93,2546
+Kyaw,Kyaw,male,96,2103
+Aung,Aung,male,93,2546
+Hau,Hau,male,72,720
+Hun,Hun,male,85,40
+BIN CHHIN,Bin Chhin,male,70,20
+Aung,Aung,male,100,2
+Chea,Chea,male,79,160
+Hor,Hor,male,87,15
+Ke,Ke,male,83,12
+Kong,Kong,male,74,105
+Men,Men,male,87,23
+Nhek,Nhek,male,75,4
+Sar,Sar,male,63,8
+Prak,Prak,male,89,28
+Yim,Yim,male,92,26
+BIN CHHIN,Bin Chhin,male,70,20
+Veng,Veng,male,85,13
+Pan,Pan,male,86,7
+Him,Him,male,77,22
+Phoeung,Phoeung,male,75,4
+Aun,Aun,unknown,50,6
+Hang,,,,
+Say,Say,male,91,23
+Prak,Prak,male,89,28
+Mam,Mam,male,75,8
+Cham,Cham,male,100,3
+Khieu,Khieu,male,100,3
+Sar,Sar,male,63,8
+Ang,Ang,male,73,15
+Ith,Ith,male,75,8
+Chea,Chea,male,79,160
+Suy,Suy,male,83,18
+Chhay,Chhay,male,80,44
+Tram,Tram,male,100,2
+Sun,Sun,male,75,61
+Men,Men,male,87,23
+Ouk,Ouk,male,66,35
+Vorng,Vorng,male,67,3
+Thong,Thong,male,92,12
+Lim,Lim,male,80,105
+Chea,Chea,male,79,160
+Chum,Chum,male,79,19
+Sovann,Sovann,male,88,56
+Bater,Bater,male,100,3
+Cheong,Cheong,male,65,17
+Margrethe,Margrethe,female,100,31
+Mswati,Mswati,male,100,9
+Mahfud,Mahfud,male,99,155
+Pratikno,Pratikno,male,100,9
+St,St,female,63,75
+Naruhito,Naruhito,male,100,8
+Kajiyama,Kajiyama,male,75,4
+Abdallah,Abdallah,male,99,335
+Letsie,Letsie,male,100,4
+Henri,Henri,male,100,44
+Mohammed,Mohammed,male,98,7673
+Min  of State for Health   Population,Min,male,100,25
+Min  of State for Home Affairs,Min,male,100,25
+Willem-alexander,Willem-Alexander,male,99,4257
+Harald,Harald,male,99,321
+S.,S.,male,86,7
+K.,K.,male,83,6
+K.,K.,male,83,6
+Felipe,Felipe,male,98,4897
+S.,S.,male,96,23
+Carl,Carl,male,99,1145
+Wachiralongkon,,,,
+Tupou,Tupou,female,100,3
+Elizabeth,Elizabeth,female,98,3122
+J.,J.,male,82,2236
+Leonore,Leonore,female,75,4
+Karoline,Karoline,female,96,73
+Christine,Christine,female,98,770
+Rudolf,Rudolf,male,100,446
+Susanne,Susanne,female,98,633
+Philippe,Philippe,male,99,5802
+Win,Win,male,82,2318
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Henry,Henry,male,99,32139
+Han,Han,male,72,4580
+Myo,Myo,male,87,1074
+Win,Win,male,82,2318
+Naing,Naing,male,90,440
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Ohn,Ohn,male,60,62
+Khin,Khin,female,72,713
+Pe,Pe,male,60,895
+Kyaw,Kyaw,male,96,2103
+Thaung,Thaung,male,96,46
+Thein,Thein,male,92,294
+Ohn,Ohn,male,60,62
+Kyaw,Kyaw,male,96,2103
+Min,Min,male,65,4933
+Soe,Soe,male,82,968
+Aung,Aung,male,93,2546
+Win,Win,male,82,2318
+Thant,Thant,male,87,199
+Aung,Aung,male,93,2546
+Kyaw,Kyaw,male,96,2103
+Aung,Aung,male,93,2546
+Hau,Hau,male,72,720
+Hun,Hun,male,85,40
+BIN CHHIN,Bin Chhin,male,70,20
+Aung,Aung,male,100,2
+Chea,Chea,male,79,160
+Hor,Hor,male,87,15
+Ke,Ke,male,83,12
+Kong,Kong,male,74,105
+Men,Men,male,87,23
+Nhek,Nhek,male,75,4
+Sar,Sar,male,63,8
+Prak,Prak,male,89,28
+Yim,Yim,male,92,26
+BIN CHHIN,Bin Chhin,male,70,20
+Veng,Veng,male,85,13
+Prum,Prum,female,56,9
+Pan,Pan,male,86,7
+Chhit,Chhit,male,100,2
+Phoeung,Phoeung,male,75,4
+Aun,Aun,unknown,50,6
+Hang,,,,
+Say,Say,male,91,23
+Prak,Prak,male,89,28
+Mam,Mam,male,75,8
+Cham,Cham,male,100,3
+Khieu,Khieu,male,100,3
+Sar,Sar,male,63,8
+Keut,Keut,unknown,50,2
+Ith,Ith,male,75,8
+Chea,Chea,male,79,160
+Suy,Suy,male,83,18
+Chhay,Chhay,male,80,44
+Chea,Chea,male,79,160
+Sun,Sun,male,75,61
+Men,Men,male,87,23
+Ouk,Ouk,male,66,35
+Vorng,Vorng,male,67,3
+Thong,Thong,male,92,12
+Lim,Lim,male,80,105
+Chea,Chea,male,79,160
+Chum,Chum,male,79,19
+Sovann,Sovann,male,88,56
+Bater,Bater,male,100,3
+Cheong,Cheong,male,65,17
+Vaine Makiroa,Vaine,female,82,17
+Agustin  Solano,Agustin,male,100,9
+Elian  Valverde,Elian,male,71,7
+Daniel  Peraza,Daniel,male,99,533
+Juan Luis  Madriz,Juan Luis,male,100,778
+Fiorella  Rojas,Fiorella,female,96,48
+Marcelo  Jimenez,Marcelo Jimenez,male,97,31
+Paola  Castillo,Paola,female,97,113
+Fernando  Castro,Fernando,male,99,179
+Margrethe,Margrethe,female,100,31
+Mswati,Mswati,male,100,9
+Matti,Matti,male,99,1135
+Oliverio  Rodas,Oliverio  Rodas,male,86,147
+Sergio Francisco  Rivera,Sergio Francisco,male,100,488
+Luis Antonio,Luis Antonio,male,100,16
+Aslaug Arna,Aslaug Arna,female,95,21
+Mahfud,Mahfud,male,99,155
+Pratikno,Pratikno,male,100,9
+St,St,female,63,75
+Micheal,Micheal,male,99,109
+Barry,Barry,male,99,576
+Roderic,Roderic,male,75,4
+Eamon,Eamon,male,99,131
+Norma,Norma,female,97,33
+Darragh,Darragh,male,100,200
+Helen,Helen,female,99,338
+Alon,Alon,male,100,432
+Yoaz,Yoaz,female,100,2
+Orly,Orly,female,96,117
+Chili,Chili,male,75,4
+Gabi,Gabi,male,89,108
+Yuli,Yuli,female,54,26
+Zeev,Zeev,male,100,132
+Pnina,Pnina,female,98,50
+Avraham,Avraham,male,98,43
+Itzik,Itzik,male,100,164
+Tzipi,Tzipi,female,100,12
+Yizhar,Yizhar,male,100,2
+Meirav,Meirav,female,97,32
+Naruhito,Naruhito,male,100,8
+Kajiyama,Kajiyama,male,75,4
+Abdallah,Abdallah,male,99,335
+Driton,Driton,male,96,1002
+Rame,Rame,male,94,763
+Meliza,Meliza,female,97,324
+Armend,Armend,male,97,930
+Arban,Arban,male,93,44
+Selim,Selim,male,96,18492
+Enis,Enis,male,95,3127
+Vesel,Vesel,male,93,84
+Almazbek,Almazbek,male,100,6
+Taalaybek,Taalaybek,male,100,5
+Altynbek,Altynbek,male,100,19
+Letsie,Letsie,male,100,4
+Henri,Henri,male,100,44
+Mohammed,Mohammed,male,98,7673
+Willem-alexander,Willem-Alexander,male,99,4257
+Harald,Harald,male,99,321
+Guri,Guri,female,97,32
+Odd Emil,Odd Emil,male,97,382
+S.,S.,male,86,7
+K.,K.,male,83,6
+K.,K.,male,83,6
+Beatrice Khamisa,Beatrice,female,100,5
+Nhial Deng,Nhial Deng,male,96,28
+Felipe,Felipe,male,98,4897
+S.,S.,male,96,23
+Yassin  Yassin,Yassin,male,94,68
+Badreddine   Ibrahim,Ibrahim,male,98,443
+Omar Mohammad Ahmad,Omar Mohammad Ahmad,male,97,399
+Carl,Carl,male,99,1145
+Anna Karin,Anna Karin,female,100,8
+Wachiralongkon,,,,
+Tupou,Tupou,female,100,3
+Gulmyrat,,,,
+Elizabeth,Elizabeth,female,98,3122
+Beatriz,Beatriz,female,99,136
+Carlos Maria,Carlos Maria,male,100,2
+Javier  Duchini,Javier,male,100,281
+Azucena,Azucena,female,100,9
+Irene,Irene,female,100,28
+German,German,male,100,3182
+Enelda  Lugo,Enelda  Lugo,male,78,54
+Oswaldo,Oswaldo,male,100,396
+Freddy  Maestro,Freddy,male,100,654
+Carlos  Telleria,Carlos,male,99,4341
+Raul Alfonzo,Raul Alfonzo,male,98,463
+Gabriela  Ramirez,Gabriela Ramirez,female,99,764
+Asia,Asia,female,98,22815
+J.,J.,male,82,2236
+Emin,Emin,male,99,902
+Travis,Travis,male,99,11196
+Muhammad bin Ibrahim al,Muhammad Bin Ibrahim Al,male,92,338
+Abdullah al,Abdullah Al,male,87,239
+Wael bin Nasir al,Wael Bin Nasir Al,male,88,228
+Abd al-Latif bin Rashid al,Abd Bin Rashid Al,male,91,287
+Tawfiq al-Muayid,Tawfiq,male,100,5
+Philippe,Philippe,male,99,5802
+Selmo,Selmo,male,100,2
+Djordje,Djordje,male,98,95
+Lachezar,Lachezar,male,100,67
+Kostadin,Kostadin,male,99,111
+Hristo,Hristo,male,100,508
+Win,Win,male,82,2318
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Henry,Henry,male,99,32139
+Han,Han,male,72,4580
+Myo,Myo,male,87,1074
+Win,Win,male,82,2318
+Naing,Naing,male,90,440
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Ohn,Ohn,male,60,62
+Khin,Khin,female,72,713
+Pe,Pe,male,60,895
+Kyaw,Kyaw,male,96,2103
+Thaung,Thaung,male,96,46
+Thein,Thein,male,92,294
+Ohn,Ohn,male,60,62
+Kyaw,Kyaw,male,96,2103
+Min,Min,male,65,4933
+Soe,Soe,male,82,968
+Aung,Aung,male,93,2546
+Win,Win,male,82,2318
+Thant,Thant,male,87,199
+Aung,Aung,male,93,2546
+Kyaw,Kyaw,male,96,2103
+Aung,Aung,male,93,2546
+Hau,Hau,male,72,720
+Hun,Hun,male,85,40
+BIN CHHIN,Bin Chhin,male,70,20
+Aung,Aung,male,100,2
+Chea,Chea,male,79,160
+Hor,Hor,male,87,15
+Ke,Ke,male,83,12
+Kong,Kong,male,74,105
+Men,Men,male,87,23
+Nhek,Nhek,male,75,4
+Sar,Sar,male,63,8
+Prak,Prak,male,89,28
+Yim,Yim,male,92,26
+BIN CHHIN,Bin Chhin,male,70,20
+Veng,Veng,male,85,13
+Prum,Prum,female,56,9
+Pan,Pan,male,86,7
+Chhit,Chhit,male,100,2
+Phoeung,Phoeung,male,75,4
+Aun,Aun,unknown,50,6
+Hang,,,,
+Say,Say,male,91,23
+Prak,Prak,male,89,28
+Mam,Mam,male,75,8
+Cham,Cham,male,100,3
+Khieu,Khieu,male,100,3
+Sar,Sar,male,63,8
+Keut,Keut,unknown,50,2
+Ith,Ith,male,75,8
+Chea,Chea,male,79,160
+Suy,Suy,male,83,18
+Chhay,Chhay,male,80,44
+Chea,Chea,male,79,160
+Sun,Sun,male,75,61
+Men,Men,male,87,23
+Ouk,Ouk,male,66,35
+Vorng,Vorng,male,67,3
+Thong,Thong,male,92,12
+Lim,Lim,male,80,105
+Chea,Chea,male,79,160
+Chum,Chum,male,79,19
+Sovann,Sovann,male,88,56
+Bater,Bater,male,100,3
+Cheong,Cheong,male,65,17
+Diego  Puyo,Diego,male,100,3354
+Fransciso  Delgado,Delgado,male,100,3
+Charalambos,Charalambos,male,98,105
+Natasa,Natasa,female,97,95
+Emily,Emily,female,100,59
+Margrethe,Margrethe,female,100,31
+Maria Alejandra,Maria Alejandra,female,100,12
+Paulo  Andrade,Paulo Andrade,male,100,70
+Luis  Chirboga,Luis,male,99,1919
+Andres,Andres,male,99,1219
+Juan Carlos  Lopez,Juan Carlos Lopez,male,100,3292
+Mswati,Mswati,male,100,9
+Mathias Otounga,Mathias,male,100,13
+Alain-Claude,Alain-Claude,male,100,3
+Pacome Moubelet,Pacome,male,100,6
+Guy Patrick Obiang,Guy Patrick Obiang,male,98,390
+Patrick Daouda,Patrick Daouda,male,99,238
+Erlyne Antonella,Erlyne Antonella,female,98,19685
+Vincent De Paul,Vincent de Paul,male,100,3
+Carmen,Carmen,female,100,14
+Denise Mekam'ne,Denise,female,92,13
+Prisca,Prisca,female,97,93
+Pascal Houangni,Pascal,male,100,47
+Hughes Mbadinga,Hughes Mbadinga,male,92,12
+Leon Bonda,Leon,male,100,16
+Archil,Archil,male,100,69
+Natia,Natia,female,97,343
+Ekaterine,Ekaterine,female,93,74
+Jonas,Jonas,male,100,19
+Jean Walnard,Jean,male,88,102
+Michel Patrick,Michel Patrick,male,97,92
+Jessy,Jessy,female,59,12716
+Rockefeller,Rockefeller,male,100,26
+Nader,Nader,male,98,6795
+Mahfud,Mahfud,male,99,155
+Pratikno,Pratikno,male,100,9
+St,St,female,63,75
+Naruhito,Naruhito,male,100,8
+Kajiyama,Kajiyama,male,75,4
+Abdallah,Abdallah,male,99,335
+Bagdat,Bagdat,male,78,27
+Mutahi,Mutahi,male,75,8
+Lazarus Ombai,Lazarus,male,100,45
+Tekeeua,,,,
+Taabeta,,,,
+Booti,Booti,male,67,3
+Ruateki,,,,
+Ribanataake,,,,
+Tinte,Tinte,male,57,7
+Boutu,,,,
+Tarakabu,,,,
+al-Ahmad al-Sabah,Al-Ahmad,male,97,2697
+Fahad al,Fahad Al,male,97,59
+Saoud al,Saoud Al,male,90,263
+Barrak al,Barrak Al,male,89,258
+al-Muhammad al-Sabah,Al-Muhammad,male,93,419
+al-Malik al-Sabah,Al-Malik,male,90,292
+Khalid al,Khalid Al,male,93,27
+Rana al,Rana Al,male,71,331
+Maryam al,Maryam Al,male,58,355
+al-Sabah,Al-Sabah,male,84,274
+Khalifa al-Jassim,Khalifa,male,98,59
+Mubarak al,Mubarak Al,male,100,4
+Letsie,Letsie,male,100,4
+Henri,Henri,male,100,44
+Lazarus McCarthy,Lazarus,male,100,4
+Lobin,Lobin,male,94,17
+Newton,Newton,male,100,6
+Eisenhower Nduwa,Eisenhower,male,96,25
+Nancy,Nancy,female,100,16
+Khumbize Kandodo,Khumbize,female,100,2
+Richard Chimwendo,Richard,male,99,96
+Roy Akajuwe,Roy,male,100,17
+Gospel,Gospel,male,100,3
+Titus,Titus,male,100,14
+Kenny,Kenny,male,75,4
+Kezzie Kasambala,Kezzie,female,82,17
+Lingson Kambewa,Lingson,male,100,2
+Rashid Abdul,Rashid Abdul,male,94,16
+Michael Bizwick,Michael,male,97,64
+Sosten Alfred,Sosten Alfred,male,100,53
+Mohammed Sidik,Mohammed,male,100,3
+Ulemu,Ulemu,male,62,13
+Chikosa,Chikosa,male,75,4
+Jorge  Diaz,Jorge Diaz,male,100,6614
+Mohammed,Mohammed,male,98,7673
+Willem-alexander,Willem-Alexander,male,99,4257
+Dalton,Dalton,male,100,19405
+Crossley,Crossley,male,88,8
+Sauni,Sauni,female,80,5
+Harald,Harald,male,99,321
+Hamad bin Said al,Hamad Bin Said Al,male,94,1312
+Suad bint Muhammad al,Suad Bint Muhammad Al,male,85,542
+Abdulmunim bin Mansur al,Bin Mansur Al,male,89,399
+bint Sulayman al-Ismaili,Bint,female,100,27
+Salim bin Muhammad al,Salim Bin Muhammad Al,male,95,1370
+bin Fahar Al Said,Bin Fahar Al Said,male,94,1162
+bin Majid bin Taymur,Bin Majid Bin,male,98,304
+Luis Francisco,Luis Francisco,male,99,572
+Rogelio,Rogelio,male,100,36
+Maria Ines  Lopez,Maria Ines,female,96,167
+Pedro Alvaro  Bellido,Pedro Alvaro,male,99,1130
+Alejandro Arturo  Sanchez,Alejandro Arturo Sanchez,male,100,1113
+Patricia Elizabeth  Pasquel,Patricia Elizabeth,female,99,1412
+Rafael Jorge  Llosa,Rafael Jorge,male,99,2591
+Kirla  Alfaro,Alfaro,male,100,2
+Mario Juvenal  Chavarri,Mario Juvenal,male,99,593
+Pilar Elena  Soler,Pilar Elena Soler,female,98,450
+Jorge Eduardo  Perez,Jorge Eduardo,male,99,3193
+Ana Cristina  Zegarra,Ana Cristina Zegarra,female,97,787
+Martin Adolfo  Garzon,Martin Adolfo,male,100,727
+Jose Antonio  Rodriguez,Jose Antonio Rodriguez,male,100,2767
+Carlos Cesar Arturo  Mory,Carlos Cesar Arturo,male,100,5021
+Yusuf Muhammad Al Uthman,Yusuf Muhammad Al,male,96,268
+Ali bin Ahmad Al,Ali Bin Ahmad Al,male,97,2316
+Isa Saad al Jafali al,Isa Saad Al Al,male,94,302
+Abdullah bin Abdulaziz bin Turki Al,Abdullah Bin Abdulaziz Bin Turki Al,male,97,442
+Alexis,Alexis,male,77,31202
+Jonel,Jonel,male,88,208
+Akilah,Akilah,female,88,141
+S.,S.,male,86,7
+K.,K.,male,83,6
+K.,K.,male,83,6
+Masagos,,,,
+See Leng,See Leng,unknown,50,42
+Maliki,Maliki,male,75,4
+Alor Kuol,Kuol,male,100,2
+Gabriel  Chang,Gabriel,male,100,13
+Felipe,Felipe,male,98,4897
+S.,S.,male,96,23
+Chandrikapersad  Chan,Chan,female,100,2
+Ronnie Brunswijk,Ronnie,male,91,6985
+Albert Ramdin,Albert,male,100,3
+Amar,Amar,male,75,4
+Carl,Carl,male,99,1145
+Pascale,Pascale,female,98,184
+Wachiralongkon,,,,
+Tupou,Tupou,female,100,3
+Mahrijemal,Mahrijemal,female,75,4
+Orazgeldi,Orazgeldi,male,75,4
+Muhammetgeldi,,,,
+Bilhayf al-Nuaymi,,,,
+Abdullah bin Tuq al,Abdullah Bin Al,male,98,1125
+Ahmad Juma al,Ahmad Juma Al,male,98,2100
+Sultan bin Ahmad al,Sultan Bin Ahmad Al,male,98,2721
+Ahmad Belhoul al,Ahmad Al,male,98,2040
+Maryam bint Muhammad,Maryam Bint Muhammad,male,87,1271
+bin Ahmad al-Ziyudi,Bin Ahmad,male,98,1794
+Ahmad Ali al,Ahmad Ali Al,male,98,5509
+Zayid,Zayid,male,100,2
+Elizabeth,Elizabeth,female,98,3122
+Salim Ahmad Sa'id al,Salim Ahmad Al,male,95,321
+Uthman Husayn Fayid,Uthman Husayn Fayid,male,98,330
+Salim Salih,Salim Salih,male,97,76
+Muhammad Muhsin,Muhammad,male,100,20
+Aws al,Aws Al,male,98,53
+Najib Al,Najib Al,male,97,61
+Ibtihaj al,Al,male,98,50
+Abd al-Razzaq al,Abd Al,male,95,81
+Tawfiq al,Tawfiq Al,male,99,68
+Romanos,Romanos,male,98,62
+J.,J.,male,82,2236
+Philippe,Philippe,male,99,5802
+Win,Win,male,82,2318
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Henry,Henry,male,99,32139
+Han,Han,male,72,4580
+Myo,Myo,male,87,1074
+Win,Win,male,82,2318
+Naing,Naing,male,90,440
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Ohn,Ohn,male,60,62
+Khin,Khin,female,72,713
+Pe,Pe,male,60,895
+Kyaw,Kyaw,male,96,2103
+Thaung,Thaung,male,96,46
+Thein,Thein,male,92,294
+Ohn,Ohn,male,60,62
+Kyaw,Kyaw,male,96,2103
+Min,Min,male,65,4933
+Soe,Soe,male,82,968
+Aung,Aung,male,93,2546
+Win,Win,male,82,2318
+Thant,Thant,male,87,199
+Aung,Aung,male,93,2546
+Kyaw,Kyaw,male,96,2103
+Aung,Aung,male,93,2546
+Hau,Hau,male,72,720
+Hun,Hun,male,85,40
+BIN CHHIN,Bin Chhin,male,70,20
+Aung,Aung,male,100,2
+Chea,Chea,male,79,160
+Hor,Hor,male,87,15
+Ke,Ke,male,83,12
+Kong,Kong,male,74,105
+Men,Men,male,87,23
+Nhek,Nhek,male,75,4
+Sar,Sar,male,63,8
+Prak,Prak,male,89,28
+Yim,Yim,male,92,26
+BIN CHHIN,Bin Chhin,male,70,20
+Veng,Veng,male,85,13
+Prum,Prum,female,56,9
+Pan,Pan,male,86,7
+Chhit,Chhit,male,100,2
+Phoeung,Phoeung,male,75,4
+Aun,Aun,unknown,50,6
+Hang,,,,
+Say,Say,male,91,23
+Prak,Prak,male,89,28
+Mam,Mam,male,75,8
+Cham,Cham,male,100,3
+Khieu,Khieu,male,100,3
+Sar,Sar,male,63,8
+Keut,Keut,unknown,50,2
+Ith,Ith,male,75,8
+Chea,Chea,male,79,160
+Suy,Suy,male,83,18
+Chhay,Chhay,male,80,44
+Chea,Chea,male,79,160
+Sun,Sun,male,75,61
+Men,Men,male,87,23
+Ouk,Ouk,male,66,35
+Vorng,Vorng,male,67,3
+Thong,Thong,male,92,12
+Lim,Lim,male,80,105
+Chea,Chea,male,79,160
+Chum,Chum,male,79,19
+Sovann,Sovann,male,88,56
+Bater,Bater,male,100,3
+Cheong,Cheong,male,65,17
+Javier Augusto  Olade,Javier Augusto,male,99,2364
+Ines Maria  Waugh,Ines Maria,female,97,100
+Livan Nicolas  Cruz,Livan Nicolas,male,100,23
+Manuel Santiago  Martinez,Manuel Santiago,male,100,85
+Marta Elena  Cabrera,Marta Elena,female,98,40
+Marta Sabina  Gonzalez,Marta,female,95,20
+Margrethe,Margrethe,female,100,31
+Raquel  Rodriguez,Raquel Rodriguez,female,96,103
+Limber,Limber,male,96,84
+Carlos Luciano  Morfa,Carlos Luciano,male,99,871
+Miguel  Hatton,Miguel,male,100,483
+Antonio  Reynoso,Antonio,male,99,192
+Orlando Jorge,Orlando Jorge,male,99,399
+Jochy,Jochy,male,100,13
+Franklin  Fermin,Franklin Fermin,male,99,226
+Victor Ito,Victor,male,100,423
+Jesus  Chu   Martinez,Jesus Martinez,male,99,183
+Luis Miguel,Luis Miguel,male,99,78
+Lisandro,Lisandro,male,100,20
+Dario  Lugo,Dario,male,100,43
+Plutarco,Plutarco,male,75,4
+Deligne  Burgos,Deligne  Burgos,male,72,43
+Mayra,Mayra,female,98,55
+Kimberly,Kimberly,female,100,22
+Miriam  Brito,Miriam,female,100,33
+Sonia,Sonia,female,95,63
+Mswati,Mswati,male,100,9
+Annika,Annika,female,95,216
+Roselyne,Roselyne,female,98,1444
+Amelie de,Amelie De,female,100,9
+Emmanuelle,Emmanuelle,female,97,7183
+Nadia,Nadia,female,98,10647
+Gariel,Gariel,male,100,2
+Mahfud,Mahfud,male,99,155
+Pratikno,Pratikno,male,100,9
+St,St,female,63,75
+Naruhito,Naruhito,male,100,8
+Kajiyama,Kajiyama,male,75,4
+Abdallah,Abdallah,male,99,335
+Letsie,Letsie,male,100,4
+Henri,Henri,male,100,44
+Mohammed,Mohammed,male,98,7673
+Willem-alexander,Willem-Alexander,male,99,4257
+Harald,Harald,male,99,321
+Amin-ul Haq,Haq,male,97,77
+Syed Fakhar Imam,Syed Fakhar Imam,male,98,4099
+Babar,Babar,male,99,974
+Asad,Asad,male,99,3572
+Reza Baqir,Reza Baqir,male,100,64
+Munir,Munir,male,98,333
+Jorge Luis  Cresta,Jorge Luis,male,99,5213
+Luis Miguel  Zevallos,Luis Miguel,male,100,4510
+Javier Eduardo  Gallegos,Javier Eduardo,male,100,2082
+Antonia Rosario  Morales,Antonia Rosario,female,99,346
+Savalenoa Mareva Betham,Mareva,female,96,134
+S.,S.,male,86,7
+K.,K.,male,83,6
+K.,K.,male,83,6
+Felipe,Felipe,male,98,4897
+Mahindananda,,,,
+G.,G.,male,75,4
+Udaya,Udaya,male,100,119
+Pavithradevi,,,,
+Mohammed Ali,Mohammed Ali,male,100,455
+S.,S.,male,96,23
+Keheliya,Keheliya,male,75,4
+Rohitha,Rohitha,male,98,42
+Dullas,Dullas,male,100,3
+Namal,Namal,male,99,137
+Gamini,Gamini,male,99,120
+Vasudeva,Vasudeva,male,93,91
+C.,C.,male,100,2
+W.,W.,male,80,260
+Carl,Carl,male,99,1145
+Wachiralongkon,,,,
+Phanmichao,,,,
+Nakhasai,,,,
+Daochai,,,,
+Laothammathat,,,,
+Chomklin,,,,
+Santipraphob,,,,
+Tupou,Tupou,female,100,3
+Elizabeth,Elizabeth,female,98,3122
+J.,J.,male,82,2236
+Philippe,Philippe,male,99,5802
+Win,Win,male,82,2318
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Henry,Henry,male,99,32139
+Han,Han,male,72,4580
+Myo,Myo,male,87,1074
+Win,Win,male,82,2318
+Naing,Naing,male,90,440
+Aung,Aung,male,93,2546
+Myint,Myint,male,80,343
+Ohn,Ohn,male,60,62
+Khin,Khin,female,72,713
+Pe,Pe,male,60,895
+Kyaw,Kyaw,male,96,2103
+Thaung,Thaung,male,96,46
+Thein,Thein,male,92,294
+Ohn,Ohn,male,60,62
+Kyaw,Kyaw,male,96,2103
+Min,Min,male,65,4933
+Soe,Soe,male,82,968
+Aung,Aung,male,93,2546
+Win,Win,male,82,2318
+Thant,Thant,male,87,199
+Aung,Aung,male,93,2546
+Kyaw,Kyaw,male,96,2103
+Aung,Aung,male,93,2546
+Hau,Hau,male,72,720
+Hun,Hun,male,85,40
+BIN CHHIN,Bin Chhin,male,70,20
+Aung,Aung,male,100,2
+Chea,Chea,male,79,160
+Hor,Hor,male,87,15
+Ke,Ke,male,83,12
+Kong,Kong,male,74,105
+Men,Men,male,87,23
+Nhek,Nhek,male,75,4
+Sar,Sar,male,63,8
+Prak,Prak,male,89,28
+Yim,Yim,male,92,26
+BIN CHHIN,Bin Chhin,male,70,20
+Veng,Veng,male,85,13
+Prum,Prum,female,56,9
+Pan,Pan,male,86,7
+Chhit,Chhit,male,100,2
+Phoeung,Phoeung,male,75,4
+Aun,Aun,unknown,50,6
+Hang,,,,
+Say,Say,male,91,23
+Prak,Prak,male,89,28
+Mam,Mam,male,75,8
+Cham,Cham,male,100,3
+Khieu,Khieu,male,100,3
+Sar,Sar,male,63,8
+Keut,Keut,unknown,50,2
+Ith,Ith,male,75,8
+Chea,Chea,male,79,160
+Suy,Suy,male,83,18
+Chhay,Chhay,male,80,44
+Chea,Chea,male,79,160
+Sun,Sun,male,75,61
+Men,Men,male,87,23
+Ouk,Ouk,male,66,35
+Vorng,Vorng,male,67,3
+Thong,Thong,male,92,12
+Lim,Lim,male,80,105
+Chea,Chea,male,79,160
+Chum,Chum,male,79,19
+Sovann,Sovann,male,88,56
+Bater,Bater,male,100,3
+Cheong,Cheong,male,65,17
+Tomo,Tomo,male,100,93
+Vili,Vili,male,100,9
+Margrethe,Margrethe,female,100,31
+Muhammad Ahmad,Muhammad Ahmad,male,99,3997
+Mu'taz,Mutaz,male,100,13
+Mswati,Mswati,male,100,9
+Mohamed Irfaan,Mohamed,male,100,4
+Vacant,Vacant,male,86,7
+Bharrat,Bharrat,male,75,4
+Zulfikar,Zulfikar,male,98,595
+Priya,Priya,female,100,8
+Hugh,Hugh,male,75,4
+Gail,Gail,female,75,4
+Robeson,Robeson,male,100,13
+Vindhya,Vindhya,female,91,131
+Bishop Juan,Bishop Juan,male,98,106066
+Oneidge Walrond,,,,
+Mahfud,Mahfud,male,99,155
+Pratikno,Pratikno,male,100,9
+St,St,female,63,75
+Mustafa al,Mustafa Al,male,100,4
+Muhammad Karim al,Muhammad Karim Al,male,96,337
+Arkan Shihab Ahmad,Arkan Shihab Ahmad,male,98,1072
+Nazinin Muhammad Wassaw Shaykh,Muhammad,male,99,160
+Jumah Inad Sadun al,Al,male,91,117
+Ali Hamid,Ali Hamid,male,97,6067
+Majid Mahdi,Majid Mahdi,male,98,267
+Ali Abd al-Amir,Ali Abd,male,97,6138
+Hasan Muhammad Abbas,Hasan Muhammad Abbas,male,99,948
+Nabil Kadhim Abd al,Nabil Kadhim Abd Al,male,95,343
+Manhal Aziz,Manhal Aziz,male,100,104
+Uthman al,Al,male,91,117
+Salar Abd al-Sattar,Salar Abd,male,97,242
+Adil Hashush Jabir,Adil Jabir,male,96,128
+Ihsan Abd al,Ihsan Abd Al,male,95,304
+Khalid Battal Najim,Khalid Najim,male,99,267
+Alla al,Alla Al,male,89,133
+Nasir Husayn Bandar,Nasir,male,92,24
+Mahdi Rashid,Mahdi Rashid,male,99,174
+Adnan Dirjal Matar,Adnan,male,99,234
+Pearnel,Pearnel,male,75,4
+Dr  Horace,Horace,male,100,19
+Floyd,Floyd,male,100,10
+Fayval,,,,
+Dr  Nigel,Nigel,male,100,17
+Daryl,Daryl,male,100,5
+Matthew,Matthew,male,100,55
+Everald,Everald,male,100,3
+Aubyn,Aubyn,male,100,2
+Dr  Richard,Richard,male,100,133
+Naruhito,Naruhito,male,100,8
+Katsunobu,Katsunobu,male,100,2
+Kotaro,Kotaro,male,100,184
+Nobuo,Nobuo,male,100,72
+Norihisa,Norihisa,male,100,27
+Yoko,Yoko,female,96,431
+Tetsushi,Tetsushi,male,100,27
+Katsuei,Katsuei,male,75,4
+Shinji,Shinji,male,99,394
+Hachiro,Hachiro,male,100,3
+Takuya,Takuya,male,100,1004
+Kajiyama,Kajiyama,male,75,4
+Abdallah,Abdallah,male,99,335
+Letsie,Letsie,male,100,4
+Henri,Henri,male,100,44
+Silvio,Silvio,male,96,55
+Owen,Owen,male,100,39
+Clint,Clint,male,98,82
+Byron,Byron,male,67,3
+Edward  Lewis,Edward Lewis,male,96,82
+Roderick,Roderick,male,100,82
+Julia  Portelli,Julia,female,100,20
+Vanessa,Vanessa,female,100,50
+Mohammed,Mohammed,male,98,7673
+Willem-alexander,Willem-Alexander,male,99,4257
+Harald,Harald,male,99,321
+al-Fadhl bin Muhammad bin Ahmad al-Harthi,Bin Muhammad Bin Ahmad Al-Harthi,male,96,500
+Cesar  Vargas,Cesar Vargas,male,99,1293
+S.,S.,male,86,7
+K.,K.,male,83,6
+K.,K.,male,83,6
+Athian Ding,Athian Ding,male,70,668
+Felipe,Felipe,male,98,4897
+G.,G.,male,75,4
+S.,S.,male,96,23
+C.,C.,male,100,2
+W.,W.,male,80,260
+Carl,Carl,male,99,1145
+Hussain,Hussain,male,100,12
+Salam Muhammad al,Salam Muhammad Al,male,92,263
+Muhammad Hassan,Muhammad Hassan,male,98,481
+Iyad Muhammad al,Iyad Muhammad Al,male,98,267
+Lubana,Lubana,female,75,4
+Muhammad Samir Abdalrahman al,Muhammad Samir Abdalrahman Al,male,99,308
+Daram,Daram,female,75,4
+Ghassan al,Ghassan Al,male,98,126
+Kinan,Kinan,male,97,74
+Bassam Bashir,Bassam Bashir,male,99,174
+Ziyad,Ziyad,male,100,8
+Imad Abdallah,Imad Abdallah,male,97,146
+Mohammad Khalid al,Mohammad Khalid Al,male,99,755
+Suhail Muhammad,Suhail Muhammad,male,99,205
+Muhammad Rami Radwan,Muhammad Rami Radwan,male,98,646
+Zuhair,Zuhair,male,100,6
+Tammam,Tammam,male,100,38
+Muhammad Fayaz al,Muhammad Al,male,98,222
+Muhammad Samir,Muhammad Samir,male,99,277
+Malul al,Al,male,96,23
+Hazim,Hazim,male,100,3
+Wachiralongkon,,,,
+Tupou,Tupou,female,100,3
+Saloua,Saloua,female,98,90
+Othman,Othman,male,98,95
+Olfa Ben,Olfa Ben,female,95,42
+Leila,Leila,female,97,554
+Moez,Moez,male,99,1552
+Imen,Imen,female,97,1970
+Thouraya,Thouraya,female,98,126
+Hasna Ben,Hasna Ben,male,77,844
+Khalil,Khalil,male,99,1123
+Sihem,Sihem,female,99,342
+Ubaid Humaid al,Ubaid Humaid Al,male,96,509
+Elizabeth,Elizabeth,female,98,3122
+Noris,Noris,female,100,43
+Magaly,Magaly,female,97,104
+Delcy Eloina  Gomez,Eloina,female,100,6
+Yamiliet Mirabel,Mirabel,female,89,454
+Mirelys,Mirelys,female,100,8
+Greicys,Greicys,female,75,4
+Carolys,Carolys,female,75,4
+Mervin,Mervin,male,100,37
